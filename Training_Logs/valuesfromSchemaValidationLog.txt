@@ -1,0 +1,2 @@
+2024-06-08/12:20:29		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 17
+
