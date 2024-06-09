@@ -1,3 +1,4 @@
+#from wsgrief import simple_server 
 from flask import Flask,request,render_template
 from flask import Response
 import os 
@@ -9,7 +10,9 @@ import json
 os.putenv('LANG', 'en-US.UTF-8')
 os.putenv('LC_ALL', 'en-US.UTF-8')
 
-
+# path='D:\ACADEMIC\ML Projects\Booking cancellation\Training_Data_Files'
+# train_valObj=train_validation(path) #Initializing the validation object
+# train_valObj.train_validation() #Calling the validation
 app=Flask(__name__)
 dashboard.bind(app) 
 CORS(app)

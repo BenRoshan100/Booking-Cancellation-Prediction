@@ -1,0 +1,1815 @@
+Booking_ID,number of adults,number of children,number of weekend nights,number of week nights,type of meal,car parking space,room type,lead time,market segment type,repeated,P-C,P-not-C,average price,special requests,date of reservation,booking status
+INN25402,2,0,0,2,Meal Plan 1,0,Room_Type 1,87,Online,0,0,0,93.6,2,12/16/2018,Not_Canceled
+INN25403,2,0,0,1,Meal Plan 1,0,Room_Type 1,107,Online,0,0,0,76.5,0,8/12/2017,Not_Canceled
+INN25404,2,0,0,3,Meal Plan 1,0,Room_Type 4,40,Offline,0,0,0,75.0,0,10/28/2017,Not_Canceled
+INN25405,1,0,1,1,Meal Plan 1,0,Room_Type 1,45,Online,0,0,0,86.4,0,11/19/2018,Canceled
+INN25406,1,0,2,4,Meal Plan 1,0,Room_Type 1,69,Offline,0,0,0,120.0,0,6/12/2018,Canceled
+INN25407,2,0,1,2,Meal Plan 1,0,Room_Type 1,57,Offline,0,0,0,90.67,1,6/10/2018,Not_Canceled
+INN25408,2,2,2,1,Meal Plan 1,0,Room_Type 6,34,Online,0,0,0,207.9,0,9/17/2018,Canceled
+INN25409,1,0,0,2,Meal Plan 1,0,Room_Type 1,192,Offline,0,0,0,95.0,0,6/24/2018,Not_Canceled
+INN25410,1,0,0,1,Meal Plan 1,1,Room_Type 1,41,Corporate,1,1,11,88.0,1,12/20/2018,Not_Canceled
+INN25411,1,0,0,1,Meal Plan 1,0,Room_Type 4,18,Online,0,0,0,156.0,0,5/13/2018,Canceled
+INN25412,2,0,2,0,Meal Plan 1,0,Room_Type 4,53,Online,0,0,0,96.3,1,2/28/2018,Canceled
+INN25413,2,0,1,3,Meal Plan 1,0,Room_Type 1,67,Online,0,0,0,75.95,0,3/10/2018,Not_Canceled
+INN25414,2,0,0,3,Meal Plan 1,0,Room_Type 1,37,Offline,0,0,0,105.0,0,10/13/2018,Not_Canceled
+INN25415,3,0,2,2,Meal Plan 1,0,Room_Type 4,204,Online,0,0,0,137.0,0,10/18/2017,Canceled
+INN25416,2,0,1,1,Meal Plan 1,1,Room_Type 1,77,Online,0,0,0,125.1,1,6/18/2018,Not_Canceled
+INN25417,2,0,0,1,Meal Plan 2,0,Room_Type 1,100,Offline,0,0,0,108.0,0,10/16/2017,Canceled
+INN25418,2,0,2,1,Meal Plan 2,0,Room_Type 1,110,Offline,0,0,0,94.5,0,7/25/2017,Not_Canceled
+INN25419,2,0,0,1,Not Selected,0,Room_Type 1,51,Online,0,0,0,107.1,0,7/6/2018,Canceled
+INN25420,2,0,2,3,Meal Plan 1,1,Room_Type 4,136,Online,0,0,0,117.29,1,5/29/2018,Not_Canceled
+INN25421,2,0,2,0,Meal Plan 1,0,Room_Type 4,3,Offline,0,0,0,78.2,0,12/6/2017,Not_Canceled
+INN25422,2,1,0,1,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,138.0,0,3/31/2018,Not_Canceled
+INN25423,2,0,2,7,Meal Plan 1,0,Room_Type 4,57,Online,0,0,0,114.66,1,4/21/2018,Not_Canceled
+INN25424,2,0,1,1,Meal Plan 1,0,Room_Type 1,28,Online,0,0,0,94.35,0,6/13/2018,Canceled
+INN25425,2,0,2,5,Meal Plan 1,0,Room_Type 1,188,Online,0,0,0,90.95,0,7/28/2018,Canceled
+INN25426,2,0,0,4,Meal Plan 1,0,Room_Type 4,30,Online,0,0,0,144.8,1,10/4/2018,Not_Canceled
+INN25427,3,0,2,1,Meal Plan 1,0,Room_Type 4,116,Offline,0,0,0,96.56,0,8/6/2018,Canceled
+INN25428,2,1,0,3,Meal Plan 1,0,Room_Type 1,4,Online,0,0,0,147.33,2,12/28/2018,Not_Canceled
+INN25429,2,1,2,3,Meal Plan 1,0,Room_Type 1,56,Online,0,0,0,115.09,2,4/24/2018,Not_Canceled
+INN25430,2,0,1,1,Meal Plan 1,0,Room_Type 1,8,Online,0,0,0,82.39,1,11/7/2017,Not_Canceled
+INN25431,3,0,0,3,Meal Plan 1,0,Room_Type 4,14,Online,0,0,0,186.0,2,5/12/2018,Not_Canceled
+INN25432,2,0,1,1,Meal Plan 1,0,Room_Type 1,275,Offline,0,0,0,62.8,0,6/4/2018,Canceled
+INN25433,2,0,1,3,Meal Plan 1,0,Room_Type 1,66,Online,0,0,0,118.8,1,10/17/2018,Not_Canceled
+INN25434,1,0,0,1,Meal Plan 1,0,Room_Type 1,3,Complementary,0,0,0,0.0,0,10/1/2017,Not_Canceled
+INN25435,2,0,0,3,Not Selected,0,Room_Type 1,70,Online,0,0,0,78.3,1,2/11/2018,Canceled
+INN25436,1,0,0,3,Meal Plan 1,0,Room_Type 1,113,Corporate,0,0,0,100.0,0,5/31/2018,Canceled
+INN25437,2,0,2,2,Meal Plan 1,0,Room_Type 1,64,Online,0,0,0,71.6,0,3/5/2018,Not_Canceled
+INN25438,1,0,1,0,Meal Plan 1,0,Room_Type 1,13,Online,0,0,0,115.0,1,8/1/2018,Not_Canceled
+INN25439,2,0,2,1,Not Selected,0,Room_Type 1,48,Online,0,0,0,88.5,1,4/17/2018,Not_Canceled
+INN25440,2,1,2,2,Meal Plan 1,0,Room_Type 1,123,Online,0,0,0,135.15,2,6/17/2018,Canceled
+INN25441,2,0,1,2,Meal Plan 1,0,Room_Type 2,43,Online,0,0,0,69.52,0,2/5/2018,Canceled
+INN25442,3,0,1,2,Meal Plan 1,0,Room_Type 4,89,Online,0,0,0,137.7,0,7/25/2018,Canceled
+INN25443,2,0,0,3,Not Selected,0,Room_Type 4,1,Online,0,0,0,121.33,1,9/3/2017,Not_Canceled
+INN25444,2,0,1,3,Meal Plan 1,0,Room_Type 1,63,Online,0,0,0,99.9,3,6/20/2018,Not_Canceled
+INN25445,2,0,1,3,Meal Plan 1,0,Room_Type 1,9,Online,0,0,0,155.0,1,10/17/2018,Not_Canceled
+INN25446,2,0,0,3,Meal Plan 1,0,Room_Type 1,20,Online,0,0,0,136.67,2,9/29/2017,Not_Canceled
+INN25447,2,0,1,0,Not Selected,0,Room_Type 1,1,Online,0,0,0,98.0,0,8/9/2017,Not_Canceled
+INN25448,1,0,1,0,Meal Plan 1,0,Room_Type 1,6,Online,0,0,0,206.0,1,9/27/2017,Not_Canceled
+INN25449,1,0,2,3,Meal Plan 1,0,Room_Type 1,5,Corporate,0,0,0,84.0,0,11/13/2018,Not_Canceled
+INN25450,2,0,2,2,Meal Plan 1,0,Room_Type 1,215,Online,0,0,0,94.35,1,12/30/2018,Canceled
+INN25451,2,0,1,2,Meal Plan 1,0,Room_Type 1,73,Online,0,0,0,76.5,0,7/13/2017,Canceled
+INN25452,2,0,0,3,Not Selected,0,Room_Type 1,2,Online,0,0,0,84.0,1,1/6/2018,Not_Canceled
+INN25453,1,0,0,1,Meal Plan 1,0,Room_Type 1,99,Corporate,0,0,0,81.0,0,2/19/2018,Not_Canceled
+INN25454,2,0,0,2,Meal Plan 1,0,Room_Type 1,301,Offline,0,0,0,52.0,0,11/18/2018,Canceled
+INN25455,0,2,0,1,Meal Plan 1,0,Room_Type 2,193,Online,0,0,0,86.5,0,7/15/2018,Canceled
+INN25456,2,0,1,3,Meal Plan 1,0,Room_Type 4,184,Online,0,0,0,128.7,2,10/17/2018,Canceled
+INN25457,2,1,0,3,Meal Plan 1,0,Room_Type 1,21,Online,0,0,0,139.0,0,5/31/2018,Canceled
+INN25458,2,0,1,2,Meal Plan 1,0,Room_Type 1,60,Online,0,0,0,78.3,0,2/5/2018,Not_Canceled
+INN25459,2,0,2,2,Meal Plan 1,0,Room_Type 1,15,Online,0,0,0,104.5,1,12/4/2017,Not_Canceled
+INN25460,2,0,1,1,Not Selected,0,Room_Type 1,30,Online,0,0,0,82.08,0,10/17/2017,Not_Canceled
+INN25461,2,0,2,3,Meal Plan 1,0,Room_Type 1,192,Offline,0,0,0,102.0,0,9/25/2017,Canceled
+INN25462,2,0,0,4,Meal Plan 1,0,Room_Type 1,33,Offline,0,0,0,85.5,0,4/5/2018,Not_Canceled
+INN25463,1,1,1,4,Meal Plan 1,0,Room_Type 1,69,Online,0,0,0,135.15,2,5/9/2018,Not_Canceled
+INN25464,2,0,0,2,Meal Plan 1,0,Room_Type 1,12,Online,0,0,0,12.0,1,8/25/2017,Not_Canceled
+INN25465,2,0,1,0,Not Selected,0,Room_Type 1,54,Online,0,0,0,85.5,0,4/18/2018,Canceled
+INN25466,2,0,1,0,Not Selected,0,Room_Type 1,179,Online,0,0,0,85.5,1,7/17/2018,Canceled
+INN25467,2,0,2,1,Meal Plan 1,0,Room_Type 1,5,Offline,0,0,0,71.8,0,12/5/2017,Not_Canceled
+INN25468,2,0,1,0,Not Selected,0,Room_Type 1,31,Online,0,0,0,94.5,0,4/24/2018,Canceled
+INN25469,2,0,2,5,Not Selected,0,Room_Type 1,107,Online,0,0,0,76.69,1,12/21/2018,Not_Canceled
+INN25470,2,0,1,4,Meal Plan 2,0,Room_Type 4,146,Online,0,0,0,166.5,2,10/19/2018,Not_Canceled
+INN25471,2,0,1,1,Meal Plan 2,0,Room_Type 1,7,Offline,0,0,0,112.0,1,5/21/2018,Not_Canceled
+INN25472,2,0,0,3,Meal Plan 1,0,Room_Type 1,213,Offline,0,0,0,130.0,0,6/7/2018,Canceled
+INN25473,1,0,0,1,Meal Plan 1,0,Room_Type 1,37,Offline,0,0,0,67.5,0,11/12/2018,Not_Canceled
+INN25474,1,0,0,3,Meal Plan 1,0,Room_Type 1,113,Corporate,0,0,0,100.0,0,5/31/2018,Canceled
+INN25475,2,1,1,4,Not Selected,0,Room_Type 1,90,Online,0,0,0,88.74,0,12/26/2018,Canceled
+INN25476,2,0,0,2,Not Selected,0,Room_Type 1,8,Online,0,0,0,139.0,2,8/11/2018,Not_Canceled
+INN25477,2,0,1,4,Meal Plan 1,0,Room_Type 1,56,Offline,0,0,0,55.38,0,3/2/2018,Not_Canceled
+INN25478,2,0,0,1,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,99.0,1,8/11/2017,Not_Canceled
+INN25479,1,0,3,7,Meal Plan 1,0,Room_Type 1,3,Corporate,1,4,46,65.0,0,9/26/2018,Not_Canceled
+INN25480,1,0,1,3,Meal Plan 1,0,Room_Type 1,10,Offline,0,0,0,87.0,0,2/22/2018,Not_Canceled
+INN25481,2,0,0,4,Meal Plan 1,0,Room_Type 1,169,Online,0,0,0,90.9,0,10/25/2018,Canceled
+INN25482,3,0,1,2,Meal Plan 1,0,Room_Type 4,58,Online,0,0,0,159.3,2,6/10/2018,Not_Canceled
+INN25483,2,0,0,4,Meal Plan 1,0,Room_Type 4,163,Online,0,0,0,99.45,1,6/29/2018,Not_Canceled
+INN25484,1,0,0,1,Meal Plan 1,0,Room_Type 1,45,Online,0,0,0,94.5,2,10/20/2017,Not_Canceled
+INN25485,1,0,0,1,Meal Plan 1,0,Room_Type 1,1,Corporate,0,0,0,79.0,0,2/13/2018,Not_Canceled
+INN25486,1,0,1,3,Meal Plan 1,1,Room_Type 1,5,Online,0,0,0,135.0,0,10/19/2017,Not_Canceled
+INN25487,1,0,0,1,Meal Plan 1,0,Room_Type 1,1,Corporate,0,0,0,84.0,0,7/26/2018,Not_Canceled
+INN25488,1,0,0,1,Meal Plan 1,0,Room_Type 1,17,Offline,0,0,0,95.0,0,10/30/2017,Not_Canceled
+INN25489,2,0,0,3,Meal Plan 1,0,Room_Type 1,41,Online,0,0,0,117.9,1,3/31/2018,Not_Canceled
+INN25490,1,0,0,3,Meal Plan 2,0,Room_Type 1,88,Offline,0,0,0,96.0,0,5/3/2018,Not_Canceled
+INN25491,3,0,0,2,Meal Plan 1,0,Room_Type 4,41,Online,0,0,0,140.0,1,11/18/2018,Not_Canceled
+INN25492,3,0,0,4,Meal Plan 1,0,Room_Type 4,109,Online,0,0,0,152.1,0,8/24/2018,Canceled
+INN25493,2,0,0,2,Meal Plan 2,0,Room_Type 1,74,Offline,0,0,0,101.5,0,9/18/2017,Not_Canceled
+INN25494,2,2,2,2,Meal Plan 1,0,Room_Type 1,51,Online,0,0,0,150.3,3,7/3/2018,Not_Canceled
+INN25495,2,0,2,5,Meal Plan 1,0,Room_Type 5,49,Offline,1,1,0,91.44,0,2/22/2018,Canceled
+INN25496,2,0,1,0,Not Selected,0,Room_Type 1,93,Online,0,0,0,85.5,1,6/26/2018,Not_Canceled
+INN25497,2,0,1,0,Not Selected,0,Room_Type 1,49,Online,0,0,0,93.15,0,7/11/2018,Canceled
+INN25498,2,0,0,3,Not Selected,0,Room_Type 1,140,Online,0,0,0,108.0,2,10/11/2018,Canceled
+INN25499,0,2,1,2,Meal Plan 1,0,Room_Type 2,145,Online,0,0,0,106.32,0,8/15/2018,Not_Canceled
+INN25500,2,1,2,4,Meal Plan 1,0,Room_Type 1,47,Online,0,0,0,106.53,2,3/31/2018,Not_Canceled
+INN25501,3,0,2,1,Meal Plan 1,0,Room_Type 4,85,Online,0,0,0,134.7,2,6/26/2018,Not_Canceled
+INN25502,2,0,2,1,Meal Plan 1,0,Room_Type 1,282,Offline,0,0,0,76.67,0,10/10/2017,Not_Canceled
+INN25503,2,0,1,2,Meal Plan 1,0,Room_Type 1,92,Online,0,0,0,117.9,2,8/26/2018,Not_Canceled
+INN25504,2,0,0,2,Not Selected,0,Room_Type 1,0,Online,0,0,0,63.76,0,10/21/2018,Not_Canceled
+INN25505,2,0,1,3,Meal Plan 1,0,Room_Type 1,113,Offline,0,0,0,85.0,0,6/30/2018,Canceled
+INN25506,2,0,2,8,Not Selected,0,Room_Type 1,16,Online,0,0,0,75.99,0,12/7/2018,Not_Canceled
+INN25507,2,0,2,1,Meal Plan 1,1,Room_Type 1,53,Online,0,0,0,117.9,1,6/19/2018,Not_Canceled
+INN25508,2,0,0,2,Meal Plan 1,0,Room_Type 1,24,Online,0,0,0,80.85,1,9/3/2017,Not_Canceled
+INN25509,2,0,0,2,Meal Plan 1,0,Room_Type 1,141,Online,0,0,0,96.3,1,7/1/2018,Not_Canceled
+INN25510,3,0,0,5,Meal Plan 1,0,Room_Type 4,142,Online,0,0,0,136.85,1,7/5/2018,Not_Canceled
+INN25511,2,0,0,3,Meal Plan 1,0,Room_Type 1,133,Online,0,0,0,105.3,2,7/12/2018,Not_Canceled
+INN25512,3,0,2,2,Meal Plan 1,0,Room_Type 4,113,Online,0,0,0,134.3,2,7/10/2018,Not_Canceled
+INN25513,2,0,1,2,Meal Plan 1,0,Room_Type 1,418,Offline,0,0,0,75.0,0,9/26/2018,Canceled
+INN25514,2,0,0,2,Meal Plan 2,0,Room_Type 1,320,Offline,0,0,0,115.0,1,8/18/2018,Canceled
+INN25515,2,0,2,1,Meal Plan 2,0,Room_Type 1,23,Offline,0,0,0,109.0,1,1/2/2018,Not_Canceled
+INN25516,3,0,3,7,Meal Plan 1,0,Room_Type 4,205,Online,0,0,0,117.64,0,12/23/2018,Not_Canceled
+INN25517,1,0,0,2,Meal Plan 1,0,Room_Type 1,0,Complementary,1,0,13,0.0,2,1/13/2018,Not_Canceled
+INN25518,2,0,1,0,Meal Plan 1,0,Room_Type 1,63,Online,0,0,0,89.25,0,9/6/2017,Not_Canceled
+INN25519,2,0,0,2,Meal Plan 1,0,Room_Type 1,19,Online,0,0,0,114.73,1,10/5/2018,Not_Canceled
+INN25520,2,0,2,3,Meal Plan 1,0,Room_Type 1,244,Online,0,0,0,85.85,0,10/30/2018,Canceled
+INN25521,2,0,0,2,Meal Plan 1,0,Room_Type 4,75,Online,0,0,0,140.4,0,5/26/2018,Canceled
+INN25522,2,0,2,3,Meal Plan 1,0,Room_Type 1,13,Offline,0,0,0,63.58,0,3/13/2018,Not_Canceled
+INN25523,2,0,1,1,Not Selected,0,Room_Type 1,31,Online,0,0,0,116.1,0,3/26/2018,Canceled
+INN25524,1,0,0,2,Meal Plan 1,0,Room_Type 1,164,Offline,0,0,0,100.0,0,10/2/2017,Not_Canceled
+INN25525,2,0,1,2,Meal Plan 1,0,Room_Type 4,31,Offline,0,0,0,75.0,0,10/26/2017,Not_Canceled
+INN25526,2,0,1,5,Meal Plan 1,0,Room_Type 4,3,Online,0,0,0,72.75,1,11/9/2017,Not_Canceled
+INN25527,2,0,0,2,Meal Plan 1,0,Room_Type 1,211,Offline,0,0,0,100.0,0,5/20/2018,Canceled
+INN25528,1,0,0,2,Meal Plan 1,0,Room_Type 1,188,Offline,0,0,0,130.0,0,6/15/2018,Canceled
+INN25529,2,0,0,3,Meal Plan 1,0,Room_Type 1,163,Offline,0,0,0,112.0,1,7/14/2018,Canceled
+INN25530,1,0,0,1,Meal Plan 1,1,Room_Type 1,1,Corporate,1,1,0,67.0,0,5/18/2018,Not_Canceled
+INN25531,2,0,0,3,Meal Plan 1,0,Room_Type 4,0,Online,0,0,0,101.0,0,1/19/2018,Not_Canceled
+INN25532,2,0,0,3,Meal Plan 2,0,Room_Type 1,150,Offline,0,0,0,90.0,1,6/16/2018,Not_Canceled
+INN25533,3,0,1,1,Meal Plan 1,0,Room_Type 6,48,Online,0,0,0,158.0,1,10/22/2018,Not_Canceled
+INN25534,1,0,0,3,Meal Plan 1,0,Room_Type 1,8,Online,1,1,0,120.0,2,10/20/2017,Not_Canceled
+INN25535,2,0,2,1,Meal Plan 1,0,Room_Type 2,73,Online,0,0,0,71.52,1,2/21/2018,Not_Canceled
+INN25536,1,0,0,2,Meal Plan 1,0,Room_Type 1,14,Offline,0,0,0,100.0,0,10/15/2017,Not_Canceled
+INN25537,2,0,0,5,Meal Plan 1,0,Room_Type 1,43,Offline,0,0,0,68.0,0,11/1/2018,Not_Canceled
+INN25538,2,0,2,1,Meal Plan 1,0,Room_Type 4,142,Online,0,0,0,114.3,0,5/22/2018,Not_Canceled
+INN25539,1,0,1,0,Meal Plan 1,0,Room_Type 1,5,Corporate,1,0,6,65.0,1,6/13/2018,Not_Canceled
+INN25540,2,0,0,3,Meal Plan 1,0,Room_Type 1,43,Offline,0,0,0,75.0,0,11/8/2018,Not_Canceled
+INN25541,1,0,0,3,Meal Plan 1,0,Room_Type 1,101,Offline,0,0,0,80.0,0,10/13/2018,Not_Canceled
+INN25542,1,0,1,0,Meal Plan 1,0,Room_Type 1,2,Online,0,0,0,86.0,0,2/7/2018,Not_Canceled
+INN25543,1,0,1,0,Not Selected,0,Room_Type 1,31,Offline,0,0,0,63.0,0,11/7/2018,Not_Canceled
+INN25544,2,2,1,1,Meal Plan 1,0,Room_Type 6,15,Online,0,0,0,153.0,0,8/29/2017,Canceled
+INN25545,1,0,0,1,Meal Plan 1,0,Room_Type 1,3,Corporate,0,0,0,31.0,1,2/26/2018,Not_Canceled
+INN25546,2,0,0,1,Meal Plan 1,0,Room_Type 1,31,Online,0,0,0,81.9,0,3/9/2018,Canceled
+INN25547,2,0,2,1,Meal Plan 1,0,Room_Type 1,221,Offline,0,0,0,65.0,0,10/17/2017,Not_Canceled
+INN25548,1,0,0,1,Meal Plan 1,0,Room_Type 4,1,Offline,0,0,0,46.0,0,1/30/2018,Not_Canceled
+INN25549,1,0,0,3,Meal Plan 1,0,Room_Type 1,174,Offline,0,0,0,95.67,0,9/22/2018,Not_Canceled
+INN25550,2,0,0,4,Not Selected,0,Room_Type 1,4,Online,0,0,0,67.58,2,12/20/2018,Not_Canceled
+INN25551,1,0,0,1,Meal Plan 1,0,Room_Type 1,28,Offline,0,0,0,130.0,0,10/29/2017,Not_Canceled
+INN25552,3,0,0,2,Meal Plan 1,0,Room_Type 1,119,Online,0,0,0,146.7,2,6/29/2018,Not_Canceled
+INN25553,2,0,0,2,Meal Plan 1,0,Room_Type 1,89,Online,0,0,0,135.9,0,9/2/2018,Canceled
+INN25554,2,0,0,4,Meal Plan 1,0,Room_Type 1,183,Online,0,0,0,93.08,1,8/24/2018,Canceled
+INN25555,2,0,1,3,Meal Plan 1,0,Room_Type 4,102,Online,0,0,0,132.6,1,5/5/2018,Not_Canceled
+INN25556,1,0,0,3,Meal Plan 1,0,Room_Type 4,27,Online,0,0,0,120.0,0,9/17/2017,Not_Canceled
+INN25557,2,0,0,3,Meal Plan 1,0,Room_Type 1,304,Offline,0,0,0,89.0,0,11/3/2018,Canceled
+INN25558,2,0,0,1,Meal Plan 1,0,Room_Type 1,40,Online,0,0,0,76.92,0,6/21/2018,Canceled
+INN25559,2,0,0,1,Not Selected,0,Room_Type 1,4,Online,0,0,0,88.0,0,12/7/2018,Not_Canceled
+INN25560,2,0,1,1,Meal Plan 2,0,Room_Type 1,247,Offline,0,0,0,115.0,1,6/6/2018,Canceled
+INN25561,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Offline,0,0,0,85.0,0,10/30/2017,Not_Canceled
+INN25562,2,0,0,1,Meal Plan 1,0,Room_Type 1,56,Offline,0,0,0,120.0,0,6/8/2018,Not_Canceled
+INN25563,2,0,1,0,Meal Plan 1,0,Room_Type 4,23,Offline,0,0,0,92.0,0,11/6/2018,Not_Canceled
+INN25564,2,0,0,4,Meal Plan 1,0,Room_Type 4,92,Online,0,0,0,89.25,2,7/15/2017,Canceled
+INN25565,2,0,0,1,Meal Plan 1,0,Room_Type 1,31,Online,0,0,0,80.3,1,2/5/2018,Not_Canceled
+INN25566,2,0,1,2,Meal Plan 1,0,Room_Type 4,14,Offline,0,0,0,98.67,1,10/30/2017,Not_Canceled
+INN25567,2,0,0,2,Meal Plan 1,0,Room_Type 1,119,Online,0,0,0,114.3,1,8/16/2018,Not_Canceled
+INN25568,2,0,3,7,Not Selected,0,Room_Type 1,261,Online,0,0,0,68.51,0,12/26/2018,Canceled
+INN25569,2,0,0,2,Meal Plan 1,0,Room_Type 1,1,Online,0,0,0,106.0,3,8/20/2017,Not_Canceled
+INN25570,3,0,1,0,Meal Plan 1,0,Room_Type 4,67,Online,0,0,0,168.3,1,9/12/2018,Canceled
+INN25571,3,0,1,4,Meal Plan 1,0,Room_Type 1,114,Online,0,0,0,109.8,2,12/28/2017,Canceled
+INN25572,1,0,0,1,Meal Plan 1,0,Room_Type 1,163,Offline,0,0,0,115.0,0,10/15/2018,Canceled
+INN25573,1,0,0,3,Not Selected,0,Room_Type 1,1,Online,0,0,0,78.0,2,12/14/2018,Not_Canceled
+INN25574,2,0,0,1,Meal Plan 1,0,Room_Type 1,182,Online,0,0,0,96.3,2,7/28/2018,Canceled
+INN25575,2,0,1,4,Meal Plan 1,0,Room_Type 1,97,Online,0,0,0,117.9,1,8/8/2018,Not_Canceled
+INN25576,1,0,1,2,Meal Plan 1,0,Room_Type 1,219,Offline,0,0,0,76.67,0,9/4/2017,Not_Canceled
+INN25577,2,0,2,5,Meal Plan 1,0,Room_Type 4,46,Online,0,0,0,140.4,1,5/12/2018,Not_Canceled
+INN25578,2,0,0,2,Meal Plan 1,0,Room_Type 4,51,Online,0,0,0,102.6,1,11/4/2017,Not_Canceled
+INN25579,2,0,1,2,Meal Plan 1,0,Room_Type 1,20,Offline,0,0,0,80.0,0,11/14/2018,Not_Canceled
+INN25580,2,0,2,3,Meal Plan 1,0,Room_Type 4,41,Offline,0,0,0,60.0,1,11/8/2017,Not_Canceled
+INN25581,2,0,0,1,Not Selected,0,Room_Type 1,225,Online,0,0,0,67.5,0,11/25/2018,Canceled
+INN25582,1,0,0,3,Meal Plan 1,0,Room_Type 1,5,Aviation,0,0,0,95.0,0,4/20/2018,Not_Canceled
+INN25583,2,0,1,0,Meal Plan 1,0,Room_Type 1,92,Online,0,0,0,96.3,0,6/27/2018,Canceled
+INN25584,2,0,1,3,Meal Plan 1,0,Room_Type 1,8,Online,0,0,0,112.5,0,4/7/2018,Not_Canceled
+INN25585,2,0,2,3,Meal Plan 1,0,Room_Type 1,168,Offline,0,0,0,72.25,2,8/12/2018,Not_Canceled
+INN25586,1,0,0,1,Not Selected,0,Room_Type 1,7,Online,0,0,0,129.0,1,9/20/2018,Canceled
+INN25587,2,0,1,2,Meal Plan 1,0,Room_Type 4,15,Online,1,0,1,164.0,0,9/26/2018,Not_Canceled
+INN25588,3,0,2,2,Meal Plan 1,0,Room_Type 1,186,Offline,0,0,0,96.9,1,7/22/2018,Not_Canceled
+INN25589,2,1,0,3,Meal Plan 1,0,Room_Type 1,104,Online,0,0,0,143.1,0,6/9/2018,Canceled
+INN25590,2,0,1,1,Meal Plan 1,0,Room_Type 1,60,Online,0,0,0,126.9,1,5/21/2018,Not_Canceled
+INN25591,2,1,0,3,Meal Plan 1,0,Room_Type 1,56,Online,0,0,0,109.8,1,12/8/2018,Not_Canceled
+INN25592,3,0,0,1,Meal Plan 1,0,Room_Type 4,55,Online,0,0,0,137.7,0,4/12/2018,Canceled
+INN25593,1,0,2,7,Meal Plan 1,0,Room_Type 1,215,Online,0,0,0,90.95,1,7/29/2018,Not_Canceled
+INN25594,2,0,2,1,Meal Plan 2,0,Room_Type 1,110,Offline,0,0,0,94.5,0,7/25/2017,Canceled
+INN25595,2,0,1,2,Meal Plan 1,0,Room_Type 1,305,Offline,0,0,0,89.0,0,11/4/2018,Canceled
+INN25596,2,0,2,0,Not Selected,0,Room_Type 1,3,Online,0,0,0,113.0,2,6/26/2018,Not_Canceled
+INN25597,3,0,2,6,Meal Plan 1,0,Room_Type 4,150,Online,0,0,0,126.86,1,6/30/2018,Canceled
+INN25598,2,0,1,2,Meal Plan 1,0,Room_Type 4,36,Online,0,0,0,61.75,1,2/12/2018,Not_Canceled
+INN25599,2,0,1,2,Meal Plan 1,0,Room_Type 1,121,Offline,0,0,0,90.0,0,6/24/2018,Canceled
+INN25600,2,1,0,1,Meal Plan 1,0,Room_Type 1,195,Online,0,0,0,121.5,0,8/13/2018,Canceled
+INN25601,2,0,1,4,Meal Plan 1,0,Room_Type 4,103,Online,0,0,0,96.05,0,4/6/2018,Not_Canceled
+INN25602,1,0,1,3,Meal Plan 1,0,Room_Type 1,118,Offline,0,0,0,110.0,0,6/6/2018,Not_Canceled
+INN25603,1,0,0,2,Meal Plan 1,0,Room_Type 1,13,Online,0,0,0,85.0,1,2/18/2018,Not_Canceled
+INN25604,2,0,0,1,Not Selected,0,Room_Type 1,1,Online,0,0,0,89.0,1,4/8/2018,Not_Canceled
+INN25605,2,0,1,1,Meal Plan 1,1,Room_Type 1,44,Online,0,0,0,95.4,0,9/21/2017,Not_Canceled
+INN25606,2,0,0,4,Meal Plan 1,0,Room_Type 1,270,Offline,0,0,0,62.8,0,4/20/2018,Canceled
+INN25607,1,0,1,0,Meal Plan 1,0,Room_Type 1,111,Offline,0,0,0,120.0,0,10/10/2018,Canceled
+INN25608,2,0,1,2,Meal Plan 1,0,Room_Type 1,305,Offline,0,0,0,89.0,0,11/4/2018,Canceled
+INN25609,2,0,2,3,Meal Plan 1,0,Room_Type 1,256,Online,0,0,0,100.75,0,10/16/2018,Canceled
+INN25610,1,0,1,2,Meal Plan 1,0,Room_Type 6,63,Online,0,0,0,193.68,0,11/7/2018,Not_Canceled
+INN25611,2,0,0,2,Meal Plan 2,0,Room_Type 1,320,Offline,0,0,0,115.0,1,8/18/2018,Canceled
+INN25612,1,0,0,2,Meal Plan 1,0,Room_Type 1,79,Offline,0,0,0,70.0,0,11/13/2017,Not_Canceled
+INN25613,2,0,0,1,Meal Plan 1,0,Room_Type 4,150,Online,0,0,0,109.8,1,8/27/2018,Not_Canceled
+INN25614,2,0,0,2,Meal Plan 1,0,Room_Type 1,72,Online,0,0,0,89.25,0,9/16/2017,Canceled
+INN25615,2,1,0,5,Meal Plan 1,0,Room_Type 1,76,Online,0,0,0,135.15,0,5/31/2018,Canceled
+INN25616,2,0,2,2,Meal Plan 1,0,Room_Type 1,8,Online,0,0,0,90.0,0,8/16/2017,Not_Canceled
+INN25617,2,0,2,2,Meal Plan 1,0,Room_Type 4,148,Online,0,0,0,108.16,1,5/29/2018,Not_Canceled
+INN25618,2,0,0,1,Meal Plan 1,1,Room_Type 1,148,Online,0,0,0,105.3,0,4/28/2018,Not_Canceled
+INN25619,2,0,0,3,Meal Plan 1,0,Room_Type 1,89,Online,0,0,0,80.3,0,3/3/2018,Not_Canceled
+INN25620,2,0,0,1,Not Selected,0,Room_Type 1,31,Online,0,0,0,88.0,2,11/19/2018,Not_Canceled
+INN25621,2,0,2,3,Meal Plan 1,0,Room_Type 1,268,Offline,0,0,0,80.75,0,10/9/2018,Not_Canceled
+INN25622,2,0,0,3,Meal Plan 1,0,Room_Type 1,12,Corporate,0,0,0,65.0,0,8/5/2017,Not_Canceled
+INN25623,2,0,0,3,Meal Plan 1,0,Room_Type 1,2,Online,0,0,0,98.0,2,8/12/2017,Not_Canceled
+INN25624,2,0,1,3,Meal Plan 1,0,Room_Type 4,203,Online,0,0,0,102.85,2,12/29/2018,Not_Canceled
+INN25625,2,0,0,1,Meal Plan 1,0,Room_Type 1,56,Offline,0,0,0,120.0,0,6/8/2018,Not_Canceled
+INN25626,3,0,1,2,Meal Plan 1,0,Room_Type 4,147,Online,0,0,0,151.2,0,10/7/2018,Not_Canceled
+INN25627,2,0,1,1,Meal Plan 2,0,Room_Type 1,247,Offline,0,0,0,115.0,1,6/6/2018,Canceled
+INN25628,2,0,2,2,Not Selected,0,Room_Type 1,161,Online,0,0,0,95.2,1,4/29/2018,Not_Canceled
+INN25629,2,0,2,2,Meal Plan 1,0,Room_Type 2,45,Online,0,0,0,76.77,0,10/24/2017,Not_Canceled
+INN25630,2,1,2,1,Meal Plan 1,0,Room_Type 1,26,Online,0,0,0,161.0,0,10/17/2017,Not_Canceled
+INN25631,2,0,0,4,Meal Plan 1,0,Room_Type 1,49,Offline,0,0,0,71.0,0,12/30/2017,Not_Canceled
+INN25632,2,0,0,2,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,95.1,0,10/28/2017,Not_Canceled
+INN25633,1,0,2,4,Meal Plan 1,0,Room_Type 4,91,Online,0,0,0,132.6,1,10/23/2018,Not_Canceled
+INN25634,1,0,2,1,Not Selected,0,Room_Type 1,34,Online,0,0,0,98.1,1,5/22/2018,Not_Canceled
+INN25635,2,0,1,2,Meal Plan 1,0,Room_Type 1,74,Offline,0,0,0,58.0,0,2/15/2018,Not_Canceled
+INN25636,1,0,0,2,Meal Plan 1,0,Room_Type 1,151,Offline,0,0,0,71.0,0,1/19/2018,Not_Canceled
+INN25637,1,0,1,2,Meal Plan 1,0,Room_Type 1,63,Corporate,0,0,0,130.0,1,5/16/2018,Canceled
+INN25638,2,1,2,8,Meal Plan 1,0,Room_Type 1,136,Online,0,0,0,117.36,0,8/23/2018,Canceled
+INN25639,3,0,1,1,Meal Plan 1,0,Room_Type 4,59,Online,0,0,0,168.3,0,9/24/2018,Canceled
+INN25640,2,0,1,1,Not Selected,0,Room_Type 1,25,Online,0,0,0,154.0,1,10/17/2018,Not_Canceled
+INN25641,2,0,1,3,Not Selected,0,Room_Type 1,33,Online,0,0,0,99.0,0,4/14/2018,Not_Canceled
+INN25642,2,0,1,3,Meal Plan 1,0,Room_Type 1,97,Online,0,0,0,64.98,1,3/24/2018,Not_Canceled
+INN25643,2,1,2,2,Meal Plan 1,0,Room_Type 4,56,Online,0,0,0,152.1,0,7/30/2018,Canceled
+INN25644,2,0,2,5,Meal Plan 1,0,Room_Type 1,64,Offline,0,0,0,88.4,1,7/28/2017,Not_Canceled
+INN25645,2,0,2,5,Not Selected,0,Room_Type 1,20,Online,0,0,0,77.71,0,11/11/2018,Canceled
+INN25646,2,0,1,0,Not Selected,0,Room_Type 1,4,Online,0,0,0,87.2,0,8/1/2018,Not_Canceled
+INN25647,2,1,2,5,Not Selected,0,Room_Type 1,157,Online,0,0,0,72.15,1,5/29/2018,Not_Canceled
+INN25648,2,1,1,3,Meal Plan 1,0,Room_Type 1,107,Online,0,0,0,152.1,0,9/15/2018,Canceled
+INN25649,2,0,1,1,Meal Plan 1,0,Room_Type 1,60,Offline,0,0,0,65.0,1,10/12/2017,Not_Canceled
+INN25650,2,0,0,3,Meal Plan 2,0,Room_Type 1,88,Offline,0,0,0,117.0,1,5/3/2018,Not_Canceled
+INN25651,1,0,0,2,Meal Plan 2,0,Room_Type 1,68,Offline,0,0,0,58.0,0,9/29/2017,Not_Canceled
+INN25652,2,0,2,5,Meal Plan 1,0,Room_Type 1,84,Online,0,0,0,82.45,0,3/29/2018,Not_Canceled
+INN25653,1,0,0,2,Meal Plan 1,0,Room_Type 1,12,Corporate,0,0,0,130.0,0,10/20/2017,Not_Canceled
+INN25654,1,0,0,2,Meal Plan 1,0,Room_Type 1,164,Offline,0,0,0,100.0,0,10/2/2017,Not_Canceled
+INN25655,1,0,0,4,Not Selected,0,Room_Type 1,2,Online,0,0,0,134.0,0,10/19/2018,Not_Canceled
+INN25656,1,0,1,2,Meal Plan 1,0,Room_Type 1,1,Offline,0,0,0,70.0,0,6/17/2018,Not_Canceled
+INN25657,2,0,0,3,Meal Plan 1,1,Room_Type 1,37,Online,0,0,0,126.6,1,3/24/2018,Not_Canceled
+INN25658,1,0,0,3,Meal Plan 1,0,Room_Type 1,151,Offline,0,0,0,71.0,0,1/19/2018,Not_Canceled
+INN25659,2,0,1,2,Meal Plan 2,0,Room_Type 1,418,Offline,0,0,0,107.0,0,9/26/2018,Canceled
+INN25660,2,0,1,2,Meal Plan 1,0,Room_Type 1,41,Offline,0,0,0,76.5,0,8/15/2018,Not_Canceled
+INN25661,2,0,1,0,Not Selected,0,Room_Type 1,0,Online,0,0,0,79.0,0,2/7/2018,Not_Canceled
+INN25662,2,0,1,4,Not Selected,0,Room_Type 1,196,Online,0,0,0,80.75,1,8/3/2018,Not_Canceled
+INN25663,2,0,2,2,Meal Plan 1,0,Room_Type 1,2,Online,0,0,0,93.0,0,1/24/2018,Not_Canceled
+INN25664,2,1,1,3,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,111.65,2,9/21/2017,Not_Canceled
+INN25665,1,0,0,2,Meal Plan 2,0,Room_Type 1,256,Offline,0,0,0,90.0,0,6/15/2018,Not_Canceled
+INN25666,1,0,0,2,Meal Plan 1,0,Room_Type 1,14,Offline,0,0,0,100.0,0,10/15/2017,Not_Canceled
+INN25667,3,0,2,1,Meal Plan 1,0,Room_Type 6,15,Online,0,0,0,182.14,0,10/1/2018,Not_Canceled
+INN25668,2,0,1,2,Meal Plan 1,0,Room_Type 1,41,Online,0,0,0,105.9,2,10/16/2017,Not_Canceled
+INN25669,2,0,2,1,Meal Plan 1,0,Room_Type 1,10,Online,0,0,0,124.33,1,6/26/2018,Not_Canceled
+INN25670,1,0,0,1,Meal Plan 1,0,Room_Type 1,86,Online,0,0,0,85.5,1,4/27/2018,Not_Canceled
+INN25671,2,2,1,2,Meal Plan 2,0,Room_Type 6,11,Online,0,0,0,306.0,0,9/16/2018,Canceled
+INN25672,1,0,0,1,Meal Plan 1,0,Room_Type 1,15,Corporate,0,0,0,81.0,0,2/19/2018,Not_Canceled
+INN25673,2,0,2,8,Meal Plan 1,0,Room_Type 1,150,Online,0,0,0,101.15,1,7/14/2018,Canceled
+INN25674,1,0,1,1,Meal Plan 1,0,Room_Type 1,12,Online,0,0,0,145.0,1,7/11/2018,Not_Canceled
+INN25675,2,0,2,1,Meal Plan 1,0,Room_Type 1,75,Offline,0,0,0,75.0,0,4/24/2018,Not_Canceled
+INN25676,2,1,0,3,Meal Plan 1,0,Room_Type 1,30,Online,0,0,0,98.1,0,3/10/2018,Canceled
+INN25677,3,0,2,0,Meal Plan 1,0,Room_Type 4,171,Online,0,0,0,123.3,1,10/30/2018,Canceled
+INN25678,2,0,1,3,Not Selected,0,Room_Type 1,6,Online,0,0,0,66.3,0,12/15/2018,Not_Canceled
+INN25679,1,0,2,2,Meal Plan 1,0,Room_Type 1,162,Offline,0,0,0,115.0,0,10/14/2018,Canceled
+INN25680,2,0,1,1,Meal Plan 2,0,Room_Type 1,88,Offline,0,0,0,112.2,0,10/5/2017,Not_Canceled
+INN25681,2,0,0,3,Meal Plan 1,0,Room_Type 1,26,Online,0,0,0,91.0,1,3/16/2018,Not_Canceled
+INN25682,2,0,0,5,Meal Plan 1,0,Room_Type 1,248,Online,0,0,0,80.75,0,12/27/2018,Not_Canceled
+INN25683,2,0,1,2,Meal Plan 1,0,Room_Type 1,42,Offline,0,0,0,65.0,0,3/4/2018,Not_Canceled
+INN25684,1,0,2,4,Meal Plan 1,0,Room_Type 1,7,Online,0,0,0,103.0,0,3/11/2018,Canceled
+INN25685,2,0,2,1,Meal Plan 1,0,Room_Type 1,31,Offline,0,0,0,69.0,0,1/2/2018,Not_Canceled
+INN25686,2,0,2,5,Meal Plan 1,0,Room_Type 1,155,Online,0,0,0,101.88,1,7/17/2018,Canceled
+INN25687,3,0,2,1,Meal Plan 1,0,Room_Type 1,209,Online,0,0,0,127.8,2,8/7/2018,Canceled
+INN25688,1,0,0,1,Meal Plan 1,0,Room_Type 1,19,Online,0,0,0,135.0,0,5/7/2018,Not_Canceled
+INN25689,1,0,0,2,Not Selected,0,Room_Type 1,1,Online,0,0,0,99.33,1,7/5/2018,Not_Canceled
+INN25690,2,0,0,4,Meal Plan 1,0,Room_Type 1,189,Online,0,0,0,76.5,3,8/11/2017,Not_Canceled
+INN25691,1,0,1,1,Meal Plan 1,0,Room_Type 1,4,Corporate,0,0,0,79.0,0,8/1/2018,Not_Canceled
+INN25692,2,0,0,1,Not Selected,0,Room_Type 1,3,Online,0,0,0,75.0,1,1/5/2018,Not_Canceled
+INN25693,2,0,2,2,Not Selected,0,Room_Type 1,82,Online,0,0,0,107.1,1,8/14/2018,Canceled
+INN25694,2,0,0,3,Meal Plan 1,0,Room_Type 1,304,Offline,0,0,0,89.0,0,11/3/2018,Canceled
+INN25695,1,0,0,2,Meal Plan 1,1,Room_Type 1,0,Corporate,0,0,0,55.0,1,3/2/2018,Not_Canceled
+INN25696,1,0,0,2,Meal Plan 1,0,Room_Type 1,19,Corporate,0,0,0,90.0,0,6/22/2018,Not_Canceled
+INN25697,2,0,0,3,Meal Plan 1,0,Room_Type 1,22,Online,0,0,0,80.3,1,1/28/2018,Not_Canceled
+INN25698,2,0,1,0,Meal Plan 1,0,Room_Type 1,286,Offline,0,0,0,90.0,0,10/16/2018,Canceled
+INN25699,2,0,2,3,Meal Plan 1,0,Room_Type 1,224,Online,0,0,0,82.11,0,12/29/2018,Canceled
+INN25700,2,0,1,1,Meal Plan 2,0,Room_Type 1,301,Offline,0,0,0,115.0,1,7/30/2018,Canceled
+INN25701,2,0,1,3,Not Selected,0,Room_Type 1,45,Online,0,0,0,63.75,0,3/7/2018,Canceled
+INN25702,2,0,1,5,Meal Plan 2,0,Room_Type 4,59,Online,0,0,0,171.0,2,9/6/2018,Not_Canceled
+INN25703,2,0,2,0,Not Selected,0,Room_Type 1,84,Online,0,0,0,80.1,2,10/30/2018,Not_Canceled
+INN25704,2,0,1,4,Meal Plan 2,0,Room_Type 4,97,Online,0,0,0,143.14,2,12/26/2018,Not_Canceled
+INN25705,2,0,1,2,Not Selected,0,Room_Type 1,44,Online,0,0,0,125.1,1,8/22/2018,Not_Canceled
+INN25706,2,0,1,0,Meal Plan 1,0,Room_Type 1,5,Online,0,0,0,109.0,1,6/26/2018,Not_Canceled
+INN25707,2,0,0,3,Meal Plan 1,0,Room_Type 1,88,Online,0,0,0,126.9,1,6/2/2018,Not_Canceled
+INN25708,2,0,0,1,Not Selected,0,Room_Type 1,6,Online,0,0,0,80.0,1,2/20/2018,Not_Canceled
+INN25709,2,0,1,2,Meal Plan 1,0,Room_Type 1,78,Offline,0,0,0,100.0,0,3/25/2018,Canceled
+INN25710,2,0,1,3,Meal Plan 1,0,Room_Type 1,12,Corporate,0,0,0,100.0,0,10/12/2017,Not_Canceled
+INN25711,2,0,0,2,Meal Plan 1,0,Room_Type 1,177,Offline,0,0,0,100.0,0,6/3/2018,Canceled
+INN25712,2,0,1,1,Not Selected,0,Room_Type 1,3,Online,0,0,0,109.0,1,8/1/2018,Not_Canceled
+INN25713,2,1,0,3,Meal Plan 1,0,Room_Type 1,106,Offline,0,0,0,91.89,1,7/13/2018,Not_Canceled
+INN25714,2,0,2,2,Meal Plan 1,0,Room_Type 1,60,Offline,0,0,0,75.0,0,3/20/2018,Canceled
+INN25715,2,2,1,4,Meal Plan 2,0,Room_Type 6,13,Online,0,0,0,260.4,2,4/11/2018,Not_Canceled
+INN25716,2,1,0,1,Meal Plan 1,0,Room_Type 1,11,Online,0,0,0,150.0,1,11/5/2018,Canceled
+INN25717,1,0,2,1,Meal Plan 1,0,Room_Type 1,20,Offline,0,0,0,90.0,0,5/22/2018,Not_Canceled
+INN25718,2,0,2,8,Meal Plan 1,0,Room_Type 1,122,Online,0,0,0,101.15,1,7/14/2018,Not_Canceled
+INN25719,2,0,2,1,Meal Plan 1,0,Room_Type 1,144,Offline,0,0,0,71.0,0,4/24/2018,Not_Canceled
+INN25720,2,0,0,1,Not Selected,0,Room_Type 1,0,Online,0,0,0,79.0,0,2/4/2018,Canceled
+INN25721,1,0,1,1,Meal Plan 1,0,Room_Type 4,5,Aviation,0,0,0,110.0,0,9/12/2018,Canceled
+INN25722,2,0,0,2,Meal Plan 1,0,Room_Type 1,86,Offline,0,0,0,105.0,0,9/24/2017,Not_Canceled
+INN25723,2,0,0,3,Meal Plan 1,0,Room_Type 1,213,Offline,0,0,0,130.0,0,6/7/2018,Canceled
+INN25724,2,0,0,4,Not Selected,0,Room_Type 1,46,Online,0,0,0,74.8,1,11/22/2018,Canceled
+INN25725,1,0,0,1,Meal Plan 1,0,Room_Type 1,6,Corporate,0,0,0,79.0,0,11/24/2018,Not_Canceled
+INN25726,1,0,0,1,Meal Plan 1,0,Room_Type 1,1,Corporate,0,0,0,65.0,0,9/2/2017,Not_Canceled
+INN25727,2,0,1,3,Not Selected,0,Room_Type 1,165,Online,0,0,0,85.0,1,7/18/2018,Canceled
+INN25728,3,0,2,5,Meal Plan 2,0,Room_Type 1,141,Offline,0,0,0,96.9,1,7/12/2018,Not_Canceled
+INN25729,1,0,0,1,Meal Plan 1,0,Room_Type 1,4,Online,0,0,0,121.0,1,8/2/2018,Not_Canceled
+INN25730,2,0,1,3,Meal Plan 1,0,Room_Type 1,78,Offline,0,0,0,110.0,0,5/19/2018,Not_Canceled
+INN25731,2,0,2,4,Meal Plan 1,0,Room_Type 1,175,Online,0,0,0,90.9,2,10/30/2018,Canceled
+INN25732,2,0,1,2,Meal Plan 1,0,Room_Type 1,174,Online,0,0,0,115.2,1,3/25/2018,Canceled
+INN25733,2,0,1,5,Meal Plan 1,0,Room_Type 1,122,Online,0,0,0,66.53,1,4/25/2018,Not_Canceled
+INN25734,2,0,1,2,Not Selected,0,Room_Type 1,63,Offline,0,0,0,63.75,0,8/15/2018,Not_Canceled
+INN25735,2,0,0,3,Meal Plan 1,0,Room_Type 4,8,Online,0,0,0,116.33,1,12/1/2018,Not_Canceled
+INN25736,2,0,0,5,Meal Plan 1,0,Room_Type 4,36,Online,0,0,0,131.4,1,6/28/2018,Not_Canceled
+INN25737,2,0,0,1,Not Selected,0,Room_Type 1,0,Online,0,0,0,79.0,1,2/26/2018,Not_Canceled
+INN25738,1,0,0,3,Meal Plan 1,0,Room_Type 1,42,Corporate,0,0,0,65.0,0,9/15/2017,Not_Canceled
+INN25739,3,0,0,3,Meal Plan 1,0,Room_Type 4,51,Online,0,0,0,159.3,0,5/17/2018,Canceled
+INN25740,2,0,0,2,Meal Plan 1,0,Room_Type 1,59,Offline,0,0,0,75.0,0,11/11/2018,Not_Canceled
+INN25741,1,0,2,3,Meal Plan 2,0,Room_Type 1,90,Offline,0,0,0,90.0,0,5/8/2018,Not_Canceled
+INN25742,1,0,0,3,Meal Plan 1,0,Room_Type 1,5,Corporate,0,0,0,80.0,0,12/1/2017,Not_Canceled
+INN25743,2,0,0,1,Meal Plan 1,0,Room_Type 1,48,Online,0,0,0,80.3,1,3/5/2018,Not_Canceled
+INN25744,2,0,0,2,Meal Plan 2,0,Room_Type 1,256,Offline,0,0,0,115.0,1,6/15/2018,Canceled
+INN25745,1,0,0,1,Meal Plan 1,0,Room_Type 1,8,Corporate,0,0,0,81.0,0,2/19/2018,Canceled
+INN25746,2,0,1,1,Meal Plan 1,0,Room_Type 1,235,Online,0,0,0,96.3,1,8/6/2018,Not_Canceled
+INN25747,1,0,0,2,Meal Plan 1,0,Room_Type 1,164,Offline,0,0,0,100.0,0,10/2/2017,Not_Canceled
+INN25748,2,0,0,1,Meal Plan 2,0,Room_Type 1,55,Offline,0,0,0,104.0,0,4/6/2018,Not_Canceled
+INN25749,2,0,2,3,Meal Plan 1,0,Room_Type 1,292,Online,0,0,0,91.79,0,12/30/2018,Canceled
+INN25750,2,0,2,1,Meal Plan 2,0,Room_Type 1,96,Offline,0,0,0,94.5,0,7/11/2017,Not_Canceled
+INN25751,2,0,1,1,Meal Plan 2,0,Room_Type 1,247,Offline,0,0,0,115.0,1,6/6/2018,Canceled
+INN25752,2,0,0,2,Meal Plan 1,0,Room_Type 4,240,Online,0,0,0,140.4,0,9/30/2018,Canceled
+INN25753,1,0,0,1,Meal Plan 2,0,Room_Type 1,57,Offline,0,0,0,86.0,0,6/10/2018,Not_Canceled
+INN25754,1,0,0,2,Meal Plan 1,0,Room_Type 1,188,Offline,0,0,0,130.0,0,6/15/2018,Canceled
+INN25755,2,0,1,3,Meal Plan 1,0,Room_Type 1,98,Offline,0,0,0,71.4,0,9/21/2017,Canceled
+INN25756,2,0,0,2,Meal Plan 2,0,Room_Type 1,102,Offline,0,0,0,101.5,0,10/16/2017,Canceled
+INN25757,2,0,2,5,Meal Plan 2,0,Room_Type 1,73,Online,0,0,0,88.29,1,12/20/2018,Not_Canceled
+INN25758,1,0,0,2,Meal Plan 1,0,Room_Type 1,5,Corporate,1,0,2,65.0,0,11/11/2017,Not_Canceled
+INN25759,2,0,1,4,Meal Plan 1,0,Room_Type 1,27,Online,0,0,0,106.02,2,10/5/2017,Not_Canceled
+INN25760,2,0,0,2,Meal Plan 1,0,Room_Type 1,21,Online,0,0,0,105.0,0,9/2/2017,Canceled
+INN25761,2,0,0,3,Meal Plan 1,0,Room_Type 1,314,Offline,0,0,0,75.0,0,10/12/2018,Canceled
+INN25762,2,0,2,1,Meal Plan 2,0,Room_Type 1,110,Offline,0,0,0,94.5,0,7/25/2017,Canceled
+INN25763,2,0,0,1,Meal Plan 1,0,Room_Type 1,56,Offline,0,0,0,120.0,0,6/8/2018,Not_Canceled
+INN25764,2,0,1,3,Meal Plan 1,0,Room_Type 1,76,Online,0,0,0,131.26,1,5/12/2018,Not_Canceled
+INN25765,2,0,2,1,Meal Plan 1,0,Room_Type 1,109,Online,0,0,0,114.3,0,7/3/2018,Canceled
+INN25766,1,0,2,5,Not Selected,0,Room_Type 1,23,Online,0,0,0,89.64,1,10/30/2018,Canceled
+INN25767,2,0,2,3,Not Selected,1,Room_Type 1,104,Online,0,0,0,96.55,1,4/28/2018,Not_Canceled
+INN25768,2,1,1,0,Meal Plan 1,0,Room_Type 1,10,Online,0,0,0,169.0,0,7/24/2018,Canceled
+INN25769,2,0,1,3,Meal Plan 1,0,Room_Type 1,10,Online,0,0,0,130.75,1,10/22/2017,Not_Canceled
+INN25770,2,0,2,0,Meal Plan 2,0,Room_Type 1,275,Offline,0,0,0,110.0,0,4/17/2018,Canceled
+INN25771,2,0,1,2,Meal Plan 1,0,Room_Type 1,14,Online,0,0,0,102.41,2,5/23/2018,Not_Canceled
+INN25772,2,1,0,1,Meal Plan 1,0,Room_Type 1,7,Online,0,0,0,107.03,3,8/31/2018,Not_Canceled
+INN25773,2,0,1,2,Meal Plan 2,0,Room_Type 1,418,Offline,0,0,0,107.0,0,9/26/2018,Canceled
+INN25774,1,0,1,3,Meal Plan 1,0,Room_Type 1,88,Online,0,0,0,167.4,1,11/7/2018,Not_Canceled
+INN25775,3,0,0,4,Meal Plan 1,0,Room_Type 4,174,Online,0,0,0,87.72,0,12/7/2018,Not_Canceled
+INN25776,2,3,0,1,Meal Plan 1,0,Room_Type 6,0,Online,0,0,0,168.3,2,8/27/2018,Not_Canceled
+INN25777,1,0,2,3,Meal Plan 1,0,Room_Type 1,115,Offline,0,0,0,76.0,0,2/27/2018,Not_Canceled
+INN25778,2,0,0,2,Meal Plan 1,0,Room_Type 4,9,Online,0,0,0,184.0,2,10/7/2018,Not_Canceled
+INN25779,2,0,0,5,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,146.4,2,9/8/2017,Not_Canceled
+INN25780,3,0,0,3,Meal Plan 1,0,Room_Type 1,42,Online,0,0,0,83.61,1,3/10/2018,Not_Canceled
+INN25781,3,0,1,3,Meal Plan 1,0,Room_Type 4,65,Online,0,0,0,159.3,0,8/29/2018,Canceled
+INN25782,1,0,1,3,Meal Plan 1,0,Room_Type 1,5,Aviation,0,0,0,95.0,0,4/11/2018,Not_Canceled
+INN25783,2,0,0,2,Meal Plan 2,0,Room_Type 1,39,Offline,0,0,0,109.0,0,8/14/2017,Not_Canceled
+INN25784,1,0,0,2,Meal Plan 1,0,Room_Type 1,0,Offline,0,0,0,100.0,0,10/15/2017,Not_Canceled
+INN25785,2,0,1,1,Meal Plan 1,0,Room_Type 4,35,Online,0,0,0,95.4,0,3/5/2018,Canceled
+INN25786,2,0,0,1,Not Selected,0,Room_Type 1,34,Online,0,0,0,99.0,1,9/2/2018,Canceled
+INN25787,1,0,2,1,Meal Plan 2,0,Room_Type 1,124,Offline,0,0,0,72.5,0,8/8/2017,Not_Canceled
+INN25788,2,0,0,0,Not Selected,0,Room_Type 1,33,Online,0,0,0,0.0,0,10/7/2017,Not_Canceled
+INN25789,2,0,0,1,Meal Plan 1,0,Room_Type 2,0,Online,0,0,0,12.0,0,3/24/2018,Not_Canceled
+INN25790,2,0,1,3,Meal Plan 1,0,Room_Type 1,53,Offline,0,0,0,68.0,0,11/14/2018,Not_Canceled
+INN25791,1,0,0,2,Meal Plan 1,0,Room_Type 1,191,Online,0,0,0,90.9,0,10/20/2018,Canceled
+INN25792,1,0,1,2,Meal Plan 1,0,Room_Type 1,219,Offline,0,0,0,76.67,0,9/4/2017,Not_Canceled
+INN25793,2,0,1,2,Meal Plan 1,0,Room_Type 1,124,Online,0,0,0,117.1,1,5/13/2018,Not_Canceled
+INN25794,2,0,0,1,Meal Plan 1,0,Room_Type 1,105,Offline,0,0,0,75.0,0,4/6/2018,Canceled
+INN25795,2,0,0,1,Not Selected,0,Room_Type 1,2,Online,0,0,0,95.0,1,11/4/2017,Not_Canceled
+INN25796,1,0,0,1,Meal Plan 1,0,Room_Type 1,2,Corporate,1,0,2,89.0,1,10/19/2018,Not_Canceled
+INN25797,1,0,0,3,Meal Plan 1,0,Room_Type 1,71,Offline,0,0,0,120.0,0,6/14/2018,Not_Canceled
+INN25798,2,0,0,4,Not Selected,0,Room_Type 1,37,Online,0,0,0,73.1,2,3/1/2018,Not_Canceled
+INN25799,2,0,2,1,Meal Plan 1,0,Room_Type 1,99,Offline,0,0,0,150.67,1,12/31/2018,Not_Canceled
+INN25800,2,0,1,3,Meal Plan 1,0,Room_Type 1,100,Online,0,0,0,89.25,1,10/15/2017,Not_Canceled
+INN25801,2,2,0,4,Meal Plan 1,0,Room_Type 6,25,Online,0,0,0,162.25,1,10/6/2017,Not_Canceled
+INN25802,1,0,0,1,Meal Plan 1,0,Room_Type 1,12,Online,0,0,0,135.0,0,5/7/2018,Canceled
+INN25803,1,0,0,2,Meal Plan 2,0,Room_Type 1,6,Online,0,0,0,0.0,0,12/10/2017,Not_Canceled
+INN25804,1,0,2,1,Meal Plan 1,0,Room_Type 1,30,Corporate,0,0,0,65.0,0,9/6/2017,Not_Canceled
+INN25805,2,0,0,3,Meal Plan 1,0,Room_Type 1,71,Online,0,0,0,135.9,0,9/6/2018,Canceled
+INN25806,2,0,0,2,Not Selected,0,Room_Type 1,129,Online,0,0,0,94.5,1,5/12/2018,Not_Canceled
+INN25807,2,0,1,0,Not Selected,0,Room_Type 1,45,Online,0,0,0,125.1,3,9/18/2018,Not_Canceled
+INN25808,2,0,1,0,Meal Plan 1,0,Room_Type 1,71,Online,0,0,0,75.54,0,10/30/2018,Canceled
+INN25809,3,0,0,4,Meal Plan 1,0,Room_Type 4,134,Online,0,0,0,133.2,0,8/23/2018,Canceled
+INN25810,2,0,0,3,Meal Plan 1,0,Room_Type 1,304,Offline,0,0,0,89.0,0,11/3/2018,Canceled
+INN25811,2,0,1,2,Meal Plan 1,0,Room_Type 1,91,Offline,0,0,0,80.0,0,9/30/2018,Not_Canceled
+INN25812,2,0,0,4,Meal Plan 1,0,Room_Type 4,35,Online,0,0,0,170.0,2,10/12/2018,Not_Canceled
+INN25813,2,0,2,0,Meal Plan 1,0,Room_Type 1,2,Online,0,0,0,101.0,1,4/17/2018,Not_Canceled
+INN25814,3,0,2,5,Meal Plan 1,0,Room_Type 4,187,Online,0,0,0,134.45,2,7/11/2018,Canceled
+INN25815,2,0,1,3,Meal Plan 1,0,Room_Type 1,250,Offline,0,0,0,95.0,0,9/26/2018,Canceled
+INN25816,2,0,2,3,Meal Plan 1,0,Room_Type 1,157,Online,0,0,0,75.27,0,8/21/2018,Canceled
+INN25817,2,0,0,2,Meal Plan 1,0,Room_Type 1,59,Online,0,0,0,93.6,0,12/23/2018,Canceled
+INN25818,2,0,2,3,Meal Plan 1,0,Room_Type 1,137,Offline,0,0,0,112.0,0,6/26/2018,Not_Canceled
+INN25819,2,0,1,2,Meal Plan 1,0,Room_Type 1,87,Online,0,0,0,89.25,1,9/18/2017,Not_Canceled
+INN25820,2,0,0,4,Meal Plan 1,0,Room_Type 1,110,Offline,0,0,0,70.0,0,12/9/2017,Not_Canceled
+INN25821,2,0,0,2,Meal Plan 2,0,Room_Type 1,292,Offline,0,0,0,112.0,0,7/21/2018,Canceled
+INN25822,2,0,2,3,Meal Plan 1,0,Room_Type 1,118,Online,0,0,0,90.95,1,4/10/2018,Not_Canceled
+INN25823,2,0,0,3,Meal Plan 1,0,Room_Type 1,105,Offline,0,0,0,75.0,0,10/12/2018,Not_Canceled
+INN25824,2,0,1,3,Meal Plan 1,0,Room_Type 4,89,Online,0,0,0,132.6,1,5/16/2018,Not_Canceled
+INN25825,2,0,1,1,Meal Plan 1,0,Room_Type 1,33,Online,0,0,0,83.9,0,3/5/2018,Not_Canceled
+INN25826,2,1,2,2,Meal Plan 1,0,Room_Type 4,21,Online,0,0,0,121.2,2,11/11/2018,Not_Canceled
+INN25827,2,0,0,3,Meal Plan 1,0,Room_Type 1,55,Online,0,0,0,93.6,3,11/24/2018,Not_Canceled
+INN25828,2,0,0,3,Meal Plan 1,0,Room_Type 4,38,Online,0,0,0,136.8,1,9/7/2018,Not_Canceled
+INN25829,1,0,0,1,Meal Plan 1,0,Room_Type 1,1,Corporate,0,0,0,79.0,0,11/14/2017,Not_Canceled
+INN25830,1,0,0,3,Meal Plan 1,0,Room_Type 1,113,Corporate,0,0,0,100.0,0,5/31/2018,Canceled
+INN25831,1,0,1,5,Meal Plan 1,0,Room_Type 1,349,Offline,0,0,0,80.0,0,10/4/2018,Canceled
+INN25832,2,0,2,3,Meal Plan 1,0,Room_Type 4,94,Offline,0,0,0,60.0,0,12/24/2017,Not_Canceled
+INN25833,2,0,1,3,Meal Plan 1,0,Room_Type 1,287,Online,0,0,0,100.3,0,9/29/2018,Canceled
+INN25834,1,0,2,1,Meal Plan 1,0,Room_Type 1,116,Offline,0,0,0,61.0,0,2/28/2018,Canceled
+INN25835,2,0,0,2,Meal Plan 1,0,Room_Type 1,12,Offline,0,0,0,80.0,0,1/19/2018,Not_Canceled
+INN25836,1,0,2,1,Meal Plan 1,0,Room_Type 1,1,Offline,0,0,0,60.0,0,2/28/2018,Canceled
+INN25837,2,0,0,3,Meal Plan 1,0,Room_Type 1,213,Offline,0,0,0,130.0,0,6/7/2018,Canceled
+INN25838,2,0,1,2,Not Selected,0,Room_Type 1,109,Online,0,0,0,107.1,1,8/12/2018,Not_Canceled
+INN25839,2,0,1,1,Meal Plan 1,0,Room_Type 1,60,Offline,0,0,0,48.0,0,9/21/2017,Canceled
+INN25840,3,0,2,2,Meal Plan 1,0,Room_Type 4,147,Online,0,0,0,127.93,1,7/3/2018,Not_Canceled
+INN25841,2,0,1,2,Meal Plan 1,0,Room_Type 1,57,Offline,0,0,0,90.67,1,6/10/2018,Not_Canceled
+INN25842,2,0,0,1,Meal Plan 1,0,Room_Type 1,151,Online,0,0,0,105.3,1,7/15/2018,Canceled
+INN25843,3,0,0,3,Meal Plan 1,0,Room_Type 4,2,Online,0,0,0,150.33,0,4/6/2018,Not_Canceled
+INN25844,2,0,2,2,Not Selected,0,Room_Type 1,91,Online,0,0,0,103.5,0,7/3/2018,Not_Canceled
+INN25845,2,0,0,4,Meal Plan 1,0,Room_Type 1,253,Offline,0,0,0,90.0,0,5/4/2018,Canceled
+INN25846,3,0,2,2,Meal Plan 1,0,Room_Type 4,45,Online,0,0,0,145.35,2,7/9/2018,Not_Canceled
+INN25847,1,0,0,1,Meal Plan 1,0,Room_Type 1,2,Complementary,1,0,1,0.0,0,1/27/2018,Not_Canceled
+INN25848,2,1,0,1,Meal Plan 1,0,Room_Type 1,16,Online,0,0,0,127.0,1,3/19/2018,Not_Canceled
+INN25849,3,0,0,2,Meal Plan 1,0,Room_Type 4,87,Online,0,0,0,166.85,1,7/5/2018,Not_Canceled
+INN25850,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Corporate,0,0,0,79.0,0,11/29/2018,Not_Canceled
+INN25851,1,0,0,2,Meal Plan 2,0,Room_Type 1,273,Offline,0,0,0,87.0,0,7/17/2017,Not_Canceled
+INN25852,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Offline,0,0,0,123.0,0,10/20/2017,Not_Canceled
+INN25853,2,0,0,2,Not Selected,0,Room_Type 1,45,Online,0,0,0,99.0,0,8/30/2018,Canceled
+INN25854,2,0,0,4,Meal Plan 2,0,Room_Type 1,296,Offline,0,0,0,117.0,1,9/21/2018,Canceled
+INN25855,1,0,0,1,Meal Plan 1,0,Room_Type 1,99,Corporate,0,0,0,81.0,0,2/19/2018,Not_Canceled
+INN25856,2,0,0,1,Not Selected,0,Room_Type 1,1,Online,0,0,0,139.0,1,7/21/2018,Not_Canceled
+INN25857,3,0,1,2,Meal Plan 1,0,Room_Type 4,220,Offline,0,0,0,115.6,1,9/16/2018,Canceled
+INN25858,2,0,0,2,Not Selected,0,Room_Type 1,24,Online,0,0,0,148.0,2,8/4/2018,Not_Canceled
+INN25859,1,0,0,4,Meal Plan 2,0,Room_Type 1,296,Offline,0,0,0,96.0,0,9/21/2018,Not_Canceled
+INN25860,1,0,0,1,Meal Plan 1,0,Room_Type 1,11,Online,0,0,0,95.0,2,9/11/2017,Not_Canceled
+INN25861,2,0,0,1,Meal Plan 1,0,Room_Type 1,39,Offline,0,0,0,65.0,1,12/27/2018,Not_Canceled
+INN25862,1,0,0,1,Meal Plan 1,0,Room_Type 4,1,Complementary,1,0,24,0.0,2,5/17/2018,Not_Canceled
+INN25863,2,0,2,2,Meal Plan 1,0,Room_Type 1,53,Offline,0,0,0,75.0,0,11/11/2018,Not_Canceled
+INN25864,1,0,0,1,Meal Plan 1,1,Room_Type 1,7,Corporate,1,0,8,79.0,1,11/16/2018,Not_Canceled
+INN25865,3,0,0,4,Meal Plan 1,1,Room_Type 4,14,Online,0,0,0,138.25,1,2/17/2018,Not_Canceled
+INN25866,2,0,1,3,Meal Plan 2,0,Room_Type 1,210,Offline,0,0,0,86.0,0,10/8/2017,Canceled
+INN25867,2,0,1,2,Not Selected,0,Room_Type 1,47,Online,0,0,0,71.1,1,3/11/2018,Not_Canceled
+INN25868,1,0,1,0,Meal Plan 1,0,Room_Type 1,12,Offline,0,0,0,72.0,0,10/4/2017,Not_Canceled
+INN25869,2,0,2,4,Meal Plan 1,0,Room_Type 1,105,Offline,0,0,0,72.25,0,8/26/2018,Canceled
+INN25870,2,0,1,2,Meal Plan 1,0,Room_Type 1,290,Offline,0,0,0,72.0,0,6/17/2018,Canceled
+INN25871,2,0,1,2,Meal Plan 1,0,Room_Type 1,193,Offline,0,0,0,120.0,0,6/20/2018,Canceled
+INN25872,2,1,1,3,Meal Plan 1,0,Room_Type 1,3,Online,0,0,0,129.0,2,3/21/2018,Not_Canceled
+INN25873,2,2,0,1,Meal Plan 1,0,Room_Type 6,36,Online,0,0,0,206.0,0,12/30/2018,Not_Canceled
+INN25874,2,0,1,2,Meal Plan 1,0,Room_Type 4,189,Online,0,0,0,109.8,0,10/28/2018,Canceled
+INN25875,1,0,0,1,Not Selected,0,Room_Type 1,0,Online,1,0,4,56.0,0,12/22/2018,Not_Canceled
+INN25876,1,0,0,2,Meal Plan 2,0,Room_Type 1,102,Offline,0,0,0,87.0,0,10/16/2017,Not_Canceled
+INN25877,2,0,0,3,Meal Plan 1,0,Room_Type 1,16,Corporate,0,0,0,75.0,0,12/8/2018,Not_Canceled
+INN25878,2,0,0,1,Meal Plan 2,0,Room_Type 1,100,Offline,0,0,0,108.0,0,10/16/2017,Canceled
+INN25879,2,0,2,3,Meal Plan 1,0,Room_Type 4,29,Online,0,0,0,101.52,2,3/5/2018,Not_Canceled
+INN25880,2,0,0,3,Meal Plan 1,0,Room_Type 1,172,Online,0,0,0,102.3,0,8/23/2018,Canceled
+INN25881,2,0,1,3,Meal Plan 1,0,Room_Type 1,8,Online,0,0,0,128.5,2,6/20/2018,Not_Canceled
+INN25882,1,0,2,2,Meal Plan 1,0,Room_Type 1,111,Online,0,0,0,109.65,1,6/17/2018,Not_Canceled
+INN25883,1,0,0,1,Meal Plan 1,0,Room_Type 1,6,Online,0,0,0,81.0,1,12/16/2017,Not_Canceled
+INN25884,2,0,2,3,Meal Plan 1,0,Room_Type 1,107,Online,0,0,0,99.45,2,4/30/2018,Not_Canceled
+INN25885,2,0,2,7,Meal Plan 1,0,Room_Type 1,190,Online,0,0,0,110.9,0,9/30/2018,Canceled
+INN25886,2,0,0,3,Meal Plan 1,0,Room_Type 1,147,Offline,0,0,0,95.0,0,6/2/2018,Canceled
+INN25887,2,0,0,3,Not Selected,0,Room_Type 1,19,Online,0,0,0,79.0,1,2/25/2018,Canceled
+INN25888,3,0,2,1,Meal Plan 2,0,Room_Type 1,117,Offline,0,0,0,138.5,0,8/1/2017,Not_Canceled
+INN25889,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Offline,0,0,0,45.0,1,10/28/2018,Not_Canceled
+INN25890,2,0,0,3,Meal Plan 1,0,Room_Type 1,279,Offline,0,0,0,110.0,0,10/12/2018,Canceled
+INN25891,1,0,0,2,Meal Plan 1,0,Room_Type 1,12,Offline,0,0,0,90.0,1,6/8/2018,Not_Canceled
+INN25892,2,0,0,2,Meal Plan 1,0,Room_Type 4,32,Online,0,0,0,149.4,0,3/25/2018,Canceled
+INN25893,2,0,0,1,Meal Plan 1,0,Room_Type 4,12,Online,0,0,0,108.0,1,2/27/2018,Not_Canceled
+INN25894,2,0,1,0,Meal Plan 1,0,Room_Type 1,20,Offline,0,0,0,85.0,1,8/29/2018,Not_Canceled
+INN25895,1,0,1,0,Meal Plan 1,0,Room_Type 1,5,Online,0,0,0,145.0,0,9/21/2017,Not_Canceled
+INN25896,3,0,2,1,Meal Plan 1,0,Room_Type 4,130,Online,0,0,0,122.4,3,11/12/2018,Not_Canceled
+INN25897,1,0,0,2,Meal Plan 2,0,Room_Type 1,273,Offline,0,0,0,87.0,0,7/17/2017,Not_Canceled
+INN25898,1,0,1,1,Meal Plan 1,0,Room_Type 1,32,Online,0,0,0,120.0,1,10/24/2017,Not_Canceled
+INN25899,2,0,0,1,Not Selected,0,Room_Type 1,95,Online,0,0,0,65.83,1,4/14/2018,Not_Canceled
+INN25900,3,0,0,2,Meal Plan 1,0,Room_Type 1,22,Offline,0,0,0,115.0,0,10/5/2018,Not_Canceled
+INN25901,2,0,1,2,Meal Plan 2,0,Room_Type 1,107,Online,0,0,0,124.2,1,11/4/2018,Canceled
+INN25902,2,1,0,3,Meal Plan 1,0,Room_Type 1,151,Online,0,0,0,143.28,1,12/29/2018,Canceled
+INN25903,2,0,2,2,Meal Plan 1,0,Room_Type 4,38,Offline,0,0,0,67.5,0,10/30/2017,Not_Canceled
+INN25904,2,0,1,2,Meal Plan 1,0,Room_Type 4,14,Online,0,0,0,136.0,1,10/5/2017,Not_Canceled
+INN25905,1,0,0,3,Meal Plan 1,0,Room_Type 1,166,Offline,0,0,0,110.0,0,11/1/2018,Canceled
+INN25906,2,0,2,5,Meal Plan 1,0,Room_Type 4,298,Online,0,0,0,79.59,1,10/9/2018,Not_Canceled
+INN25907,1,0,0,1,Not Selected,0,Room_Type 3,0,Complementary,0,0,0,0.0,0,12/31/2017,Not_Canceled
+INN25908,2,0,1,3,Meal Plan 1,0,Room_Type 1,219,Online,0,0,0,102.85,0,10/3/2018,Canceled
+INN25909,0,2,1,4,Meal Plan 1,0,Room_Type 2,32,Online,0,0,0,124.25,0,9/12/2018,Canceled
+INN25910,2,0,2,0,Meal Plan 1,0,Room_Type 1,42,Online,0,0,0,75.95,1,1/17/2018,Not_Canceled
+INN25911,2,0,2,5,Meal Plan 1,0,Room_Type 4,180,Online,0,0,0,112.2,0,8/3/2018,Canceled
+INN25912,2,0,2,1,Meal Plan 1,0,Room_Type 1,258,Online,0,0,0,96.3,0,10/29/2018,Canceled
+INN25913,2,2,0,3,Meal Plan 1,1,Room_Type 6,7,Online,0,0,0,162.0,0,8/18/2017,Not_Canceled
+INN25914,1,0,0,4,Meal Plan 1,0,Room_Type 1,215,Online,0,0,0,100.8,2,5/4/2018,Canceled
+INN25915,2,0,0,3,Meal Plan 1,0,Room_Type 1,77,Offline,0,0,0,75.0,0,12/8/2018,Not_Canceled
+INN25916,2,0,1,3,Meal Plan 1,0,Room_Type 4,40,Offline,0,0,0,60.0,0,11/2/2017,Not_Canceled
+INN25917,2,0,1,0,Not Selected,0,Room_Type 1,33,Online,0,0,0,99.0,2,9/25/2018,Not_Canceled
+INN25918,1,0,0,1,Meal Plan 1,0,Room_Type 1,8,Online,0,0,0,86.0,0,3/2/2018,Not_Canceled
+INN25919,2,0,1,0,Meal Plan 1,0,Room_Type 1,3,Complementary,0,0,0,0.0,0,5/2/2018,Not_Canceled
+INN25920,2,0,2,0,Meal Plan 2,0,Room_Type 1,12,Offline,0,0,0,107.0,0,10/4/2017,Not_Canceled
+INN25921,1,0,0,2,Meal Plan 1,0,Room_Type 1,28,Corporate,0,0,0,95.0,0,5/19/2018,Canceled
+INN25922,2,0,0,3,Not Selected,0,Room_Type 1,217,Online,0,0,0,88.5,0,8/17/2018,Canceled
+INN25923,2,0,1,0,Not Selected,0,Room_Type 1,2,Online,0,0,0,89.0,2,5/9/2018,Not_Canceled
+INN25924,2,0,2,2,Meal Plan 1,0,Room_Type 4,133,Online,0,0,0,113.05,0,5/14/2018,Not_Canceled
+INN25925,2,0,0,1,Meal Plan 1,0,Room_Type 1,8,Offline,0,0,0,130.0,0,11/5/2018,Not_Canceled
+INN25926,2,0,0,2,Meal Plan 2,0,Room_Type 1,102,Offline,0,0,0,101.5,0,10/16/2017,Canceled
+INN25927,1,0,1,0,Meal Plan 1,0,Room_Type 1,0,Offline,0,0,0,106.4,0,6/27/2018,Not_Canceled
+INN25928,1,0,0,1,Meal Plan 1,0,Room_Type 1,14,Corporate,0,0,0,79.0,0,11/29/2018,Not_Canceled
+INN25929,2,1,2,1,Meal Plan 1,0,Room_Type 1,77,Online,0,0,0,109.8,0,12/3/2018,Canceled
+INN25930,2,0,1,3,Meal Plan 1,0,Room_Type 1,3,Online,0,0,0,126.25,2,9/10/2017,Not_Canceled
+INN25931,1,0,0,2,Meal Plan 1,0,Room_Type 1,39,Online,0,0,0,77.5,1,3/4/2018,Not_Canceled
+INN25932,1,0,1,2,Meal Plan 1,0,Room_Type 1,279,Offline,0,0,0,76.5,1,10/10/2018,Not_Canceled
+INN25933,2,0,0,2,Meal Plan 1,0,Room_Type 1,1,Corporate,0,0,0,31.0,1,2/26/2018,Not_Canceled
+INN25934,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Corporate,0,0,0,89.0,0,11/5/2017,Not_Canceled
+INN25935,2,0,2,1,Meal Plan 1,0,Room_Type 1,76,Online,0,0,0,87.3,1,4/2/2018,Not_Canceled
+INN25936,1,0,0,3,Meal Plan 1,0,Room_Type 1,163,Offline,0,0,0,100.8,0,10/5/2018,Canceled
+INN25937,3,0,2,2,Meal Plan 1,0,Room_Type 4,61,Online,0,0,0,134.53,0,6/18/2018,Canceled
+INN25938,1,1,2,1,Not Selected,0,Room_Type 1,67,Online,0,0,0,51.97,0,2/13/2018,Not_Canceled
+INN25939,2,0,2,3,Meal Plan 1,0,Room_Type 1,102,Online,0,0,0,85.0,2,11/17/2018,Canceled
+INN25940,2,0,1,1,Meal Plan 1,0,Room_Type 4,267,Online,0,0,0,115.2,0,10/1/2018,Canceled
+INN25941,2,0,2,4,Meal Plan 1,0,Room_Type 1,272,Online,0,0,0,94.35,1,10/15/2018,Canceled
+INN25942,3,0,2,1,Meal Plan 1,0,Room_Type 1,150,Online,0,0,0,140.7,1,7/31/2018,Not_Canceled
+INN25943,2,0,1,4,Meal Plan 2,0,Room_Type 1,197,Offline,0,0,0,113.4,0,12/21/2018,Not_Canceled
+INN25944,2,0,1,0,Meal Plan 1,0,Room_Type 1,13,Offline,0,0,0,85.0,1,3/20/2018,Not_Canceled
+INN25945,1,0,1,0,Meal Plan 1,0,Room_Type 1,111,Offline,0,0,0,120.0,0,10/10/2018,Canceled
+INN25946,2,0,0,2,Meal Plan 1,0,Room_Type 1,160,Online,0,0,0,119.85,0,5/27/2018,Canceled
+INN25947,2,0,1,1,Meal Plan 1,0,Room_Type 1,35,Offline,0,0,0,76.5,1,10/26/2017,Not_Canceled
+INN25948,1,0,1,0,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,95.0,0,2/14/2018,Not_Canceled
+INN25949,1,0,0,1,Meal Plan 1,1,Room_Type 1,1,Corporate,1,0,1,65.0,0,3/29/2018,Not_Canceled
+INN25950,2,0,1,3,Not Selected,0,Room_Type 1,99,Online,0,0,0,94.5,0,7/25/2018,Canceled
+INN25951,2,0,1,3,Meal Plan 1,0,Room_Type 4,22,Online,0,0,0,96.9,2,11/17/2018,Not_Canceled
+INN25952,2,1,0,2,Meal Plan 1,0,Room_Type 1,175,Online,0,0,0,121.5,1,8/10/2018,Canceled
+INN25953,1,0,0,1,Meal Plan 1,0,Room_Type 1,7,Corporate,0,0,0,65.0,0,8/9/2018,Not_Canceled
+INN25954,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Complementary,0,0,0,0.0,0,4/19/2018,Not_Canceled
+INN25955,2,0,0,3,Meal Plan 1,0,Room_Type 1,304,Offline,0,0,0,89.0,0,11/3/2018,Canceled
+INN25956,2,0,1,1,Meal Plan 1,0,Room_Type 1,93,Online,0,0,0,126.9,1,6/20/2018,Not_Canceled
+INN25957,2,0,1,2,Meal Plan 1,0,Room_Type 1,193,Offline,0,0,0,120.0,0,6/20/2018,Canceled
+INN25958,2,0,2,0,Meal Plan 2,0,Room_Type 1,386,Offline,0,0,0,115.0,1,10/23/2018,Canceled
+INN25959,2,0,2,0,Meal Plan 2,0,Room_Type 1,275,Offline,0,0,0,110.0,0,4/17/2018,Canceled
+INN25960,2,0,0,3,Meal Plan 2,0,Room_Type 1,88,Offline,0,0,0,117.0,1,5/3/2018,Not_Canceled
+INN25961,2,0,2,3,Meal Plan 1,0,Room_Type 1,45,Online,0,0,0,99.79,0,4/24/2018,Not_Canceled
+INN25962,2,0,2,1,Meal Plan 2,0,Room_Type 1,131,Offline,0,0,0,94.5,0,8/15/2017,Canceled
+INN25963,2,0,1,2,Meal Plan 1,1,Room_Type 1,172,Online,0,0,0,117.3,2,8/19/2018,Canceled
+INN25964,1,0,0,1,Meal Plan 1,0,Room_Type 1,6,Corporate,0,0,0,79.0,0,7/12/2018,Not_Canceled
+INN25965,1,0,0,1,Meal Plan 2,0,Room_Type 1,55,Offline,0,0,0,87.0,0,4/6/2018,Not_Canceled
+INN25966,2,0,2,5,Meal Plan 1,0,Room_Type 1,118,Online,0,0,0,107.95,1,7/1/2018,Not_Canceled
+INN25967,2,0,0,1,Meal Plan 1,0,Room_Type 1,105,Offline,0,0,0,75.0,0,4/6/2018,Canceled
+INN25968,1,0,0,1,Meal Plan 1,0,Room_Type 1,15,Corporate,0,0,0,81.0,0,2/19/2018,Not_Canceled
+INN25969,1,0,0,3,Meal Plan 1,0,Room_Type 4,44,Online,0,0,0,251.7,0,6/16/2018,Canceled
+INN25970,2,0,0,2,Meal Plan 1,0,Room_Type 1,7,Online,0,0,0,126.0,2,9/22/2017,Not_Canceled
+INN25971,1,0,1,4,Meal Plan 1,0,Room_Type 4,15,Online,0,0,0,133.2,0,4/6/2018,Canceled
+INN25972,2,0,0,3,Meal Plan 1,0,Room_Type 1,89,Online,0,0,0,79.82,0,12/30/2017,Not_Canceled
+INN25973,4,0,1,3,Meal Plan 1,0,Room_Type 7,46,Online,0,0,0,186.77,1,9/5/2018,Not_Canceled
+INN25974,2,0,0,2,Meal Plan 1,0,Room_Type 1,0,Complementary,0,0,0,0.0,0,12/2/2018,Not_Canceled
+INN25975,2,0,2,2,Meal Plan 1,0,Room_Type 1,47,Offline,0,0,0,80.75,0,10/16/2018,Not_Canceled
+INN25976,2,0,0,3,Not Selected,0,Room_Type 1,25,Online,0,0,0,119.0,1,10/20/2018,Not_Canceled
+INN25977,2,0,0,1,Meal Plan 1,0,Room_Type 4,5,Online,0,0,0,184.0,2,9/7/2018,Not_Canceled
+INN25978,1,0,0,2,Meal Plan 1,0,Room_Type 1,32,Offline,0,0,0,73.0,0,11/20/2017,Not_Canceled
+INN25979,2,0,1,3,Meal Plan 1,0,Room_Type 1,127,Offline,0,0,0,84.15,0,12/29/2018,Not_Canceled
+INN25980,2,0,1,2,Meal Plan 1,0,Room_Type 1,13,Corporate,0,0,0,159.0,0,10/10/2018,Not_Canceled
+INN25981,2,0,0,1,Not Selected,0,Room_Type 1,1,Online,0,0,0,140.0,2,12/31/2018,Not_Canceled
+INN25982,1,0,0,2,Meal Plan 1,0,Room_Type 1,188,Offline,0,0,0,130.0,0,6/15/2018,Canceled
+INN25983,3,0,2,4,Meal Plan 1,0,Room_Type 4,91,Online,0,0,0,113.7,1,10/23/2018,Not_Canceled
+INN25984,2,0,2,2,Meal Plan 1,0,Room_Type 1,189,Online,0,0,0,70.44,1,10/22/2018,Not_Canceled
+INN25985,2,0,2,3,Meal Plan 2,0,Room_Type 1,39,Offline,0,0,0,115.5,0,6/18/2018,Not_Canceled
+INN25986,2,0,2,0,Meal Plan 2,0,Room_Type 1,275,Offline,0,0,0,110.0,0,4/17/2018,Canceled
+INN25987,2,0,1,0,Not Selected,0,Room_Type 4,4,Online,0,0,0,110.71,0,10/24/2018,Not_Canceled
+INN25988,1,0,1,2,Meal Plan 1,0,Room_Type 1,273,Online,0,0,0,100.8,0,9/30/2018,Canceled
+INN25989,2,0,0,2,Meal Plan 1,1,Room_Type 1,9,Complementary,0,0,0,0.0,3,11/11/2018,Not_Canceled
+INN25990,2,0,0,4,Meal Plan 1,0,Room_Type 1,270,Offline,0,0,0,62.8,0,4/20/2018,Canceled
+INN25991,2,0,2,1,Meal Plan 1,0,Room_Type 1,20,Online,0,0,0,93.0,2,2/7/2018,Not_Canceled
+INN25992,2,1,2,2,Meal Plan 1,0,Room_Type 2,186,Online,0,0,0,83.83,0,8/26/2018,Canceled
+INN25993,2,0,2,1,Not Selected,0,Room_Type 1,15,Online,0,0,0,66.0,0,12/27/2017,Not_Canceled
+INN25994,2,0,0,1,Meal Plan 1,0,Room_Type 1,11,Online,0,0,0,130.0,1,11/5/2018,Canceled
+INN25995,1,0,1,1,Meal Plan 1,0,Room_Type 1,7,Online,0,0,0,134.0,0,8/27/2018,Not_Canceled
+INN25996,2,0,1,2,Meal Plan 1,0,Room_Type 4,130,Online,0,0,0,123.67,1,3/25/2018,Not_Canceled
+INN25997,3,0,1,5,Meal Plan 1,0,Room_Type 5,15,Offline,0,0,0,140.0,0,12/27/2018,Not_Canceled
+INN25998,2,0,0,2,Meal Plan 2,0,Room_Type 1,39,Offline,0,0,0,109.0,0,8/14/2017,Not_Canceled
+INN25999,2,0,0,5,Meal Plan 1,0,Room_Type 2,124,Online,0,0,0,82.13,0,4/12/2018,Not_Canceled
+INN26000,2,0,2,1,Meal Plan 1,0,Room_Type 1,92,Offline,0,0,0,100.0,0,3/26/2018,Canceled
+INN26001,2,0,1,2,Not Selected,0,Room_Type 1,41,Online,0,0,0,67.5,1,2/12/2018,Canceled
+INN26002,2,0,0,3,Meal Plan 1,0,Room_Type 1,64,Offline,0,0,0,101.52,0,9/28/2018,Not_Canceled
+INN26003,2,0,1,3,Meal Plan 1,0,Room_Type 1,90,Online,0,0,0,82.45,1,4/4/2018,Not_Canceled
+INN26004,2,0,0,2,Meal Plan 1,0,Room_Type 1,3,Online,0,0,0,101.0,0,3/2/2018,Canceled
+INN26005,2,0,2,1,Meal Plan 1,1,Room_Type 1,153,Online,0,0,0,115.2,1,6/4/2018,Canceled
+INN26006,2,0,0,3,Meal Plan 1,0,Room_Type 1,101,Online,0,0,0,90.3,1,4/6/2018,Not_Canceled
+INN26007,1,0,0,2,Meal Plan 2,0,Room_Type 1,74,Offline,0,0,0,87.0,0,9/18/2017,Not_Canceled
+INN26008,2,0,0,2,Meal Plan 1,0,Room_Type 1,30,Offline,0,0,0,140.0,0,6/2/2018,Not_Canceled
+INN26009,2,1,0,1,Meal Plan 1,0,Room_Type 1,75,Online,0,0,0,152.1,2,9/16/2018,Not_Canceled
+INN26010,2,0,0,2,Meal Plan 1,0,Room_Type 4,96,Online,0,0,0,93.96,0,10/26/2018,Canceled
+INN26011,2,1,0,1,Not Selected,0,Room_Type 1,173,Online,0,0,0,94.5,2,7/8/2018,Not_Canceled
+INN26012,1,0,1,1,Meal Plan 1,0,Room_Type 4,26,Online,0,0,0,87.78,1,12/5/2018,Not_Canceled
+INN26013,2,0,0,4,Meal Plan 1,0,Room_Type 1,10,Online,0,0,0,87.0,0,12/23/2017,Not_Canceled
+INN26014,2,0,1,1,Meal Plan 1,0,Room_Type 2,268,Online,0,0,0,96.25,1,8/6/2018,Not_Canceled
+INN26015,2,0,0,3,Meal Plan 1,0,Room_Type 1,138,Online,0,0,0,58.9,0,7/29/2017,Not_Canceled
+INN26016,2,0,0,2,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,164.0,1,9/23/2017,Not_Canceled
+INN26017,2,0,2,1,Meal Plan 2,0,Room_Type 2,117,Offline,0,0,0,89.75,0,8/1/2017,Not_Canceled
+INN26018,2,0,0,3,Meal Plan 1,0,Room_Type 1,229,Online,0,0,0,70.44,2,10/27/2018,Canceled
+INN26019,2,0,2,1,Meal Plan 2,0,Room_Type 1,124,Offline,0,0,0,94.5,0,8/8/2017,Canceled
+INN26020,2,1,1,0,Meal Plan 1,0,Room_Type 1,32,Online,0,0,0,121.5,0,4/11/2018,Canceled
+INN26021,2,0,0,3,Meal Plan 2,0,Room_Type 1,34,Offline,0,0,0,224.67,0,9/23/2017,Canceled
+INN26022,2,0,1,3,Not Selected,0,Room_Type 1,80,Online,0,0,0,62.83,1,9/3/2017,Not_Canceled
+INN26023,1,0,0,2,Meal Plan 1,0,Room_Type 1,172,Offline,0,0,0,95.0,0,6/24/2018,Canceled
+INN26024,2,0,1,0,Not Selected,0,Room_Type 1,1,Online,0,0,0,56.47,0,5/8/2018,Not_Canceled
+INN26025,1,0,0,2,Meal Plan 1,0,Room_Type 1,103,Offline,0,0,0,115.0,0,4/19/2018,Canceled
+INN26026,2,0,0,2,Not Selected,0,Room_Type 1,14,Online,0,0,0,89.0,2,11/18/2018,Not_Canceled
+INN26027,2,0,2,7,Meal Plan 1,0,Room_Type 1,80,Online,0,0,0,63.46,0,7/31/2017,Not_Canceled
+INN26028,2,0,0,3,Meal Plan 1,0,Room_Type 1,314,Offline,0,0,0,75.0,0,10/12/2018,Canceled
+INN26029,2,0,2,1,Meal Plan 1,0,Room_Type 1,84,Online,0,0,0,90.3,1,3/27/2018,Canceled
+INN26030,3,0,0,1,Meal Plan 1,0,Room_Type 4,176,Online,0,0,0,159.3,2,9/1/2018,Canceled
+INN26031,2,0,2,3,Meal Plan 1,0,Room_Type 1,205,Online,0,0,0,90.95,0,7/22/2018,Canceled
+INN26032,2,0,1,3,Meal Plan 1,0,Room_Type 1,144,Online,0,0,0,129.6,2,9/22/2018,Canceled
+INN26033,2,0,0,2,Meal Plan 1,0,Room_Type 1,298,Offline,0,0,0,75.0,0,5/10/2018,Canceled
+INN26034,2,0,1,3,Meal Plan 1,0,Room_Type 1,179,Online,0,0,0,90.9,0,10/27/2018,Canceled
+INN26035,1,0,3,6,Not Selected,0,Room_Type 1,12,Online,0,0,0,71.87,1,11/12/2018,Canceled
+INN26036,2,0,0,1,Not Selected,0,Room_Type 1,2,Online,0,0,0,109.0,1,6/9/2018,Not_Canceled
+INN26037,1,0,2,4,Meal Plan 1,0,Room_Type 1,245,Offline,0,0,0,110.0,0,7/6/2018,Canceled
+INN26038,2,0,1,2,Meal Plan 1,0,Room_Type 1,233,Offline,0,0,0,90.0,0,10/14/2018,Canceled
+INN26039,2,0,1,2,Meal Plan 1,0,Room_Type 4,142,Offline,0,0,0,107.0,0,6/20/2018,Not_Canceled
+INN26040,2,0,0,2,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,80.39,0,4/13/2018,Not_Canceled
+INN26041,2,0,0,3,Not Selected,0,Room_Type 1,24,Online,0,0,0,114.0,2,10/8/2017,Not_Canceled
+INN26042,2,0,0,2,Not Selected,0,Room_Type 1,109,Online,0,0,0,103.5,1,7/7/2018,Not_Canceled
+INN26043,2,0,2,3,Meal Plan 2,0,Room_Type 1,116,Online,0,0,0,124.3,2,12/24/2018,Not_Canceled
+INN26044,2,2,2,5,Meal Plan 1,0,Room_Type 6,145,Online,0,0,0,184.95,1,8/8/2018,Not_Canceled
+INN26045,2,0,2,5,Not Selected,0,Room_Type 1,65,Online,0,0,0,88.0,1,11/13/2018,Not_Canceled
+INN26046,2,0,1,3,Meal Plan 1,0,Room_Type 1,21,Online,0,0,0,124.25,2,8/29/2018,Not_Canceled
+INN26047,2,0,0,1,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,98.0,1,8/8/2017,Not_Canceled
+INN26048,2,0,2,2,Meal Plan 1,0,Room_Type 1,18,Online,0,0,0,98.6,2,5/29/2018,Not_Canceled
+INN26049,2,0,0,1,Meal Plan 1,1,Room_Type 4,4,Online,0,0,0,115.0,1,2/13/2018,Not_Canceled
+INN26050,2,2,0,2,Meal Plan 1,0,Room_Type 5,117,Online,0,0,0,123.62,0,4/29/2018,Canceled
+INN26051,2,0,2,1,Not Selected,0,Room_Type 1,20,Online,0,0,0,75.0,0,1/30/2018,Not_Canceled
+INN26052,2,0,1,1,Not Selected,0,Room_Type 1,33,Online,0,0,0,103.05,0,8/29/2018,Canceled
+INN26053,2,0,0,1,Not Selected,0,Room_Type 1,38,Online,0,0,0,88.2,0,3/24/2018,Canceled
+INN26054,2,0,0,4,Meal Plan 1,0,Room_Type 1,152,Offline,0,0,0,75.0,0,4/12/2018,Not_Canceled
+INN26055,2,0,2,1,Not Selected,0,Room_Type 1,31,Online,0,0,0,88.0,0,11/27/2018,Canceled
+INN26056,3,0,0,2,Meal Plan 1,0,Room_Type 1,157,Online,0,0,0,155.7,2,8/10/2018,Canceled
+INN26057,2,0,0,2,Meal Plan 1,0,Room_Type 1,4,Online,0,0,0,106.0,1,8/21/2017,Not_Canceled
+INN26058,1,0,0,2,Meal Plan 1,0,Room_Type 1,181,Offline,0,0,0,120.0,0,10/11/2018,Canceled
+INN26059,2,0,0,2,Meal Plan 1,0,Room_Type 1,60,Online,0,0,0,90.9,1,3/31/2018,Not_Canceled
+INN26060,2,0,1,3,Meal Plan 1,0,Room_Type 1,254,Online,0,0,0,100.3,1,9/29/2018,Canceled
+INN26061,2,0,2,4,Meal Plan 1,0,Room_Type 1,20,Online,0,0,0,107.0,0,10/4/2017,Not_Canceled
+INN26062,2,0,0,1,Meal Plan 1,0,Room_Type 1,3,Corporate,0,0,0,31.0,1,2/26/2018,Not_Canceled
+INN26063,3,0,1,3,Not Selected,0,Room_Type 1,83,Online,0,0,0,97.75,1,3/21/2018,Not_Canceled
+INN26064,3,0,0,2,Meal Plan 1,0,Room_Type 4,4,Online,0,0,0,133.0,1,2/4/2018,Not_Canceled
+INN26065,2,0,0,2,Not Selected,0,Room_Type 1,18,Online,0,0,0,81.0,1,2/19/2018,Not_Canceled
+INN26066,2,0,2,5,Meal Plan 1,0,Room_Type 5,32,Online,0,0,0,137.52,0,9/13/2018,Canceled
+INN26067,2,0,1,0,Meal Plan 1,0,Room_Type 4,120,Online,0,0,0,140.4,0,6/13/2018,Canceled
+INN26068,1,0,0,2,Meal Plan 1,0,Room_Type 4,70,Online,0,0,0,149.4,0,9/15/2018,Canceled
+INN26069,1,1,2,4,Meal Plan 1,0,Room_Type 4,69,Online,0,0,0,95.2,1,3/31/2018,Not_Canceled
+INN26070,2,0,3,6,Not Selected,0,Room_Type 1,122,Online,0,0,0,98.5,1,8/1/2018,Not_Canceled
+INN26071,2,0,1,4,Meal Plan 1,0,Room_Type 1,30,Online,0,0,0,97.92,1,10/5/2017,Canceled
+INN26072,2,0,2,2,Meal Plan 1,0,Room_Type 1,38,Offline,0,0,0,85.5,0,9/10/2018,Not_Canceled
+INN26073,2,0,1,2,Meal Plan 1,0,Room_Type 1,14,Online,0,0,0,107.67,1,11/18/2018,Not_Canceled
+INN26074,1,0,0,2,Meal Plan 1,0,Room_Type 1,188,Offline,0,0,0,130.0,0,6/15/2018,Canceled
+INN26075,1,0,0,2,Meal Plan 1,0,Room_Type 1,188,Offline,0,0,0,130.0,0,6/15/2018,Canceled
+INN26076,2,0,1,2,Meal Plan 1,0,Room_Type 1,43,Online,0,0,0,88.46,1,11/11/2018,Not_Canceled
+INN26077,2,0,2,3,Meal Plan 1,0,Room_Type 1,155,Offline,0,0,0,72.25,0,7/8/2018,Not_Canceled
+INN26078,2,0,1,1,Meal Plan 1,0,Room_Type 2,180,Online,0,0,0,96.3,0,7/23/2018,Canceled
+INN26079,3,0,0,3,Meal Plan 1,0,Room_Type 4,109,Online,0,0,0,129.59,2,6/8/2018,Not_Canceled
+INN26080,2,0,2,1,Meal Plan 1,0,Room_Type 1,116,Offline,0,0,0,72.0,0,2/28/2018,Canceled
+INN26081,2,0,2,1,Meal Plan 1,0,Room_Type 1,91,Online,0,0,0,114.3,0,7/24/2018,Canceled
+INN26082,2,0,0,1,Not Selected,0,Room_Type 1,244,Online,0,0,0,89.4,2,9/29/2018,Canceled
+INN26083,2,0,0,2,Meal Plan 1,0,Room_Type 1,15,Online,0,0,0,91.0,1,2/16/2018,Canceled
+INN26084,2,0,2,4,Meal Plan 1,0,Room_Type 4,11,Online,0,0,0,130.33,0,4/6/2018,Not_Canceled
+INN26085,2,2,2,3,Meal Plan 1,1,Room_Type 6,213,Online,0,0,0,167.95,1,7/21/2018,Canceled
+INN26086,2,0,2,3,Meal Plan 1,0,Room_Type 1,151,Offline,0,0,0,59.5,0,3/20/2018,Not_Canceled
+INN26087,2,0,0,2,Meal Plan 1,0,Room_Type 1,13,Online,0,0,0,121.0,1,6/8/2018,Not_Canceled
+INN26088,2,0,2,2,Meal Plan 1,0,Room_Type 4,77,Online,0,0,0,107.95,0,4/16/2018,Canceled
+INN26089,2,0,1,2,Meal Plan 1,0,Room_Type 1,12,Online,0,0,0,124.0,3,9/14/2017,Not_Canceled
+INN26090,2,0,2,2,Meal Plan 1,0,Room_Type 1,69,Offline,0,0,0,59.5,0,3/20/2018,Not_Canceled
+INN26091,2,0,2,2,Meal Plan 1,0,Room_Type 4,167,Offline,0,0,0,60.0,1,3/13/2018,Not_Canceled
+INN26092,0,2,2,3,Meal Plan 1,0,Room_Type 2,107,Online,0,0,0,127.38,3,9/24/2018,Not_Canceled
+INN26093,1,0,0,1,Meal Plan 1,0,Room_Type 1,3,Corporate,0,0,0,79.0,1,11/26/2017,Not_Canceled
+INN26094,2,0,0,1,Meal Plan 1,0,Room_Type 1,1,Online,0,0,0,83.0,0,5/10/2018,Not_Canceled
+INN26095,1,0,1,2,Meal Plan 1,0,Room_Type 1,118,Offline,0,0,0,110.0,0,6/6/2018,Not_Canceled
+INN26096,2,0,0,4,Not Selected,0,Room_Type 1,52,Online,0,0,0,63.75,0,3/9/2018,Canceled
+INN26097,2,0,2,5,Meal Plan 1,0,Room_Type 4,225,Online,0,0,0,103.46,0,6/28/2018,Canceled
+INN26098,2,0,0,3,Meal Plan 1,0,Room_Type 1,37,Offline,0,0,0,105.0,0,10/13/2018,Not_Canceled
+INN26099,2,0,2,1,Meal Plan 2,0,Room_Type 1,5,Offline,0,0,0,94.5,0,8/15/2017,Not_Canceled
+INN26100,2,0,0,4,Meal Plan 2,0,Room_Type 1,296,Offline,0,0,0,117.0,1,9/21/2018,Canceled
+INN26101,2,0,2,2,Meal Plan 1,0,Room_Type 1,60,Offline,0,0,0,75.0,0,3/20/2018,Canceled
+INN26102,2,0,0,2,Meal Plan 1,0,Room_Type 1,30,Offline,0,0,0,140.0,0,6/2/2018,Not_Canceled
+INN26103,1,0,1,2,Meal Plan 1,0,Room_Type 1,180,Offline,0,0,0,120.0,1,10/10/2018,Canceled
+INN26104,2,0,1,5,Meal Plan 1,0,Room_Type 1,10,Online,0,0,0,91.38,2,11/22/2018,Not_Canceled
+INN26105,1,0,0,2,Meal Plan 1,0,Room_Type 1,58,Offline,0,0,0,81.0,0,1/27/2018,Not_Canceled
+INN26106,2,0,1,2,Meal Plan 1,0,Room_Type 1,198,Offline,0,0,0,90.0,0,9/9/2018,Canceled
+INN26107,2,0,1,2,Meal Plan 1,0,Room_Type 1,91,Offline,0,0,0,80.0,0,4/4/2018,Canceled
+INN26108,2,0,2,2,Meal Plan 1,0,Room_Type 2,76,Online,0,0,0,237.2,1,6/17/2018,Not_Canceled
+INN26109,2,0,1,2,Meal Plan 1,0,Room_Type 1,39,Online,0,0,0,60.1,0,2018-2-29,Not_Canceled
+INN26110,3,0,1,5,Meal Plan 1,0,Room_Type 4,15,Offline,0,0,0,87.33,1,12/27/2018,Not_Canceled
+INN26111,2,0,1,2,Meal Plan 1,0,Room_Type 1,79,Online,0,0,0,96.3,0,3/21/2018,Canceled
+INN26112,2,0,3,6,Not Selected,0,Room_Type 1,164,Online,0,0,0,116.1,0,9/19/2018,Canceled
+INN26113,2,0,2,3,Meal Plan 2,0,Room_Type 4,2,Offline,0,0,0,122.75,0,6/17/2018,Not_Canceled
+INN26114,1,0,1,2,Meal Plan 1,0,Room_Type 1,280,Offline,0,0,0,100.0,0,9/19/2018,Canceled
+INN26115,2,0,1,3,Meal Plan 1,0,Room_Type 1,166,Online,0,0,0,90.95,0,7/7/2018,Canceled
+INN26116,1,0,2,4,Meal Plan 1,0,Room_Type 1,245,Offline,0,0,0,110.0,0,7/6/2018,Canceled
+INN26117,2,0,2,3,Meal Plan 1,0,Room_Type 4,29,Online,0,0,0,132.72,1,5/20/2018,Canceled
+INN26118,2,0,0,2,Meal Plan 2,0,Room_Type 1,377,Offline,0,0,0,115.0,1,10/14/2018,Canceled
+INN26119,1,0,0,1,Meal Plan 1,0,Room_Type 1,19,Online,0,0,0,96.0,1,11/29/2018,Not_Canceled
+INN26120,1,0,0,3,Meal Plan 1,0,Room_Type 1,28,Online,0,0,0,75.18,1,11/3/2017,Not_Canceled
+INN26121,2,0,1,0,Meal Plan 1,0,Room_Type 1,263,Offline,0,0,0,67.0,0,9/21/2017,Not_Canceled
+INN26122,2,0,0,2,Meal Plan 2,0,Room_Type 1,265,Offline,0,0,0,115.0,1,6/24/2018,Canceled
+INN26123,2,0,0,2,Meal Plan 2,0,Room_Type 1,86,Offline,0,0,0,120.0,0,9/24/2017,Not_Canceled
+INN26124,1,0,2,0,Meal Plan 1,0,Room_Type 1,12,Online,0,0,0,81.62,1,5/29/2018,Not_Canceled
+INN26125,2,0,2,2,Not Selected,0,Room_Type 1,43,Online,0,0,0,79.48,2,11/12/2018,Not_Canceled
+INN26126,2,0,1,1,Meal Plan 2,0,Room_Type 1,301,Offline,0,0,0,115.0,1,7/30/2018,Canceled
+INN26127,1,0,0,1,Meal Plan 1,0,Room_Type 1,9,Online,0,0,0,82.92,0,3/30/2018,Not_Canceled
+INN26128,2,0,0,2,Meal Plan 1,0,Room_Type 1,189,Online,0,0,0,105.3,1,8/9/2018,Canceled
+INN26129,2,0,0,2,Meal Plan 1,0,Room_Type 2,66,Online,0,0,0,108.0,1,10/20/2018,Not_Canceled
+INN26130,2,0,0,1,Not Selected,0,Room_Type 1,122,Online,0,0,0,85.5,1,6/30/2018,Not_Canceled
+INN26131,2,0,1,2,Meal Plan 1,0,Room_Type 1,57,Offline,0,0,0,90.67,1,6/10/2018,Not_Canceled
+INN26132,2,0,0,2,Meal Plan 1,0,Room_Type 4,195,Online,0,0,0,109.8,0,8/30/2018,Canceled
+INN26133,2,0,2,1,Meal Plan 1,0,Room_Type 4,11,Online,0,0,0,122.67,1,12/27/2017,Not_Canceled
+INN26134,2,0,2,5,Meal Plan 1,0,Room_Type 1,10,Online,0,0,0,136.14,2,9/12/2017,Canceled
+INN26135,2,0,0,3,Meal Plan 1,0,Room_Type 1,115,Online,0,0,0,72.25,1,12/24/2017,Canceled
+INN26136,2,0,0,3,Meal Plan 1,0,Room_Type 4,94,Online,0,0,0,105.3,0,4/14/2018,Canceled
+INN26137,2,0,1,2,Meal Plan 1,0,Room_Type 4,93,Online,0,0,0,105.3,2,3/25/2018,Canceled
+INN26138,1,0,0,2,Meal Plan 1,0,Room_Type 1,26,Corporate,1,1,9,65.0,1,6/28/2018,Not_Canceled
+INN26139,1,0,0,1,Meal Plan 1,0,Room_Type 1,7,Corporate,0,0,0,80.0,1,3/3/2018,Not_Canceled
+INN26140,2,0,2,2,Not Selected,0,Room_Type 1,33,Online,0,0,0,84.15,1,11/11/2018,Canceled
+INN26141,2,1,2,4,Meal Plan 1,0,Room_Type 1,132,Online,0,0,0,114.75,2,7/13/2018,Not_Canceled
+INN26142,2,0,0,2,Meal Plan 1,0,Room_Type 1,35,Online,0,0,0,93.6,0,12/20/2018,Canceled
+INN26143,2,0,2,1,Meal Plan 2,0,Room_Type 1,138,Offline,0,0,0,94.5,0,8/22/2017,Not_Canceled
+INN26144,2,0,1,0,Meal Plan 1,0,Room_Type 1,16,Online,0,0,0,111.0,1,5/29/2018,Not_Canceled
+INN26145,2,1,2,1,Meal Plan 1,0,Room_Type 1,130,Online,0,0,0,103.56,2,7/16/2018,Not_Canceled
+INN26146,2,0,1,3,Meal Plan 1,0,Room_Type 1,23,Offline,0,0,0,65.55,1,9/10/2017,Not_Canceled
+INN26147,2,0,0,2,Meal Plan 2,0,Room_Type 1,59,Online,0,0,0,127.8,1,11/18/2018,Canceled
+INN26148,1,0,1,2,Meal Plan 1,0,Room_Type 1,10,Offline,0,0,0,119.0,0,10/14/2018,Not_Canceled
+INN26149,1,0,0,1,Meal Plan 1,0,Room_Type 4,6,Corporate,0,0,0,90.0,1,8/3/2018,Not_Canceled
+INN26150,3,0,0,4,Meal Plan 1,0,Room_Type 4,101,Online,0,0,0,150.3,0,8/24/2018,Canceled
+INN26151,2,0,0,4,Not Selected,0,Room_Type 1,40,Online,0,0,0,102.15,1,3/23/2018,Canceled
+INN26152,2,0,0,2,Meal Plan 1,0,Room_Type 1,49,Online,0,0,0,69.22,1,1/15/2018,Not_Canceled
+INN26153,2,0,4,6,Meal Plan 2,0,Room_Type 4,3,Online,0,0,0,150.8,0,2/27/2018,Canceled
+INN26154,2,0,2,3,Meal Plan 1,0,Room_Type 1,209,Online,0,0,0,90.95,2,8/21/2018,Not_Canceled
+INN26155,2,0,1,5,Meal Plan 1,0,Room_Type 1,82,Offline,0,0,0,95.0,0,9/6/2018,Not_Canceled
+INN26156,3,0,0,2,Meal Plan 1,0,Room_Type 4,130,Online,0,0,0,159.3,0,6/9/2018,Canceled
+INN26157,2,0,0,3,Meal Plan 2,0,Room_Type 1,34,Offline,0,0,0,224.67,0,9/23/2017,Canceled
+INN26158,1,0,0,1,Meal Plan 1,0,Room_Type 1,4,Offline,0,0,0,62.0,0,3/18/2018,Not_Canceled
+INN26159,2,0,2,3,Meal Plan 2,0,Room_Type 1,93,Online,0,0,0,157.25,1,6/16/2018,Not_Canceled
+INN26160,2,0,1,2,Not Selected,0,Room_Type 1,13,Online,0,0,0,102.33,2,9/7/2017,Not_Canceled
+INN26161,2,0,0,3,Meal Plan 1,0,Room_Type 1,276,Offline,0,0,0,116.33,0,9/22/2018,Canceled
+INN26162,1,0,2,2,Meal Plan 1,0,Room_Type 4,36,Online,0,0,0,140.4,0,4/30/2018,Canceled
+INN26163,2,0,2,1,Meal Plan 2,0,Room_Type 1,138,Offline,0,0,0,94.5,0,8/22/2017,Not_Canceled
+INN26164,2,0,2,2,Meal Plan 1,0,Room_Type 1,44,Offline,0,0,0,112.0,0,11/5/2018,Not_Canceled
+INN26165,2,0,1,2,Meal Plan 1,0,Room_Type 1,19,Online,0,0,0,130.0,0,5/2/2018,Not_Canceled
+INN26166,2,1,2,5,Meal Plan 1,0,Room_Type 1,260,Online,0,0,0,108.68,3,10/22/2018,Not_Canceled
+INN26167,2,0,1,4,Meal Plan 1,0,Room_Type 1,220,Online,0,0,0,112.65,1,10/5/2018,Canceled
+INN26168,1,0,0,1,Meal Plan 2,0,Room_Type 1,6,Online,0,0,0,0.0,0,12/10/2017,Not_Canceled
+INN26169,3,0,2,2,Meal Plan 1,0,Room_Type 4,194,Online,0,0,0,130.05,2,8/14/2018,Canceled
+INN26170,2,0,1,4,Meal Plan 1,0,Room_Type 1,87,Online,0,0,0,108.29,0,4/27/2018,Not_Canceled
+INN26171,2,0,1,0,Not Selected,0,Room_Type 1,76,Online,0,0,0,79.2,2,11/6/2018,Not_Canceled
+INN26172,1,0,0,1,Meal Plan 1,0,Room_Type 1,15,Corporate,0,0,0,81.0,0,2/19/2018,Not_Canceled
+INN26173,2,0,0,1,Meal Plan 1,0,Room_Type 1,4,Online,0,0,0,124.0,1,8/15/2017,Not_Canceled
+INN26174,2,0,1,1,Meal Plan 1,0,Room_Type 1,7,Online,0,0,0,126.0,2,9/19/2017,Not_Canceled
+INN26175,1,0,0,1,Meal Plan 1,1,Room_Type 1,0,Offline,0,0,0,89.75,0,11/16/2018,Not_Canceled
+INN26176,2,0,2,1,Meal Plan 1,0,Room_Type 1,20,Online,0,0,0,151.0,1,7/23/2018,Not_Canceled
+INN26177,1,0,0,1,Meal Plan 1,0,Room_Type 1,4,Corporate,0,0,0,84.0,0,8/18/2017,Canceled
+INN26178,2,0,2,1,Meal Plan 1,0,Room_Type 4,10,Online,0,0,0,126.0,0,5/8/2018,Canceled
+INN26179,1,0,0,2,Meal Plan 1,0,Room_Type 1,86,Offline,0,0,0,87.5,0,9/24/2017,Not_Canceled
+INN26180,2,0,1,0,Not Selected,0,Room_Type 1,13,Online,0,0,0,99.0,1,9/11/2018,Canceled
+INN26181,2,2,0,1,Meal Plan 1,0,Room_Type 6,40,Online,0,0,0,189.9,0,4/6/2018,Canceled
+INN26182,2,0,0,3,Meal Plan 1,1,Room_Type 1,90,Offline,0,0,0,72.58,1,3/24/2018,Not_Canceled
+INN26183,2,0,1,4,Not Selected,0,Room_Type 1,44,Online,0,0,0,74.8,1,11/16/2018,Not_Canceled
+INN26184,2,0,0,2,Meal Plan 2,0,Room_Type 1,320,Offline,0,0,0,115.0,1,8/18/2018,Canceled
+INN26185,1,0,0,1,Meal Plan 1,0,Room_Type 1,17,Corporate,0,0,0,65.0,0,11/12/2017,Canceled
+INN26186,2,0,0,2,Meal Plan 1,0,Room_Type 1,20,Offline,0,0,0,85.0,0,10/4/2018,Not_Canceled
+INN26187,2,0,2,1,Not Selected,0,Room_Type 1,12,Online,0,0,0,129.0,2,10/29/2018,Not_Canceled
+INN26188,1,0,1,5,Meal Plan 1,0,Room_Type 1,118,Offline,0,0,0,110.0,2,6/6/2018,Not_Canceled
+INN26189,1,0,0,3,Meal Plan 1,0,Room_Type 1,12,Corporate,0,0,0,60.0,0,8/5/2017,Not_Canceled
+INN26190,2,0,0,2,Meal Plan 1,0,Room_Type 1,315,Offline,0,0,0,52.0,0,12/2/2018,Not_Canceled
+INN26191,2,0,1,2,Not Selected,0,Room_Type 1,45,Online,0,0,0,79.2,1,12/16/2018,Not_Canceled
+INN26192,2,0,0,3,Not Selected,0,Room_Type 1,4,Online,0,0,0,133.0,2,9/22/2017,Not_Canceled
+INN26193,1,0,2,4,Meal Plan 1,0,Room_Type 1,245,Offline,0,0,0,110.0,0,7/6/2018,Canceled
+INN26194,2,0,1,1,Meal Plan 1,0,Room_Type 2,3,Offline,0,0,0,37.5,1,12/21/2017,Not_Canceled
+INN26195,2,0,2,2,Meal Plan 1,0,Room_Type 4,86,Offline,0,0,0,90.95,3,9/3/2018,Not_Canceled
+INN26196,2,0,1,4,Meal Plan 1,0,Room_Type 4,29,Online,0,0,0,143.52,1,5/9/2018,Not_Canceled
+INN26197,2,0,0,1,Meal Plan 1,0,Room_Type 1,22,Offline,0,0,0,85.0,0,6/30/2018,Not_Canceled
+INN26198,2,2,2,2,Meal Plan 1,0,Room_Type 6,198,Offline,0,0,0,136.5,1,7/30/2018,Canceled
+INN26199,2,0,1,0,Not Selected,0,Room_Type 1,21,Online,0,0,0,100.0,2,11/6/2018,Not_Canceled
+INN26200,2,0,0,1,Meal Plan 1,0,Room_Type 1,6,Offline,0,0,0,95.0,0,10/27/2018,Not_Canceled
+INN26201,2,0,0,3,Meal Plan 1,0,Room_Type 1,44,Offline,0,0,0,75.0,0,2/17/2018,Not_Canceled
+INN26202,2,0,0,2,Meal Plan 1,0,Room_Type 1,87,Online,0,0,0,114.3,2,7/1/2018,Not_Canceled
+INN26203,2,1,1,0,Meal Plan 1,0,Room_Type 1,0,Offline,0,0,0,80.75,0,6/12/2018,Not_Canceled
+INN26204,1,0,0,3,Not Selected,0,Room_Type 1,25,Online,0,0,0,129.0,0,5/10/2018,Not_Canceled
+INN26205,2,0,1,1,Meal Plan 1,0,Room_Type 1,5,Online,0,0,0,107.5,1,12/10/2018,Not_Canceled
+INN26206,2,0,0,2,Meal Plan 1,0,Room_Type 1,322,Offline,0,0,0,52.0,0,12/9/2018,Not_Canceled
+INN26207,2,0,0,1,Meal Plan 2,0,Room_Type 1,1,Offline,0,0,0,108.0,0,9/4/2017,Not_Canceled
+INN26208,2,0,0,2,Meal Plan 1,0,Room_Type 1,60,Offline,0,0,0,75.0,0,11/18/2018,Not_Canceled
+INN26209,2,0,1,3,Meal Plan 1,0,Room_Type 1,184,Online,0,0,0,89.25,0,10/12/2017,Canceled
+INN26210,2,0,1,1,Meal Plan 1,0,Room_Type 1,27,Online,0,0,0,151.0,1,7/4/2018,Not_Canceled
+INN26211,2,0,2,4,Not Selected,0,Room_Type 1,152,Online,0,0,0,90.67,1,8/19/2018,Canceled
+INN26212,2,0,0,4,Meal Plan 1,0,Room_Type 1,21,Online,0,0,0,93.5,0,3/9/2018,Canceled
+INN26213,2,0,1,3,Not Selected,0,Room_Type 1,158,Online,0,0,0,89.25,3,7/25/2018,Not_Canceled
+INN26214,3,0,2,0,Meal Plan 1,0,Room_Type 4,135,Online,0,0,0,162.0,2,9/25/2018,Not_Canceled
+INN26215,2,0,2,1,Meal Plan 1,0,Room_Type 1,0,Offline,0,0,0,84.8,0,7/30/2018,Not_Canceled
+INN26216,1,0,0,2,Meal Plan 1,0,Room_Type 4,10,Online,0,0,0,176.0,2,7/20/2018,Not_Canceled
+INN26217,1,0,1,1,Meal Plan 1,0,Room_Type 1,17,Corporate,0,0,0,95.0,0,10/3/2018,Not_Canceled
+INN26218,1,0,0,1,Meal Plan 1,0,Room_Type 1,54,Corporate,0,0,0,65.0,0,11/18/2017,Not_Canceled
+INN26219,2,0,0,2,Not Selected,0,Room_Type 1,80,Online,0,0,0,63.36,0,11/18/2018,Canceled
+INN26220,2,0,3,5,Not Selected,0,Room_Type 1,275,Online,0,0,0,91.69,0,10/9/2018,Canceled
+INN26221,2,0,2,2,Meal Plan 1,0,Room_Type 1,169,Offline,0,0,0,77.0,1,4/22/2018,Not_Canceled
+INN26222,2,0,1,0,Meal Plan 1,0,Room_Type 1,6,Corporate,0,0,0,84.0,0,3/13/2018,Canceled
+INN26223,2,0,1,3,Meal Plan 1,0,Room_Type 1,184,Online,0,0,0,90.9,2,10/17/2018,Not_Canceled
+INN26224,2,0,1,1,Meal Plan 2,0,Room_Type 1,88,Offline,0,0,0,112.2,0,10/5/2017,Not_Canceled
+INN26225,2,0,1,3,Meal Plan 1,0,Room_Type 1,85,Offline,0,0,0,85.0,1,10/6/2018,Not_Canceled
+INN26226,1,0,0,1,Meal Plan 1,0,Room_Type 1,12,Online,0,0,0,80.8,0,11/16/2018,Not_Canceled
+INN26227,2,0,0,2,Meal Plan 2,0,Room_Type 1,291,Offline,0,0,0,115.0,0,8/19/2018,Canceled
+INN26228,2,0,1,3,Not Selected,0,Room_Type 1,50,Online,0,0,0,51.09,1,2/11/2018,Not_Canceled
+INN26229,1,0,0,2,Not Selected,0,Room_Type 1,8,Online,0,0,0,78.0,0,12/16/2018,Not_Canceled
+INN26230,2,0,0,2,Meal Plan 1,0,Room_Type 1,211,Offline,0,0,0,100.0,0,5/20/2018,Canceled
+INN26231,1,0,1,2,Meal Plan 1,0,Room_Type 5,248,Corporate,0,0,0,106.0,0,10/31/2018,Canceled
+INN26232,2,0,1,1,Meal Plan 1,0,Room_Type 1,90,Online,0,0,0,96.3,1,4/25/2018,Not_Canceled
+INN26233,2,0,3,5,Meal Plan 1,0,Room_Type 4,5,Online,0,0,0,67.05,1,2/21/2018,Not_Canceled
+INN26234,1,0,0,1,Meal Plan 1,1,Room_Type 1,52,Corporate,0,0,0,67.0,0,10/13/2018,Not_Canceled
+INN26235,1,0,0,2,Meal Plan 1,0,Room_Type 1,32,Offline,0,0,0,73.0,0,11/20/2017,Not_Canceled
+INN26236,1,0,0,1,Meal Plan 1,0,Room_Type 1,47,Online,0,0,0,99.9,0,4/12/2018,Canceled
+INN26237,2,0,2,7,Meal Plan 1,0,Room_Type 1,148,Online,0,0,0,71.37,0,4/29/2018,Not_Canceled
+INN26238,2,0,0,3,Meal Plan 1,0,Room_Type 1,59,Online,0,0,0,71.1,2,11/2/2018,Not_Canceled
+INN26239,2,0,0,2,Not Selected,0,Room_Type 1,35,Online,0,0,0,73.1,0,3/2/2018,Canceled
+INN26240,2,0,1,2,Meal Plan 1,0,Room_Type 4,31,Offline,0,0,0,81.0,1,10/26/2017,Not_Canceled
+INN26241,2,0,0,1,Meal Plan 1,0,Room_Type 1,0,Complementary,1,0,3,0.0,1,12/9/2017,Not_Canceled
+INN26242,2,0,3,7,Meal Plan 1,0,Room_Type 1,87,Online,0,0,0,58.9,1,7/10/2017,Canceled
+INN26243,2,0,2,2,Not Selected,1,Room_Type 1,40,Online,0,0,0,134.1,1,9/9/2018,Not_Canceled
+INN26244,3,0,1,2,Meal Plan 1,0,Room_Type 4,105,Online,0,0,0,150.3,0,8/26/2018,Canceled
+INN26245,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Corporate,1,0,3,95.0,0,10/5/2018,Not_Canceled
+INN26246,2,0,2,1,Meal Plan 1,0,Room_Type 1,99,Online,0,0,0,89.25,3,10/10/2017,Not_Canceled
+INN26247,2,0,1,5,Not Selected,0,Room_Type 1,147,Online,0,0,0,90.95,0,4/11/2018,Canceled
+INN26248,2,0,2,3,Meal Plan 1,0,Room_Type 1,35,Online,0,0,0,83.9,2,3/3/2018,Not_Canceled
+INN26249,3,0,2,1,Meal Plan 1,0,Room_Type 4,149,Online,0,0,0,137.7,0,8/20/2018,Canceled
+INN26250,2,0,1,3,Meal Plan 1,0,Room_Type 1,322,Offline,0,0,0,80.0,0,5/19/2018,Canceled
+INN26251,1,0,0,2,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,158.0,2,9/23/2017,Not_Canceled
+INN26252,1,0,0,2,Meal Plan 1,0,Room_Type 1,86,Offline,0,0,0,87.5,0,9/24/2017,Not_Canceled
+INN26253,2,0,1,3,Meal Plan 1,0,Room_Type 1,12,Corporate,0,0,0,111.35,0,5/30/2018,Not_Canceled
+INN26254,2,0,2,3,Meal Plan 1,1,Room_Type 1,3,Online,0,0,0,102.0,1,1/2/2018,Not_Canceled
+INN26255,2,1,0,2,Meal Plan 1,0,Room_Type 1,31,Online,0,0,0,152.1,3,7/13/2018,Not_Canceled
+INN26256,2,2,2,2,Meal Plan 1,0,Room_Type 6,34,Online,0,0,0,198.9,0,4/29/2018,Canceled
+INN26257,2,0,1,3,Meal Plan 1,0,Room_Type 1,91,Online,0,0,0,90.95,1,4/25/2018,Not_Canceled
+INN26258,2,0,0,1,Not Selected,0,Room_Type 1,73,Corporate,0,0,0,100.0,1,9/15/2018,Canceled
+INN26259,2,0,0,2,Meal Plan 2,0,Room_Type 1,63,Offline,0,0,0,116.0,0,9/4/2017,Not_Canceled
+INN26260,2,0,0,1,Meal Plan 1,0,Room_Type 1,2,Online,0,0,0,140.0,0,10/25/2018,Not_Canceled
+INN26261,2,0,1,1,Meal Plan 1,0,Room_Type 2,93,Online,0,0,0,81.5,2,10/29/2018,Not_Canceled
+INN26262,2,1,0,2,Not Selected,0,Room_Type 1,0,Online,0,0,0,97.0,3,8/19/2017,Not_Canceled
+INN26263,2,0,1,5,Meal Plan 1,0,Room_Type 4,51,Online,0,0,0,139.5,2,10/17/2018,Canceled
+INN26264,3,0,1,3,Meal Plan 1,0,Room_Type 6,58,Online,0,0,0,152.08,1,9/26/2018,Not_Canceled
+INN26265,2,0,0,2,Meal Plan 1,0,Room_Type 4,148,Online,0,0,0,136.8,1,7/8/2018,Canceled
+INN26266,2,0,1,3,Meal Plan 1,0,Room_Type 4,56,Online,0,0,0,130.05,0,4/21/2018,Canceled
+INN26267,2,0,1,1,Meal Plan 1,0,Room_Type 1,159,Offline,0,0,0,70.0,1,4/9/2018,Not_Canceled
+INN26268,1,0,0,3,Meal Plan 1,0,Room_Type 1,29,Offline,0,0,0,90.0,0,5/17/2018,Not_Canceled
+INN26269,2,2,2,5,Meal Plan 1,0,Room_Type 6,31,Online,0,0,0,159.3,2,10/18/2017,Not_Canceled
+INN26270,2,0,1,2,Meal Plan 1,0,Room_Type 1,168,Offline,0,0,0,85.0,0,4/22/2018,Canceled
+INN26271,2,0,0,2,Meal Plan 1,0,Room_Type 2,14,Online,0,0,0,86.85,2,7/22/2018,Not_Canceled
+INN26272,2,0,2,2,Meal Plan 1,0,Room_Type 1,179,Online,0,0,0,90.95,1,7/17/2018,Not_Canceled
+INN26273,2,0,1,2,Not Selected,0,Room_Type 1,48,Online,0,0,0,126.0,1,10/17/2018,Canceled
+INN26274,1,0,1,1,Meal Plan 2,0,Room_Type 1,301,Offline,0,0,0,90.0,0,7/30/2018,Not_Canceled
+INN26275,2,0,0,2,Meal Plan 2,0,Room_Type 1,292,Offline,0,0,0,115.0,0,7/21/2018,Canceled
+INN26276,2,0,0,2,Meal Plan 1,0,Room_Type 4,64,Online,0,0,0,140.4,0,5/27/2018,Canceled
+INN26277,2,0,0,4,Meal Plan 1,0,Room_Type 4,137,Online,0,0,0,103.7,1,6/28/2018,Canceled
+INN26278,2,0,2,2,Meal Plan 1,0,Room_Type 1,2,Offline,0,0,0,81.75,0,5/15/2018,Not_Canceled
+INN26279,2,0,2,0,Meal Plan 1,0,Room_Type 1,5,Corporate,1,1,0,100.0,0,9/20/2017,Not_Canceled
+INN26280,2,0,2,2,Meal Plan 1,0,Room_Type 1,51,Offline,0,0,0,75.0,1,11/12/2018,Not_Canceled
+INN26281,3,0,1,1,Meal Plan 1,0,Room_Type 1,138,Online,0,0,0,137.7,1,7/16/2018,Not_Canceled
+INN26282,2,0,1,1,Meal Plan 1,0,Room_Type 1,66,Online,1,0,1,67.91,2,12/5/2018,Not_Canceled
+INN26283,2,2,0,2,Meal Plan 1,0,Room_Type 6,143,Online,0,0,0,246.6,1,7/8/2018,Canceled
+INN26284,2,0,0,2,Meal Plan 1,0,Room_Type 1,141,Online,0,0,0,123.8,1,9/23/2018,Not_Canceled
+INN26285,2,0,2,2,Meal Plan 1,0,Room_Type 4,0,Online,0,0,0,129.83,1,8/27/2018,Not_Canceled
+INN26286,2,0,2,3,Meal Plan 2,0,Room_Type 1,137,Online,0,0,0,146.1,2,12/24/2018,Not_Canceled
+INN26287,2,0,2,0,Not Selected,0,Room_Type 1,0,Online,0,0,0,139.0,0,10/16/2018,Not_Canceled
+INN26288,1,0,0,1,Meal Plan 2,0,Room_Type 1,221,Offline,0,0,0,73.0,0,8/12/2018,Not_Canceled
+INN26289,1,0,0,3,Meal Plan 1,0,Room_Type 1,34,Corporate,0,0,0,80.0,0,12/1/2017,Not_Canceled
+INN26290,2,0,0,2,Meal Plan 2,0,Room_Type 1,286,Offline,0,0,0,117.0,0,9/16/2018,Canceled
+INN26291,2,0,0,0,Not Selected,0,Room_Type 1,2,Online,0,0,0,0.0,1,5/29/2018,Not_Canceled
+INN26292,2,1,1,1,Meal Plan 1,0,Room_Type 1,73,Online,0,0,0,112.05,1,10/31/2018,Canceled
+INN26293,3,0,0,1,Meal Plan 1,0,Room_Type 4,157,Offline,0,0,0,133.6,0,10/7/2018,Canceled
+INN26294,3,0,0,1,Meal Plan 1,0,Room_Type 1,7,Online,0,0,0,165.0,1,8/20/2018,Not_Canceled
+INN26295,2,0,0,2,Meal Plan 1,0,Room_Type 1,122,Offline,0,0,0,85.0,0,4/15/2018,Not_Canceled
+INN26296,2,1,2,0,Meal Plan 1,1,Room_Type 1,14,Online,0,0,0,135.0,2,12/25/2018,Not_Canceled
+INN26297,2,0,0,2,Meal Plan 1,0,Room_Type 1,86,Offline,0,0,0,105.0,0,9/24/2017,Not_Canceled
+INN26298,2,0,1,3,Not Selected,0,Room_Type 1,97,Online,0,0,0,80.75,1,4/25/2018,Not_Canceled
+INN26299,2,0,0,3,Meal Plan 1,0,Room_Type 1,143,Offline,0,0,0,100.0,0,8/25/2018,Not_Canceled
+INN26300,2,0,0,3,Meal Plan 1,0,Room_Type 1,22,Online,0,0,0,105.0,2,9/15/2017,Not_Canceled
+INN26301,1,0,0,1,Meal Plan 1,0,Room_Type 1,1,Corporate,0,0,0,88.0,0,3/2/2018,Not_Canceled
+INN26302,3,0,0,3,Meal Plan 1,0,Room_Type 1,56,Online,0,0,0,103.86,0,11/3/2018,Not_Canceled
+INN26303,2,0,0,2,Not Selected,0,Room_Type 1,45,Online,0,0,0,79.2,1,11/11/2018,Not_Canceled
+INN26304,2,0,2,1,Meal Plan 2,0,Room_Type 1,131,Offline,0,0,0,94.5,0,8/15/2017,Canceled
+INN26305,2,1,0,1,Meal Plan 1,0,Room_Type 2,9,Complementary,1,0,3,0.0,1,9/7/2018,Not_Canceled
+INN26306,2,0,0,3,Meal Plan 1,0,Room_Type 4,56,Offline,0,0,0,60.0,1,11/19/2017,Not_Canceled
+INN26307,2,0,0,4,Meal Plan 1,0,Room_Type 1,96,Online,0,0,0,118.8,2,10/19/2018,Not_Canceled
+INN26308,1,0,1,1,Meal Plan 1,0,Room_Type 1,12,Online,0,0,0,86.0,1,3/7/2018,Not_Canceled
+INN26309,2,2,0,3,Meal Plan 2,0,Room_Type 6,15,Online,0,0,0,242.33,2,3/3/2018,Not_Canceled
+INN26310,3,0,2,3,Meal Plan 1,0,Room_Type 4,42,Online,0,0,0,134.98,0,4/24/2018,Canceled
+INN26311,2,0,2,1,Meal Plan 1,0,Room_Type 4,50,Online,0,0,0,114.0,2,11/13/2018,Not_Canceled
+INN26312,1,0,0,0,Not Selected,0,Room_Type 1,1,Online,0,0,0,0.0,0,2/26/2018,Not_Canceled
+INN26313,1,0,0,2,Meal Plan 1,0,Room_Type 1,188,Offline,0,0,0,130.0,0,6/15/2018,Canceled
+INN26314,2,0,1,3,Not Selected,0,Room_Type 1,10,Online,0,0,0,87.5,1,11/14/2018,Not_Canceled
+INN26315,1,0,2,1,Meal Plan 2,0,Room_Type 1,220,Offline,0,0,0,128.0,0,9/17/2018,Canceled
+INN26316,2,1,0,1,Meal Plan 1,0,Room_Type 1,12,Online,0,0,0,111.0,2,2/27/2018,Not_Canceled
+INN26317,1,0,0,2,Meal Plan 1,0,Room_Type 1,164,Offline,0,0,0,100.0,0,10/2/2017,Not_Canceled
+INN26318,2,0,0,1,Meal Plan 1,0,Room_Type 1,21,Offline,0,0,0,85.0,1,10/7/2017,Not_Canceled
+INN26319,2,0,1,2,Meal Plan 1,0,Room_Type 1,121,Offline,0,0,0,90.0,0,6/24/2018,Canceled
+INN26320,2,0,1,2,Meal Plan 1,0,Room_Type 1,224,Offline,0,0,0,65.0,0,10/2/2017,Not_Canceled
+INN26321,2,0,0,2,Meal Plan 1,0,Room_Type 1,38,Complementary,0,0,0,0.0,0,12/16/2018,Not_Canceled
+INN26322,2,0,0,2,Meal Plan 2,0,Room_Type 1,257,Offline,0,0,0,101.5,0,7/1/2017,Canceled
+INN26323,3,0,1,1,Meal Plan 1,0,Room_Type 4,14,Online,0,0,0,177.0,0,6/20/2018,Canceled
+INN26324,2,0,0,4,Meal Plan 1,0,Room_Type 1,35,Offline,0,0,0,68.0,0,12/7/2018,Not_Canceled
+INN26325,3,0,2,0,Meal Plan 2,0,Room_Type 4,100,Online,0,0,0,210.6,2,5/15/2018,Canceled
+INN26326,1,0,0,1,Meal Plan 1,0,Room_Type 1,2,Complementary,0,0,0,0.0,0,1/27/2018,Not_Canceled
+INN26327,2,0,1,0,Meal Plan 1,0,Room_Type 2,8,Online,0,0,0,104.25,1,12/13/2017,Not_Canceled
+INN26328,2,2,1,2,Meal Plan 1,0,Room_Type 6,0,Online,0,0,0,155.33,0,8/31/2017,Not_Canceled
+INN26329,2,0,0,3,Meal Plan 1,0,Room_Type 1,148,Online,0,0,0,105.3,0,5/5/2018,Not_Canceled
+INN26330,2,0,4,9,Not Selected,0,Room_Type 1,0,Online,0,0,0,85.92,1,8/19/2017,Not_Canceled
+INN26331,2,0,0,2,Meal Plan 1,0,Room_Type 1,65,Online,0,0,0,113.4,1,12/30/2017,Not_Canceled
+INN26332,2,0,1,2,Not Selected,0,Room_Type 1,79,Online,0,0,0,76.5,0,3/21/2018,Not_Canceled
+INN26333,3,0,0,1,Meal Plan 1,0,Room_Type 4,23,Online,0,0,0,188.0,2,12/30/2018,Not_Canceled
+INN26334,2,0,1,5,Not Selected,0,Room_Type 1,6,Online,0,0,0,80.0,1,8/10/2017,Not_Canceled
+INN26335,2,0,0,2,Meal Plan 1,0,Room_Type 1,72,Online,0,0,0,85.0,2,11/19/2017,Not_Canceled
+INN26336,1,0,0,1,Meal Plan 1,0,Room_Type 1,14,Online,0,0,0,95.0,2,9/4/2017,Not_Canceled
+INN26337,2,1,0,1,Meal Plan 1,0,Room_Type 6,1,Online,0,0,0,191.0,2,7/20/2018,Not_Canceled
+INN26338,2,0,0,4,Not Selected,0,Room_Type 1,205,Online,0,0,0,85.5,2,10/18/2018,Canceled
+INN26339,2,0,1,1,Meal Plan 1,0,Room_Type 2,16,Online,0,0,0,105.25,1,12/5/2017,Not_Canceled
+INN26340,2,0,0,3,Meal Plan 1,0,Room_Type 1,147,Online,0,0,0,76.5,0,8/11/2017,Canceled
+INN26341,1,0,0,2,Meal Plan 1,0,Room_Type 1,103,Offline,0,0,0,115.0,0,4/19/2018,Canceled
+INN26342,2,0,1,4,Meal Plan 1,0,Room_Type 1,52,Offline,0,0,0,48.4,0,3/7/2018,Not_Canceled
+INN26343,2,0,0,2,Meal Plan 1,0,Room_Type 1,87,Online,0,0,0,118.8,1,10/19/2018,Not_Canceled
+INN26344,2,0,0,2,Not Selected,0,Room_Type 1,111,Online,0,0,0,107.1,1,8/12/2018,Not_Canceled
+INN26345,2,0,1,3,Meal Plan 1,0,Room_Type 1,68,Online,0,0,0,88.4,1,12/8/2018,Not_Canceled
+INN26346,2,0,0,2,Not Selected,0,Room_Type 1,2,Online,0,0,0,85.0,1,1/22/2018,Not_Canceled
+INN26347,2,0,0,2,Not Selected,0,Room_Type 1,47,Online,0,0,0,125.1,1,9/9/2018,Not_Canceled
+INN26348,2,0,0,4,Meal Plan 1,0,Room_Type 1,85,Online,0,0,0,90.95,1,4/12/2018,Not_Canceled
+INN26349,2,0,1,2,Meal Plan 1,0,Room_Type 1,32,Online,0,0,0,111.0,1,10/30/2017,Canceled
+INN26350,2,0,1,3,Meal Plan 1,0,Room_Type 1,1,Offline,0,0,0,176.0,0,9/22/2018,Not_Canceled
+INN26351,1,0,1,0,Meal Plan 1,0,Room_Type 1,76,Offline,0,0,0,120.0,0,10/10/2018,Canceled
+INN26352,2,0,2,3,Meal Plan 1,0,Room_Type 1,131,Online,0,0,0,105.74,1,6/17/2018,Not_Canceled
+INN26353,2,0,2,1,Meal Plan 1,0,Room_Type 1,79,Online,0,0,0,96.3,1,4/16/2018,Not_Canceled
+INN26354,1,0,0,2,Meal Plan 1,0,Room_Type 1,8,Online,0,0,0,127.8,0,9/16/2017,Canceled
+INN26355,2,0,0,1,Not Selected,0,Room_Type 1,54,Online,0,0,0,107.1,1,7/2/2018,Not_Canceled
+INN26356,1,0,0,2,Meal Plan 2,0,Room_Type 1,102,Offline,0,0,0,80.0,0,10/16/2017,Canceled
+INN26357,2,0,0,3,Meal Plan 1,0,Room_Type 1,68,Offline,0,0,0,71.33,0,12/31/2017,Not_Canceled
+INN26358,2,0,2,1,Not Selected,0,Room_Type 1,31,Online,0,0,0,71.1,0,2/20/2018,Canceled
+INN26359,2,0,0,3,Not Selected,0,Room_Type 1,128,Online,0,0,0,103.5,0,7/7/2018,Canceled
+INN26360,2,0,1,4,Meal Plan 1,0,Room_Type 4,108,Online,0,0,0,127.8,2,8/8/2018,Not_Canceled
+INN26361,2,0,0,2,Meal Plan 1,0,Room_Type 1,245,Offline,0,0,0,75.0,0,6/17/2018,Canceled
+INN26362,2,0,2,0,Meal Plan 2,0,Room_Type 1,386,Offline,0,0,0,115.0,1,10/23/2018,Canceled
+INN26363,2,0,2,0,Meal Plan 1,0,Room_Type 1,34,Online,0,0,0,108.9,1,5/22/2018,Not_Canceled
+INN26364,2,0,0,3,Not Selected,0,Room_Type 1,44,Online,0,0,0,113.7,1,10/20/2018,Not_Canceled
+INN26365,2,0,0,4,Meal Plan 1,0,Room_Type 1,24,Online,0,0,0,89.0,2,1/12/2018,Not_Canceled
+INN26366,2,0,2,2,Meal Plan 1,0,Room_Type 1,30,Online,0,0,0,126.9,1,5/15/2018,Not_Canceled
+INN26367,3,0,2,2,Meal Plan 1,0,Room_Type 4,56,Online,0,0,0,168.3,0,7/30/2018,Canceled
+INN26368,2,0,0,4,Meal Plan 2,0,Room_Type 1,294,Offline,0,0,0,58.5,0,9/21/2018,Not_Canceled
+INN26369,2,1,0,2,Meal Plan 1,0,Room_Type 6,5,Online,0,0,0,190.0,2,12/8/2018,Not_Canceled
+INN26370,2,0,0,2,Not Selected,0,Room_Type 1,19,Online,0,0,0,81.0,2,2/23/2018,Not_Canceled
+INN26371,2,0,0,2,Meal Plan 1,0,Room_Type 1,79,Offline,0,0,0,75.0,0,11/13/2017,Not_Canceled
+INN26372,2,0,0,2,Meal Plan 1,0,Room_Type 1,27,Offline,0,0,0,108.0,0,9/30/2017,Not_Canceled
+INN26373,2,0,2,2,Not Selected,0,Room_Type 1,139,Offline,0,0,0,72.25,0,6/19/2018,Not_Canceled
+INN26374,2,0,2,3,Not Selected,0,Room_Type 1,6,Online,0,0,0,97.79,1,9/2/2018,Not_Canceled
+INN26375,1,0,5,10,Meal Plan 1,0,Room_Type 1,11,Aviation,0,0,0,95.0,0,5/9/2018,Canceled
+INN26376,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Aviation,0,0,0,79.0,0,7/20/2018,Not_Canceled
+INN26377,2,0,0,4,Meal Plan 1,0,Room_Type 1,100,Offline,0,0,0,100.0,0,9/28/2018,Canceled
+INN26378,1,0,0,2,Meal Plan 1,0,Room_Type 1,19,Corporate,0,0,0,90.0,0,6/22/2018,Not_Canceled
+INN26379,1,0,1,3,Meal Plan 1,0,Room_Type 1,60,Offline,0,0,0,60.0,0,10/12/2017,Not_Canceled
+INN26380,2,0,0,2,Meal Plan 2,0,Room_Type 4,80,Offline,0,0,0,136.0,0,10/9/2017,Not_Canceled
+INN26381,2,0,0,1,Not Selected,0,Room_Type 1,0,Online,0,0,0,129.0,1,5/14/2018,Not_Canceled
+INN26382,1,0,1,3,Meal Plan 1,0,Room_Type 1,3,Online,0,0,0,0.0,2,3/14/2018,Not_Canceled
+INN26383,1,0,0,1,Meal Plan 1,1,Room_Type 1,2,Corporate,1,0,5,67.0,1,4/20/2018,Not_Canceled
+INN26384,2,0,0,2,Meal Plan 2,0,Room_Type 1,256,Offline,0,0,0,115.0,0,6/15/2018,Canceled
+INN26385,2,0,0,0,Meal Plan 1,0,Room_Type 1,143,Online,0,0,0,0.0,0,4/24/2018,Not_Canceled
+INN26386,2,0,1,2,Not Selected,0,Room_Type 1,0,Online,0,0,0,63.2,1,2/12/2018,Not_Canceled
+INN26387,1,0,0,2,Meal Plan 1,0,Room_Type 1,192,Offline,0,0,0,95.0,0,6/24/2018,Not_Canceled
+INN26388,1,0,0,1,Meal Plan 1,0,Room_Type 1,8,Corporate,0,0,0,89.0,0,10/20/2018,Not_Canceled
+INN26389,1,0,0,2,Meal Plan 2,0,Room_Type 1,74,Offline,0,0,0,87.0,0,9/18/2017,Not_Canceled
+INN26390,2,0,1,0,Meal Plan 1,0,Room_Type 1,3,Offline,0,0,0,115.0,0,9/26/2018,Not_Canceled
+INN26391,2,0,0,2,Meal Plan 1,0,Room_Type 1,86,Corporate,0,0,0,100.0,0,9/9/2017,Not_Canceled
+INN26392,2,0,1,1,Meal Plan 1,0,Room_Type 1,16,Online,0,0,0,90.0,2,8/29/2017,Not_Canceled
+INN26393,2,0,1,1,Meal Plan 2,0,Room_Type 1,247,Offline,0,0,0,115.0,1,6/6/2018,Canceled
+INN26394,2,0,1,1,Not Selected,0,Room_Type 1,62,Online,0,0,0,48.6,0,2/15/2018,Not_Canceled
+INN26395,2,2,0,2,Meal Plan 1,0,Room_Type 6,11,Online,0,0,0,189.0,0,3/18/2018,Canceled
+INN26396,1,0,0,3,Meal Plan 1,0,Room_Type 1,8,Online,0,0,0,92.4,0,10/20/2017,Not_Canceled
+INN26397,2,0,1,1,Meal Plan 1,0,Room_Type 1,47,Online,0,0,0,105.3,0,4/11/2018,Canceled
+INN26398,2,0,1,2,Meal Plan 2,0,Room_Type 1,163,Online,0,0,0,161.1,2,9/5/2018,Canceled
+INN26399,2,0,2,3,Meal Plan 1,0,Room_Type 1,45,Offline,0,0,0,75.0,0,10/30/2018,Not_Canceled
+INN26400,3,0,2,0,Meal Plan 1,0,Room_Type 1,47,Offline,0,0,0,98.1,2,12/4/2018,Not_Canceled
+INN26401,2,0,0,3,Meal Plan 1,0,Room_Type 1,37,Offline,0,0,0,105.0,0,10/13/2018,Not_Canceled
+INN26402,2,0,0,2,Not Selected,0,Room_Type 1,0,Online,0,0,0,79.0,0,2/12/2018,Not_Canceled
+INN26403,3,0,2,8,Meal Plan 1,0,Room_Type 1,132,Online,0,0,0,92.02,2,6/28/2018,Not_Canceled
+INN26404,2,0,2,0,Meal Plan 2,0,Room_Type 1,75,Offline,0,0,0,105.0,0,10/30/2018,Canceled
+INN26405,1,0,0,3,Meal Plan 1,0,Room_Type 4,28,Online,0,0,0,108.42,1,6/14/2018,Not_Canceled
+INN26406,1,0,1,3,Meal Plan 1,0,Room_Type 1,118,Offline,0,0,0,110.0,0,6/6/2018,Not_Canceled
+INN26407,2,0,0,3,Meal Plan 1,0,Room_Type 1,276,Offline,0,0,0,95.0,0,9/22/2018,Canceled
+INN26408,2,0,1,3,Meal Plan 1,0,Room_Type 1,189,Online,0,0,0,108.9,0,10/6/2018,Canceled
+INN26409,3,0,0,3,Meal Plan 1,0,Room_Type 4,132,Online,0,0,0,137.7,0,8/2/2018,Canceled
+INN26410,2,0,1,2,Meal Plan 1,0,Room_Type 1,186,Offline,0,0,0,80.0,0,4/22/2018,Not_Canceled
+INN26411,2,0,0,2,Meal Plan 2,0,Room_Type 1,102,Offline,0,0,0,109.0,0,10/16/2017,Not_Canceled
+INN26412,2,0,0,1,Meal Plan 1,0,Room_Type 1,2,Online,0,0,0,111.0,1,11/22/2018,Not_Canceled
+INN26413,2,0,2,1,Meal Plan 1,0,Room_Type 1,109,Online,0,0,0,77.03,1,4/30/2018,Not_Canceled
+INN26414,2,0,2,3,Meal Plan 1,0,Room_Type 1,42,Online,0,0,0,88.4,2,12/11/2018,Not_Canceled
+INN26415,2,0,2,0,Meal Plan 1,0,Room_Type 1,83,Offline,0,0,0,75.0,0,12/18/2018,Not_Canceled
+INN26416,1,0,2,1,Meal Plan 2,0,Room_Type 1,80,Offline,0,0,0,100.0,0,4/10/2018,Canceled
+INN26417,1,0,2,5,Meal Plan 1,0,Room_Type 1,14,Online,0,0,0,90.1,0,12/6/2018,Not_Canceled
+INN26418,2,0,2,2,Not Selected,0,Room_Type 1,4,Online,0,0,0,87.63,1,11/18/2018,Not_Canceled
+INN26419,2,0,2,3,Meal Plan 1,0,Room_Type 4,55,Online,0,0,0,139.5,2,10/13/2018,Not_Canceled
+INN26420,2,2,2,2,Meal Plan 1,0,Room_Type 6,0,Online,0,0,0,78.42,1,3/25/2018,Not_Canceled
+INN26421,2,0,0,1,Meal Plan 1,0,Room_Type 1,14,Online,0,0,0,160.0,0,10/22/2018,Canceled
+INN26422,2,0,2,3,Meal Plan 1,0,Room_Type 1,39,Online,0,0,0,88.4,2,11/20/2018,Not_Canceled
+INN26423,2,0,0,1,Meal Plan 1,0,Room_Type 1,90,Online,0,0,0,105.3,0,7/13/2018,Canceled
+INN26424,1,0,0,1,Meal Plan 1,0,Room_Type 5,2,Corporate,0,0,0,109.0,0,6/2/2018,Not_Canceled
+INN26425,1,0,0,3,Meal Plan 1,0,Room_Type 1,37,Offline,0,0,0,95.0,0,10/13/2018,Not_Canceled
+INN26426,2,0,0,4,Not Selected,0,Room_Type 1,7,Online,0,0,0,106.36,1,11/8/2018,Not_Canceled
+INN26427,2,0,1,2,Meal Plan 1,0,Room_Type 1,57,Offline,0,0,0,90.67,1,6/10/2018,Not_Canceled
+INN26428,1,0,0,1,Meal Plan 1,0,Room_Type 1,22,Corporate,0,0,0,62.0,0,11/17/2017,Not_Canceled
+INN26429,2,0,0,2,Meal Plan 1,0,Room_Type 1,177,Offline,0,0,0,100.0,0,6/3/2018,Canceled
+INN26430,3,0,2,3,Meal Plan 1,0,Room_Type 4,64,Online,0,0,0,119.51,2,4/1/2018,Not_Canceled
+INN26431,2,0,1,2,Meal Plan 1,0,Room_Type 1,52,Online,0,0,0,100.33,1,12/28/2017,Not_Canceled
+INN26432,1,0,1,1,Meal Plan 1,0,Room_Type 1,66,Online,0,0,0,99.9,0,4/4/2018,Not_Canceled
+INN26433,2,0,0,4,Meal Plan 1,0,Room_Type 1,45,Online,0,0,0,104.98,0,4/26/2018,Canceled
+INN26434,2,0,2,3,Meal Plan 1,0,Room_Type 1,244,Online,0,0,0,85.85,0,10/30/2018,Canceled
+INN26435,1,0,1,2,Meal Plan 1,0,Room_Type 5,213,Corporate,0,0,0,106.0,0,9/26/2018,Canceled
+INN26436,2,3,1,0,Meal Plan 1,0,Room_Type 7,5,Online,0,0,0,171.26,2,2/1/2018,Not_Canceled
+INN26437,2,2,4,10,Meal Plan 1,1,Room_Type 7,120,Online,0,0,0,220.0,1,8/5/2018,Canceled
+INN26438,1,0,0,1,Meal Plan 1,0,Room_Type 1,3,Online,0,0,0,86.0,0,2/4/2018,Not_Canceled
+INN26439,2,0,0,2,Meal Plan 2,0,Room_Type 1,102,Offline,0,0,0,109.0,0,10/16/2017,Not_Canceled
+INN26440,3,0,0,3,Meal Plan 1,1,Room_Type 4,94,Online,0,0,0,149.7,0,7/28/2018,Not_Canceled
+INN26441,2,0,0,2,Meal Plan 2,0,Room_Type 1,39,Offline,0,0,0,101.5,0,8/14/2017,Not_Canceled
+INN26442,2,0,2,2,Meal Plan 1,0,Room_Type 1,136,Online,0,0,0,116.73,1,8/20/2018,Not_Canceled
+INN26443,1,0,0,2,Meal Plan 2,0,Room_Type 1,273,Offline,0,0,0,87.0,0,7/17/2017,Not_Canceled
+INN26444,2,0,2,2,Meal Plan 1,0,Room_Type 1,5,Online,0,0,0,166.5,1,9/17/2018,Canceled
+INN26445,2,0,0,1,Meal Plan 1,0,Room_Type 1,87,Corporate,0,0,0,100.0,0,9/10/2017,Canceled
+INN26446,2,2,0,2,Meal Plan 1,1,Room_Type 6,38,Online,0,0,0,187.0,0,11/4/2018,Not_Canceled
+INN26447,3,0,0,1,Not Selected,0,Room_Type 1,19,Online,0,0,0,154.0,0,4/13/2018,Not_Canceled
+INN26448,2,0,2,2,Meal Plan 1,0,Room_Type 1,107,Offline,0,0,0,79.22,0,10/23/2018,Not_Canceled
+INN26449,2,0,1,1,Not Selected,0,Room_Type 1,76,Offline,0,0,0,63.75,0,7/25/2018,Canceled
+INN26450,2,0,1,1,Not Selected,0,Room_Type 1,220,Online,0,0,0,85.5,0,8/29/2018,Canceled
+INN26451,2,0,1,3,Meal Plan 1,0,Room_Type 1,162,Online,0,0,0,105.83,1,8/15/2018,Canceled
+INN26452,1,0,1,1,Meal Plan 1,0,Room_Type 1,118,Offline,0,0,0,110.0,0,6/6/2018,Not_Canceled
+INN26453,2,0,0,3,Meal Plan 1,0,Room_Type 1,30,Online,0,0,0,104.0,2,11/30/2018,Not_Canceled
+INN26454,2,0,2,3,Meal Plan 1,0,Room_Type 1,118,Online,0,0,0,85.0,2,11/25/2018,Not_Canceled
+INN26455,1,0,0,1,Meal Plan 1,0,Room_Type 1,17,Corporate,0,0,0,65.0,0,12/9/2018,Not_Canceled
+INN26456,1,0,0,2,Not Selected,0,Room_Type 1,1,Online,0,0,0,133.98,1,10/7/2018,Not_Canceled
+INN26457,2,0,2,2,Meal Plan 1,0,Room_Type 1,141,Online,0,0,0,85.0,0,11/27/2018,Not_Canceled
+INN26458,2,0,0,2,Meal Plan 1,0,Room_Type 1,64,Corporate,0,0,0,140.0,1,5/17/2018,Not_Canceled
+INN26459,2,0,1,2,Not Selected,1,Room_Type 1,12,Online,0,0,0,128.0,2,8/1/2018,Not_Canceled
+INN26460,2,0,0,2,Meal Plan 1,0,Room_Type 1,315,Offline,0,0,0,52.0,0,12/2/2018,Not_Canceled
+INN26461,2,0,2,2,Meal Plan 1,0,Room_Type 4,30,Online,0,0,0,140.88,2,11/4/2018,Not_Canceled
+INN26462,1,1,2,1,Meal Plan 1,0,Room_Type 1,18,Online,0,0,0,137.67,0,3/19/2018,Canceled
+INN26463,2,0,0,3,Meal Plan 1,0,Room_Type 1,126,Offline,0,0,0,80.75,1,6/2/2018,Not_Canceled
+INN26464,2,0,1,5,Meal Plan 1,0,Room_Type 4,89,Online,0,0,0,121.8,1,7/26/2018,Not_Canceled
+INN26465,2,0,2,3,Meal Plan 1,0,Room_Type 1,30,Online,0,0,0,85.7,0,3/5/2018,Not_Canceled
+INN26466,2,0,1,3,Meal Plan 1,0,Room_Type 4,78,Online,0,0,0,105.61,0,12/26/2018,Canceled
+INN26467,2,0,1,0,Meal Plan 1,1,Room_Type 1,17,Online,0,0,0,106.0,2,12/28/2017,Not_Canceled
+INN26468,1,0,0,2,Meal Plan 1,0,Room_Type 1,6,Corporate,0,0,0,65.0,0,9/30/2017,Not_Canceled
+INN26469,2,0,0,4,Not Selected,0,Room_Type 1,64,Offline,0,0,0,85.0,0,5/10/2018,Not_Canceled
+INN26470,1,0,2,1,Meal Plan 1,0,Room_Type 1,1,Offline,0,0,0,60.0,0,2/28/2018,Canceled
+INN26471,3,0,2,2,Meal Plan 1,0,Room_Type 4,119,Online,0,0,0,139.95,0,7/31/2018,Not_Canceled
+INN26472,1,0,0,3,Meal Plan 1,0,Room_Type 1,89,Online,0,0,0,63.75,1,11/17/2017,Not_Canceled
+INN26473,2,0,0,2,Meal Plan 2,0,Room_Type 1,257,Offline,0,0,0,101.5,0,7/1/2017,Canceled
+INN26474,2,0,0,2,Meal Plan 2,0,Room_Type 1,39,Offline,0,0,0,101.5,0,8/14/2017,Not_Canceled
+INN26475,2,1,2,5,Meal Plan 1,0,Room_Type 1,162,Online,0,0,0,158.56,0,12/26/2018,Not_Canceled
+INN26476,1,0,1,0,Meal Plan 1,0,Room_Type 1,3,Offline,0,0,0,75.0,0,10/24/2018,Not_Canceled
+INN26477,2,0,2,1,Meal Plan 1,0,Room_Type 1,216,Online,0,0,0,78.3,1,12/4/2018,Not_Canceled
+INN26478,2,0,0,3,Not Selected,0,Room_Type 1,146,Online,0,0,0,94.5,1,7/27/2018,Not_Canceled
+INN26479,2,0,0,2,Not Selected,0,Room_Type 1,24,Online,0,0,0,79.0,1,2/26/2018,Not_Canceled
+INN26480,3,0,1,0,Meal Plan 1,0,Room_Type 4,12,Online,0,0,0,177.0,2,6/20/2018,Not_Canceled
+INN26481,2,2,1,3,Meal Plan 1,0,Room_Type 6,63,Online,0,0,0,190.8,3,10/17/2018,Not_Canceled
+INN26482,2,0,0,1,Not Selected,0,Room_Type 1,8,Online,0,0,0,79.0,1,6/23/2018,Canceled
+INN26483,2,0,0,1,Meal Plan 1,0,Room_Type 1,67,Online,0,0,0,72.25,2,11/13/2017,Not_Canceled
+INN26484,3,0,0,1,Meal Plan 1,0,Room_Type 4,14,Online,0,0,0,205.0,2,9/15/2018,Not_Canceled
+INN26485,2,2,0,1,Meal Plan 1,0,Room_Type 6,45,Online,0,0,0,207.9,2,8/20/2018,Not_Canceled
+INN26486,1,0,0,2,Meal Plan 1,0,Room_Type 1,7,Corporate,0,0,0,65.0,0,9/8/2017,Not_Canceled
+INN26487,2,0,0,3,Meal Plan 1,0,Room_Type 4,90,Offline,0,0,0,112.88,0,9/7/2018,Not_Canceled
+INN26488,1,0,2,2,Meal Plan 1,0,Room_Type 1,163,Offline,0,0,0,100.0,0,6/5/2018,Canceled
+INN26489,2,0,0,2,Meal Plan 1,0,Room_Type 1,70,Offline,0,0,0,100.0,0,6/3/2018,Not_Canceled
+INN26490,2,2,0,1,Meal Plan 1,0,Room_Type 6,173,Online,0,0,0,177.3,2,7/8/2018,Canceled
+INN26491,3,0,0,3,Meal Plan 1,0,Room_Type 1,142,Offline,0,0,0,148.0,1,6/29/2018,Not_Canceled
+INN26492,1,0,0,3,Meal Plan 1,0,Room_Type 1,19,Offline,1,1,0,80.0,0,10/6/2017,Not_Canceled
+INN26493,2,0,1,3,Not Selected,0,Room_Type 1,41,Online,0,0,0,116.1,0,5/9/2018,Canceled
+INN26494,2,0,0,3,Meal Plan 1,0,Room_Type 1,163,Offline,0,0,0,110.0,0,9/8/2018,Canceled
+INN26495,1,0,2,3,Meal Plan 1,0,Room_Type 4,1,Aviation,0,0,0,110.0,0,9/10/2018,Not_Canceled
+INN26496,2,0,0,3,Meal Plan 1,0,Room_Type 1,44,Offline,0,0,0,75.0,0,2/17/2018,Not_Canceled
+INN26497,2,0,2,1,Not Selected,0,Room_Type 1,17,Online,0,0,0,88.0,1,11/13/2018,Canceled
+INN26498,2,0,2,3,Meal Plan 1,0,Room_Type 1,73,Online,0,0,0,71.0,0,1/21/2018,Not_Canceled
+INN26499,1,0,0,1,Meal Plan 1,0,Room_Type 1,55,Corporate,0,0,0,79.0,0,7/7/2018,Not_Canceled
+INN26500,3,0,0,4,Meal Plan 1,0,Room_Type 4,87,Online,0,0,0,150.3,0,8/9/2018,Canceled
+INN26501,2,0,0,2,Meal Plan 1,0,Room_Type 1,182,Online,0,0,0,117.9,2,9/30/2018,Canceled
+INN26502,2,0,0,3,Meal Plan 1,0,Room_Type 1,116,Online,0,0,0,89.25,0,10/27/2017,Not_Canceled
+INN26503,2,0,0,1,Meal Plan 1,0,Room_Type 1,200,Online,0,0,0,76.5,3,8/22/2017,Not_Canceled
+INN26504,1,0,1,5,Meal Plan 1,0,Room_Type 1,349,Offline,0,0,0,96.67,0,10/4/2018,Not_Canceled
+INN26505,2,0,0,3,Meal Plan 1,0,Room_Type 1,279,Offline,0,0,0,110.0,0,10/12/2018,Canceled
+INN26506,2,0,0,4,Meal Plan 1,0,Room_Type 1,7,Offline,0,0,0,71.0,0,12/30/2017,Not_Canceled
+INN26507,2,0,1,0,Meal Plan 1,0,Room_Type 1,286,Offline,0,0,0,90.0,0,10/16/2018,Canceled
+INN26508,2,0,0,1,Meal Plan 2,0,Room_Type 1,219,Offline,0,0,0,108.0,0,9/4/2017,Canceled
+INN26509,3,0,0,1,Meal Plan 1,0,Room_Type 4,0,Online,0,0,0,208.0,0,7/13/2018,Canceled
+INN26510,2,0,0,2,Meal Plan 1,0,Room_Type 1,12,Offline,0,0,0,58.0,0,12/16/2017,Not_Canceled
+INN26511,1,0,0,1,Meal Plan 1,0,Room_Type 1,2,Corporate,0,0,0,65.0,0,12/2/2017,Not_Canceled
+INN26512,2,0,2,3,Meal Plan 1,0,Room_Type 1,53,Offline,0,0,0,60.0,0,1/24/2018,Not_Canceled
+INN26513,2,0,1,2,Meal Plan 1,0,Room_Type 1,305,Offline,0,0,0,89.0,0,11/4/2018,Canceled
+INN26514,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Corporate,0,0,0,65.0,0,5/4/2018,Not_Canceled
+INN26515,2,2,0,2,Meal Plan 1,0,Room_Type 6,21,Online,0,0,0,174.0,1,11/18/2018,Canceled
+INN26516,1,0,0,1,Meal Plan 1,1,Room_Type 1,0,Corporate,0,0,0,50.0,1,3/10/2018,Not_Canceled
+INN26517,2,0,2,5,Not Selected,0,Room_Type 1,162,Online,0,0,0,86.82,0,7/14/2018,Canceled
+INN26518,3,0,2,2,Meal Plan 1,0,Room_Type 4,99,Online,0,0,0,130.05,0,6/26/2018,Canceled
+INN26519,3,0,1,4,Meal Plan 1,0,Room_Type 4,122,Online,0,0,0,151.2,2,10/12/2018,Not_Canceled
+INN26520,2,0,2,5,Meal Plan 1,0,Room_Type 1,158,Online,0,0,0,99.45,0,8/1/2018,Canceled
+INN26521,2,0,2,1,Meal Plan 1,0,Room_Type 1,18,Offline,0,0,0,80.0,0,12/24/2018,Not_Canceled
+INN26522,1,0,0,3,Meal Plan 1,0,Room_Type 1,37,Offline,0,0,0,95.0,0,10/13/2018,Not_Canceled
+INN26523,2,0,0,2,Meal Plan 1,0,Room_Type 1,74,Online,0,0,0,93.6,3,11/4/2018,Not_Canceled
+INN26524,2,0,1,3,Meal Plan 1,0,Room_Type 1,335,Offline,0,0,0,90.0,1,10/13/2018,Not_Canceled
+INN26525,2,0,0,3,Meal Plan 1,0,Room_Type 1,44,Offline,0,0,0,75.0,0,2/17/2018,Not_Canceled
+INN26526,2,1,0,1,Meal Plan 1,0,Room_Type 1,62,Online,0,0,0,143.1,0,5/7/2018,Canceled
+INN26527,1,0,1,0,Meal Plan 1,0,Room_Type 1,10,Corporate,0,0,0,65.0,0,10/18/2017,Not_Canceled
+INN26528,2,0,0,2,Meal Plan 2,0,Room_Type 1,257,Offline,0,0,0,101.5,0,7/1/2017,Canceled
+INN26529,2,0,2,5,Meal Plan 1,0,Room_Type 1,100,Online,0,0,0,86.09,1,4/8/2018,Not_Canceled
+INN26530,3,0,0,1,Meal Plan 1,0,Room_Type 4,11,Online,0,0,0,186.0,2,5/28/2018,Not_Canceled
+INN26531,2,0,1,4,Meal Plan 1,0,Room_Type 4,74,Offline,0,0,0,90.95,0,5/2/2018,Not_Canceled
+INN26532,2,0,1,3,Not Selected,0,Room_Type 1,37,Online,0,0,0,74.25,0,12/10/2017,Not_Canceled
+INN26533,2,0,2,2,Meal Plan 1,0,Room_Type 1,86,Online,0,0,0,73.95,0,3/20/2018,Not_Canceled
+INN26534,1,0,1,5,Meal Plan 1,0,Room_Type 1,18,Offline,0,0,0,47.67,0,2/22/2018,Canceled
+INN26535,2,0,0,1,Meal Plan 2,0,Room_Type 1,48,Offline,0,0,0,104.0,0,9/11/2017,Not_Canceled
+INN26536,2,0,0,1,Meal Plan 1,0,Room_Type 1,105,Offline,0,0,0,75.0,0,4/6/2018,Canceled
+INN26537,2,0,1,2,Not Selected,0,Room_Type 1,27,Online,0,0,0,115.0,1,9/18/2017,Not_Canceled
+INN26538,2,0,2,2,Meal Plan 1,0,Room_Type 1,71,Online,0,0,0,131.4,1,8/26/2018,Not_Canceled
+INN26539,2,0,2,1,Meal Plan 1,0,Room_Type 1,8,Offline,0,0,0,86.53,0,7/31/2018,Not_Canceled
+INN26540,2,0,2,3,Meal Plan 1,0,Room_Type 1,67,Online,0,0,0,105.3,3,7/24/2018,Not_Canceled
+INN26541,2,1,0,5,Meal Plan 2,0,Room_Type 1,21,Online,0,0,0,115.55,3,11/22/2018,Not_Canceled
+INN26542,2,1,2,0,Meal Plan 1,0,Room_Type 1,90,Online,0,0,0,109.8,1,12/18/2018,Not_Canceled
+INN26543,2,0,2,2,Meal Plan 1,0,Room_Type 1,6,Offline,0,0,0,87.0,0,2/14/2018,Not_Canceled
+INN26544,3,0,0,1,Meal Plan 1,0,Room_Type 4,8,Online,0,0,0,154.0,0,12/8/2018,Not_Canceled
+INN26545,1,0,0,1,Meal Plan 1,0,Room_Type 1,5,Corporate,1,0,1,95.0,0,4/6/2018,Not_Canceled
+INN26546,2,0,0,3,Meal Plan 1,0,Room_Type 1,433,Offline,0,0,0,70.0,0,9/8/2018,Canceled
+INN26547,2,0,0,1,Meal Plan 1,0,Room_Type 4,17,Online,0,0,0,183.0,1,9/16/2018,Not_Canceled
+INN26548,1,0,0,0,Meal Plan 1,0,Room_Type 1,5,Complementary,0,0,0,0.0,0,12/1/2017,Not_Canceled
+INN26549,2,0,2,3,Not Selected,0,Room_Type 1,72,Online,0,0,0,72.25,1,3/18/2018,Canceled
+INN26550,2,0,2,1,Meal Plan 1,0,Room_Type 1,25,Online,0,0,0,62.64,0,12/26/2017,Not_Canceled
+INN26551,2,0,2,5,Meal Plan 2,0,Room_Type 4,115,Online,0,0,0,141.84,0,9/18/2018,Not_Canceled
+INN26552,2,0,2,0,Meal Plan 1,0,Room_Type 1,34,Online,0,0,0,103.05,2,10/11/2017,Not_Canceled
+INN26553,1,0,0,1,Meal Plan 2,0,Room_Type 1,221,Offline,0,0,0,73.0,0,8/12/2018,Not_Canceled
+INN26554,2,0,1,3,Meal Plan 1,0,Room_Type 4,66,Online,0,0,0,149.4,1,9/8/2018,Canceled
+INN26555,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,88.0,0,1/7/2018,Not_Canceled
+INN26556,1,0,1,0,Meal Plan 1,0,Room_Type 1,110,Online,0,0,0,84.6,0,11/28/2018,Not_Canceled
+INN26557,3,0,2,2,Meal Plan 1,0,Room_Type 4,2,Online,0,0,0,147.0,2,3/27/2018,Not_Canceled
+INN26558,2,1,1,1,Meal Plan 1,0,Room_Type 1,9,Offline,0,0,0,90.5,1,9/21/2017,Not_Canceled
+INN26559,1,0,1,0,Meal Plan 1,0,Room_Type 1,1,Online,0,0,0,95.0,1,3/27/2018,Not_Canceled
+INN26560,2,0,2,3,Meal Plan 1,0,Room_Type 4,61,Offline,0,0,0,56.0,0,12/27/2017,Not_Canceled
+INN26561,2,0,0,1,Meal Plan 1,0,Room_Type 1,43,Online,0,0,0,0.0,0,10/23/2017,Not_Canceled
+INN26562,1,0,1,1,Not Selected,0,Room_Type 1,0,Online,0,0,0,73.15,0,11/7/2017,Not_Canceled
+INN26563,2,0,0,1,Meal Plan 1,0,Room_Type 1,8,Offline,0,0,0,130.0,0,11/5/2018,Not_Canceled
+INN26564,2,0,0,3,Meal Plan 1,0,Room_Type 1,9,Online,0,0,0,81.0,1,8/19/2017,Not_Canceled
+INN26565,1,0,0,3,Meal Plan 1,0,Room_Type 1,34,Corporate,0,0,0,80.0,0,12/1/2017,Not_Canceled
+INN26566,2,0,1,3,Meal Plan 1,0,Room_Type 6,0,Online,0,0,0,150.92,1,6/13/2018,Not_Canceled
+INN26567,2,0,0,1,Meal Plan 2,0,Room_Type 1,55,Offline,0,0,0,104.0,0,4/6/2018,Not_Canceled
+INN26568,1,0,2,4,Meal Plan 1,0,Room_Type 4,27,Online,0,0,0,101.43,3,11/11/2018,Not_Canceled
+INN26569,2,0,1,2,Meal Plan 1,0,Room_Type 1,4,Offline,0,0,0,66.0,0,1/29/2018,Not_Canceled
+INN26570,2,0,0,1,Meal Plan 1,0,Room_Type 1,11,Online,0,0,0,90.0,1,8/29/2017,Not_Canceled
+INN26571,1,0,0,3,Meal Plan 1,0,Room_Type 1,183,Online,0,0,0,103.5,2,10/4/2018,Canceled
+INN26572,2,0,0,3,Meal Plan 1,0,Room_Type 1,103,Offline,0,0,0,80.0,0,5/4/2018,Not_Canceled
+INN26573,2,0,2,5,Meal Plan 1,0,Room_Type 1,167,Online,0,0,0,119.85,0,9/3/2018,Canceled
+INN26574,2,0,1,2,Meal Plan 1,0,Room_Type 1,50,Offline,0,0,0,75.0,1,11/11/2018,Not_Canceled
+INN26575,2,0,2,3,Meal Plan 1,0,Room_Type 4,4,Online,0,0,0,103.18,1,4/21/2018,Not_Canceled
+INN26576,2,0,0,1,Not Selected,0,Room_Type 1,1,Online,0,0,0,91.0,1,2/27/2018,Not_Canceled
+INN26577,2,0,0,2,Meal Plan 1,0,Room_Type 1,245,Offline,0,0,0,75.0,0,6/17/2018,Canceled
+INN26578,2,0,0,3,Meal Plan 1,0,Room_Type 1,142,Online,0,0,0,99.3,0,8/24/2018,Not_Canceled
+INN26579,2,2,0,4,Meal Plan 1,0,Room_Type 6,82,Online,0,0,0,158.83,0,3/23/2018,Not_Canceled
+INN26580,2,0,0,1,Not Selected,0,Room_Type 1,6,Online,0,0,0,100.0,0,3/4/2018,Not_Canceled
+INN26581,1,0,0,2,Meal Plan 1,0,Room_Type 1,5,Corporate,0,0,0,65.0,0,9/2/2017,Not_Canceled
+INN26582,2,0,1,5,Meal Plan 1,0,Room_Type 1,15,Offline,0,0,0,70.0,1,12/27/2018,Not_Canceled
+INN26583,2,0,2,1,Meal Plan 1,0,Room_Type 1,55,Online,0,0,0,78.3,1,3/13/2018,Not_Canceled
+INN26584,2,0,0,3,Meal Plan 1,0,Room_Type 1,204,Offline,0,0,0,100.0,0,5/5/2018,Canceled
+INN26585,2,0,2,2,Not Selected,1,Room_Type 1,192,Online,0,0,0,72.75,2,12/4/2018,Not_Canceled
+INN26586,2,0,2,1,Not Selected,0,Room_Type 1,67,Online,0,0,0,79.2,2,11/12/2018,Not_Canceled
+INN26587,3,0,2,2,Meal Plan 1,0,Room_Type 4,53,Online,0,0,0,124.1,1,3/20/2018,Canceled
+INN26588,2,0,2,1,Meal Plan 2,0,Room_Type 1,96,Offline,0,0,0,94.5,0,7/11/2017,Not_Canceled
+INN26589,3,0,0,4,Meal Plan 1,0,Room_Type 4,175,Online,0,0,0,115.6,0,12/7/2018,Not_Canceled
+INN26590,2,0,0,2,Meal Plan 1,0,Room_Type 1,301,Offline,0,0,0,52.0,0,11/18/2018,Canceled
+INN26591,3,0,1,2,Meal Plan 1,0,Room_Type 4,141,Online,0,0,0,137.7,0,8/22/2018,Canceled
+INN26592,2,0,2,1,Not Selected,0,Room_Type 1,14,Online,0,0,0,79.0,1,2/13/2018,Not_Canceled
+INN26593,2,0,0,1,Meal Plan 1,0,Room_Type 1,56,Offline,0,0,0,120.0,0,6/8/2018,Not_Canceled
+INN26594,2,0,1,4,Meal Plan 1,0,Room_Type 1,236,Online,0,0,0,90.95,1,8/22/2018,Canceled
+INN26595,1,0,0,3,Meal Plan 1,0,Room_Type 1,19,Offline,1,1,0,80.0,0,10/6/2017,Not_Canceled
+INN26596,1,0,1,2,Meal Plan 1,0,Room_Type 1,118,Offline,0,0,0,110.0,0,6/6/2018,Not_Canceled
+INN26597,2,0,2,3,Meal Plan 1,0,Room_Type 4,54,Online,0,0,0,112.2,0,4/10/2018,Canceled
+INN26598,1,0,1,0,Meal Plan 1,0,Room_Type 1,25,Online,0,0,0,77.77,0,11/16/2017,Not_Canceled
+INN26599,1,0,1,1,Meal Plan 1,0,Room_Type 1,67,Online,0,0,0,57.83,1,3/5/2018,Not_Canceled
+INN26600,2,0,0,3,Meal Plan 1,0,Room_Type 1,29,Offline,0,0,0,66.0,0,2/9/2018,Not_Canceled
+INN26601,1,0,0,3,Meal Plan 1,0,Room_Type 1,4,Offline,0,0,0,111.2,1,9/22/2017,Not_Canceled
+INN26602,3,0,2,1,Meal Plan 1,0,Room_Type 4,56,Online,0,0,0,177.3,3,6/12/2018,Not_Canceled
+INN26603,2,0,2,3,Meal Plan 2,0,Room_Type 1,137,Online,0,0,0,146.1,2,12/24/2018,Not_Canceled
+INN26604,2,0,0,2,Meal Plan 1,0,Room_Type 1,185,Online,0,0,0,81.77,2,5/6/2018,Canceled
+INN26605,2,0,1,2,Meal Plan 1,1,Room_Type 1,126,Online,0,0,0,85.5,1,7/27/2017,Not_Canceled
+INN26606,1,0,2,4,Meal Plan 1,0,Room_Type 1,30,Online,0,0,0,73.42,0,2/20/2018,Canceled
+INN26607,2,1,0,3,Meal Plan 1,0,Room_Type 4,184,Online,0,0,0,122.4,0,10/4/2018,Canceled
+INN26608,2,0,2,2,Meal Plan 1,0,Room_Type 1,75,Online,0,0,0,76.5,1,10/31/2017,Canceled
+INN26609,2,0,2,9,Meal Plan 1,0,Room_Type 1,72,Offline,0,0,0,58.91,1,12/23/2017,Not_Canceled
+INN26610,2,0,0,2,Meal Plan 2,0,Room_Type 1,346,Offline,0,0,0,115.0,1,9/13/2018,Canceled
+INN26611,1,0,1,3,Not Selected,0,Room_Type 1,2,Online,0,0,0,42.28,1,12/12/2018,Not_Canceled
+INN26612,2,1,1,4,Meal Plan 1,0,Room_Type 1,43,Online,0,0,0,152.1,0,8/22/2018,Not_Canceled
+INN26613,2,0,0,2,Meal Plan 1,0,Room_Type 1,211,Offline,0,0,0,100.0,0,5/20/2018,Canceled
+INN26614,1,0,0,2,Meal Plan 1,0,Room_Type 1,164,Offline,0,0,0,100.0,0,10/2/2017,Not_Canceled
+INN26615,2,0,1,1,Meal Plan 1,0,Room_Type 1,27,Online,0,0,0,91.0,1,2/20/2018,Canceled
+INN26616,2,0,0,1,Meal Plan 2,0,Room_Type 1,72,Offline,0,0,0,108.0,0,9/18/2017,Not_Canceled
+INN26617,2,0,2,1,Meal Plan 1,0,Room_Type 1,263,Offline,0,0,0,72.08,0,8/13/2018,Canceled
+INN26618,2,0,2,2,Meal Plan 1,0,Room_Type 4,133,Online,0,0,0,86.43,1,5/27/2018,Not_Canceled
+INN26619,2,0,2,4,Meal Plan 2,0,Room_Type 4,67,Online,0,0,0,183.6,2,9/8/2018,Not_Canceled
+INN26620,2,0,0,4,Meal Plan 1,0,Room_Type 4,57,Online,0,0,0,117.73,1,4/26/2018,Not_Canceled
+INN26621,2,0,0,4,Meal Plan 1,0,Room_Type 4,77,Online,0,0,0,132.6,2,5/10/2018,Not_Canceled
+INN26622,2,0,1,2,Meal Plan 1,0,Room_Type 1,24,Online,0,0,0,124.0,1,9/18/2017,Canceled
+INN26623,2,0,0,2,Meal Plan 1,0,Room_Type 1,28,Corporate,0,0,0,109.0,0,5/19/2018,Not_Canceled
+INN26624,1,0,1,1,Meal Plan 1,0,Room_Type 1,0,Corporate,0,0,0,185.0,0,9/19/2018,Not_Canceled
+INN26625,3,0,2,5,Meal Plan 1,0,Room_Type 1,118,Online,0,0,0,133.46,1,7/11/2018,Not_Canceled
+INN26626,2,2,1,1,Meal Plan 1,1,Room_Type 6,2,Online,0,0,0,225.0,2,8/6/2018,Not_Canceled
+INN26627,2,0,0,3,Meal Plan 1,0,Room_Type 1,34,Online,0,0,0,145.8,2,9/10/2017,Not_Canceled
+INN26628,2,0,2,5,Meal Plan 1,0,Room_Type 4,171,Online,0,0,0,106.13,1,7/20/2018,Canceled
+INN26629,2,0,2,2,Meal Plan 1,0,Room_Type 4,144,Online,0,0,0,118.15,1,5/27/2018,Canceled
+INN26630,2,0,0,4,Not Selected,0,Room_Type 1,29,Online,0,0,0,74.8,1,11/15/2018,Canceled
+INN26631,2,0,2,2,Meal Plan 2,0,Room_Type 1,169,Offline,0,0,0,106.0,0,4/22/2018,Canceled
+INN26632,3,0,2,5,Meal Plan 1,1,Room_Type 4,106,Online,0,0,0,128.0,2,12/21/2018,Not_Canceled
+INN26633,2,1,0,3,Meal Plan 1,0,Room_Type 1,110,Online,0,0,0,96.3,1,4/27/2018,Not_Canceled
+INN26634,2,0,0,2,Meal Plan 1,0,Room_Type 1,298,Offline,0,0,0,75.0,0,5/10/2018,Canceled
+INN26635,2,0,0,4,Meal Plan 1,0,Room_Type 1,10,Online,0,0,0,93.0,1,2/24/2018,Not_Canceled
+INN26636,2,0,0,1,Meal Plan 1,0,Room_Type 4,19,Online,0,0,0,130.0,1,11/4/2018,Canceled
+INN26637,2,0,1,2,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,124.0,0,8/21/2017,Canceled
+INN26638,2,2,0,3,Meal Plan 1,0,Room_Type 6,101,Online,0,0,0,186.3,0,6/28/2018,Canceled
+INN26639,1,0,0,1,Meal Plan 1,0,Room_Type 1,99,Corporate,0,0,0,80.0,0,2/19/2018,Not_Canceled
+INN26640,2,0,1,2,Meal Plan 1,0,Room_Type 1,280,Offline,0,0,0,110.0,0,9/19/2018,Canceled
+INN26641,2,0,0,2,Meal Plan 1,0,Room_Type 6,132,Online,0,0,0,153.0,2,11/25/2018,Not_Canceled
+INN26642,2,0,0,3,Meal Plan 1,0,Room_Type 2,113,Online,0,0,0,78.15,1,3/31/2018,Not_Canceled
+INN26643,2,0,0,2,Meal Plan 2,0,Room_Type 1,257,Offline,0,0,0,101.5,0,7/1/2017,Canceled
+INN26644,2,0,2,1,Meal Plan 2,0,Room_Type 1,103,Offline,0,0,0,94.5,0,7/18/2017,Not_Canceled
+INN26645,2,0,1,3,Meal Plan 1,0,Room_Type 1,84,Offline,0,0,0,72.25,0,7/25/2018,Not_Canceled
+INN26646,2,0,0,2,Not Selected,0,Room_Type 2,103,Online,0,0,0,116.1,0,6/14/2018,Canceled
+INN26647,2,0,1,3,Meal Plan 1,0,Room_Type 1,46,Offline,0,0,0,80.75,0,3/28/2018,Not_Canceled
+INN26648,2,0,0,3,Meal Plan 1,1,Room_Type 1,119,Online,0,0,0,76.5,2,8/13/2017,Not_Canceled
+INN26649,1,0,0,2,Meal Plan 1,1,Room_Type 1,9,Corporate,1,0,2,67.0,1,10/13/2018,Not_Canceled
+INN26650,2,0,2,1,Meal Plan 2,0,Room_Type 1,110,Offline,0,0,0,94.5,0,7/25/2017,Canceled
+INN26651,2,0,0,1,Meal Plan 1,0,Room_Type 1,31,Online,0,0,0,117.9,0,4/2/2018,Canceled
+INN26652,2,0,1,2,Meal Plan 1,0,Room_Type 1,338,Offline,0,0,0,90.67,1,10/7/2018,Not_Canceled
+INN26653,2,0,1,1,Meal Plan 1,0,Room_Type 1,174,Offline,0,0,0,70.0,0,10/10/2017,Canceled
+INN26654,2,0,0,2,Meal Plan 2,0,Room_Type 1,102,Offline,0,0,0,101.5,0,10/16/2017,Canceled
+INN26655,1,0,2,3,Meal Plan 1,0,Room_Type 1,25,Offline,0,0,0,57.5,0,11/22/2017,Not_Canceled
+INN26656,2,0,0,3,Meal Plan 1,0,Room_Type 1,304,Offline,0,0,0,89.0,0,11/3/2018,Canceled
+INN26657,2,0,1,2,Meal Plan 1,0,Room_Type 1,290,Offline,0,0,0,72.0,1,6/17/2018,Not_Canceled
+INN26658,3,0,2,1,Meal Plan 1,0,Room_Type 1,205,Offline,0,0,0,125.0,0,5/29/2018,Canceled
+INN26659,2,0,2,1,Meal Plan 1,0,Room_Type 1,8,Online,0,0,0,126.0,2,9/20/2017,Not_Canceled
+INN26660,2,0,2,2,Not Selected,0,Room_Type 1,20,Online,0,0,0,101.2,0,9/24/2018,Not_Canceled
+INN26661,1,0,0,3,Meal Plan 1,0,Room_Type 1,271,Offline,0,0,0,85.67,0,9/21/2018,Not_Canceled
+INN26662,2,0,2,5,Meal Plan 1,0,Room_Type 1,136,Online,0,0,0,107.95,0,8/7/2018,Canceled
+INN26663,2,2,2,0,Meal Plan 1,1,Room_Type 6,112,Online,0,0,0,198.9,1,8/14/2018,Not_Canceled
+INN26664,2,0,2,5,Meal Plan 1,0,Room_Type 4,93,Online,0,0,0,159.17,1,9/10/2018,Canceled
+INN26665,2,2,0,3,Meal Plan 1,0,Room_Type 6,5,Online,0,0,0,230.0,2,5/19/2018,Not_Canceled
+INN26666,1,0,2,1,Meal Plan 1,0,Room_Type 1,163,Offline,0,0,0,115.0,0,10/15/2018,Canceled
+INN26667,2,0,0,3,Meal Plan 1,0,Room_Type 1,166,Online,0,0,0,114.3,1,8/3/2018,Canceled
+INN26668,1,0,3,5,Meal Plan 1,0,Room_Type 1,10,Corporate,0,0,0,110.0,0,5/29/2018,Not_Canceled
+INN26669,2,0,0,3,Not Selected,0,Room_Type 1,81,Online,0,0,0,79.2,1,12/8/2018,Not_Canceled
+INN26670,1,0,1,1,Meal Plan 1,0,Room_Type 1,20,Corporate,0,0,0,119.0,0,9/19/2018,Not_Canceled
+INN26671,1,0,0,1,Meal Plan 1,1,Room_Type 1,13,Corporate,1,0,3,67.0,0,2/17/2018,Not_Canceled
+INN26672,2,0,0,4,Meal Plan 1,0,Room_Type 1,270,Offline,0,0,0,62.8,0,4/20/2018,Canceled
+INN26673,2,0,0,2,Meal Plan 1,0,Room_Type 1,1,Online,0,0,0,179.0,1,9/15/2018,Not_Canceled
+INN26674,2,0,2,2,Not Selected,0,Room_Type 1,17,Online,0,0,0,102.0,0,12/30/2018,Not_Canceled
+INN26675,1,0,0,2,Not Selected,0,Room_Type 1,49,Online,0,0,0,73.8,1,11/11/2018,Canceled
+INN26676,1,0,0,3,Meal Plan 1,0,Room_Type 1,91,Online,0,0,0,90.9,1,4/12/2018,Not_Canceled
+INN26677,2,0,0,4,Meal Plan 1,0,Room_Type 1,67,Offline,0,0,0,61.16,0,3/1/2018,Not_Canceled
+INN26678,1,0,5,10,Meal Plan 1,0,Room_Type 1,11,Aviation,0,0,0,95.0,0,5/9/2018,Canceled
+INN26679,2,0,1,3,Meal Plan 1,0,Room_Type 1,67,Online,0,0,0,135.9,1,8/4/2018,Not_Canceled
+INN26680,3,0,2,2,Meal Plan 1,0,Room_Type 4,38,Online,0,0,0,118.58,1,3/19/2018,Canceled
+INN26681,2,0,0,1,Not Selected,0,Room_Type 1,0,Online,0,0,0,120.0,0,10/13/2018,Not_Canceled
+INN26682,2,0,0,3,Not Selected,1,Room_Type 1,146,Online,0,0,0,103.5,1,7/13/2018,Not_Canceled
+INN26683,2,0,0,2,Meal Plan 1,0,Room_Type 1,107,Offline,0,0,0,144.0,1,6/10/2018,Canceled
+INN26684,2,0,0,3,Not Selected,0,Room_Type 1,100,Online,0,0,0,91.5,0,4/27/2018,Canceled
+INN26685,2,0,1,3,Not Selected,0,Room_Type 1,183,Online,0,0,0,85.5,0,10/20/2018,Canceled
+INN26686,1,0,1,2,Meal Plan 1,0,Room_Type 1,57,Offline,0,0,0,75.33,1,6/10/2018,Not_Canceled
+INN26687,2,0,0,4,Meal Plan 1,0,Room_Type 1,115,Online,0,0,0,77.18,1,8/3/2018,Not_Canceled
+INN26688,2,0,0,1,Meal Plan 1,0,Room_Type 1,289,Offline,0,0,0,67.0,0,10/17/2017,Not_Canceled
+INN26689,2,0,2,2,Meal Plan 1,0,Room_Type 1,170,Online,0,0,0,119.0,0,10/9/2017,Canceled
+INN26690,1,0,1,0,Meal Plan 1,0,Room_Type 1,21,Corporate,1,1,1,67.0,0,11/21/2018,Not_Canceled
+INN26691,2,0,0,4,Meal Plan 1,0,Room_Type 1,135,Online,0,0,0,85.0,2,11/16/2018,Not_Canceled
+INN26692,2,1,2,2,Meal Plan 1,0,Room_Type 1,42,Online,0,0,0,113.6,0,3/20/2018,Canceled
+INN26693,3,0,0,4,Not Selected,0,Room_Type 1,92,Online,0,0,0,78.54,1,3/30/2018,Not_Canceled
+INN26694,2,0,2,3,Meal Plan 1,0,Room_Type 4,94,Offline,0,0,0,60.0,0,12/27/2017,Not_Canceled
+INN26695,2,0,2,2,Meal Plan 1,0,Room_Type 1,2,Online,0,0,0,102.0,1,1/31/2018,Not_Canceled
+INN26696,1,0,0,1,Meal Plan 1,0,Room_Type 1,14,Offline,0,0,0,62.5,0,5/27/2018,Not_Canceled
+INN26697,2,0,0,1,Meal Plan 1,0,Room_Type 1,18,Offline,0,0,0,65.0,0,12/27/2018,Not_Canceled
+INN26698,2,0,2,3,Meal Plan 1,0,Room_Type 2,58,Online,0,0,0,110.36,2,10/15/2018,Not_Canceled
+INN26699,3,0,1,1,Meal Plan 1,0,Room_Type 4,59,Online,0,0,0,168.3,0,9/24/2018,Canceled
+INN26700,3,0,2,3,Meal Plan 1,0,Room_Type 4,114,Online,0,0,0,119.0,3,12/23/2018,Not_Canceled
+INN26701,2,0,1,2,Not Selected,0,Room_Type 1,185,Online,0,0,0,79.2,0,12/16/2018,Canceled
+INN26702,2,0,2,5,Meal Plan 1,0,Room_Type 4,197,Offline,0,0,0,82.45,2,8/16/2018,Not_Canceled
+INN26703,2,0,2,5,Meal Plan 1,0,Room_Type 1,120,Online,0,0,0,89.74,0,4/7/2018,Not_Canceled
+INN26704,2,0,2,2,Meal Plan 1,0,Room_Type 4,5,Online,0,0,0,105.0,0,11/1/2017,Not_Canceled
+INN26705,2,0,1,5,Meal Plan 1,0,Room_Type 1,164,Online,0,0,0,93.5,2,9/8/2017,Canceled
+INN26706,2,1,0,3,Not Selected,0,Room_Type 1,21,Online,0,0,0,59.75,2,2/3/2018,Not_Canceled
+INN26707,2,0,0,1,Meal Plan 1,0,Room_Type 4,2,Corporate,0,0,0,99.0,0,4/21/2018,Canceled
+INN26708,2,0,0,2,Meal Plan 1,0,Room_Type 1,107,Offline,0,0,0,130.0,1,6/10/2018,Not_Canceled
+INN26709,1,0,0,3,Meal Plan 1,0,Room_Type 1,166,Offline,0,0,0,110.0,0,11/1/2018,Canceled
+INN26710,2,0,1,2,Meal Plan 2,0,Room_Type 1,161,Offline,0,0,0,130.0,0,3/25/2018,Canceled
+INN26711,2,0,0,1,Meal Plan 1,0,Room_Type 1,13,Online,0,0,0,140.0,1,10/29/2018,Canceled
+INN26712,2,0,0,3,Meal Plan 1,0,Room_Type 1,183,Offline,0,0,0,110.0,1,9/8/2018,Canceled
+INN26713,2,0,2,1,Meal Plan 1,0,Room_Type 1,31,Online,0,0,0,83.9,1,3/5/2018,Not_Canceled
+INN26714,1,0,0,0,Meal Plan 1,0,Room_Type 1,176,Online,0,0,0,0.0,0,9/8/2018,Not_Canceled
+INN26715,2,0,0,2,Meal Plan 1,0,Room_Type 1,317,Offline,0,0,0,120.0,0,9/15/2018,Canceled
+INN26716,1,0,1,3,Meal Plan 1,0,Room_Type 4,56,Online,0,0,0,123.98,2,9/5/2018,Not_Canceled
+INN26717,2,0,1,3,Meal Plan 1,0,Room_Type 4,15,Online,1,0,2,96.9,0,12/5/2018,Not_Canceled
+INN26718,2,0,1,1,Not Selected,0,Room_Type 1,4,Online,0,0,0,149.0,0,9/5/2018,Canceled
+INN26719,2,0,1,2,Meal Plan 1,0,Room_Type 1,96,Online,0,0,0,118.8,1,10/7/2018,Canceled
+INN26720,2,0,2,3,Meal Plan 1,0,Room_Type 1,157,Online,0,0,0,75.27,0,8/21/2018,Canceled
+INN26721,2,0,2,2,Not Selected,0,Room_Type 1,109,Online,0,0,0,94.35,0,5/7/2018,Canceled
+INN26722,3,0,2,1,Meal Plan 1,0,Room_Type 4,83,Online,0,0,0,162.3,0,8/21/2018,Not_Canceled
+INN26723,1,0,0,3,Meal Plan 1,0,Room_Type 1,204,Offline,0,0,0,90.0,0,5/5/2018,Canceled
+INN26724,2,0,1,4,Meal Plan 1,0,Room_Type 1,127,Online,0,0,0,90.0,3,11/2/2018,Not_Canceled
+INN26725,2,1,0,2,Meal Plan 1,0,Room_Type 1,44,Online,0,0,0,152.1,1,8/3/2018,Not_Canceled
+INN26726,2,0,0,2,Meal Plan 1,0,Room_Type 1,22,Corporate,0,0,0,75.0,0,9/16/2017,Not_Canceled
+INN26727,2,0,0,3,Meal Plan 1,0,Room_Type 4,158,Online,0,0,0,121.8,1,7/28/2018,Canceled
+INN26728,2,0,2,2,Meal Plan 1,0,Room_Type 1,59,Online,0,0,0,126.0,1,10/16/2018,Not_Canceled
+INN26729,2,0,2,5,Meal Plan 1,0,Room_Type 1,103,Online,0,0,0,106.59,1,7/15/2018,Not_Canceled
+INN26730,2,0,0,3,Meal Plan 1,0,Room_Type 1,160,Offline,0,0,0,70.67,0,12/30/2017,Not_Canceled
+INN26731,2,0,2,1,Meal Plan 2,0,Room_Type 1,122,Offline,0,0,0,107.0,1,3/27/2018,Canceled
+INN26732,1,0,1,2,Meal Plan 1,0,Room_Type 1,219,Offline,0,0,0,76.67,0,9/4/2017,Not_Canceled
+INN26733,1,0,1,2,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,148.67,0,9/7/2017,Not_Canceled
+INN26734,1,0,0,3,Meal Plan 1,0,Room_Type 1,15,Offline,0,0,0,86.0,0,2/18/2018,Not_Canceled
+INN26735,2,0,0,2,Meal Plan 1,0,Room_Type 1,57,Offline,0,0,0,101.52,0,9/21/2018,Not_Canceled
+INN26736,2,1,2,2,Meal Plan 1,0,Room_Type 1,2,Offline,0,0,0,102.0,1,2/12/2018,Not_Canceled
+INN26737,1,0,1,3,Meal Plan 1,0,Room_Type 1,127,Offline,0,0,0,80.0,0,4/28/2018,Canceled
+INN26738,2,0,0,2,Not Selected,0,Room_Type 1,1,Online,0,0,0,79.0,0,1/20/2018,Not_Canceled
+INN26739,3,0,2,2,Meal Plan 1,0,Room_Type 4,6,Online,0,0,0,135.58,3,5/29/2018,Not_Canceled
+INN26740,1,1,2,1,Not Selected,0,Room_Type 1,6,Offline,0,0,0,71.2,1,4/3/2018,Not_Canceled
+INN26741,2,0,0,3,Meal Plan 1,0,Room_Type 1,59,Offline,0,0,0,60.0,0,2/4/2018,Not_Canceled
+INN26742,2,0,2,2,Meal Plan 1,0,Room_Type 4,152,Online,0,0,0,134.3,3,7/10/2018,Not_Canceled
+INN26743,2,0,0,1,Not Selected,0,Room_Type 1,31,Online,0,0,0,89.4,2,5/21/2018,Not_Canceled
+INN26744,2,0,0,2,Meal Plan 1,0,Room_Type 4,6,Online,0,0,0,105.0,0,11/3/2017,Not_Canceled
+INN26745,2,0,2,1,Meal Plan 1,0,Room_Type 4,1,Online,0,0,0,152.67,0,6/26/2018,Not_Canceled
+INN26746,2,0,1,1,Meal Plan 2,0,Room_Type 4,71,Offline,0,0,0,142.5,0,10/22/2018,Not_Canceled
+INN26747,1,0,1,1,Meal Plan 1,0,Room_Type 1,106,Online,0,0,0,68.0,0,7/4/2017,Canceled
+INN26748,1,0,0,2,Meal Plan 1,0,Room_Type 1,14,Online,0,0,0,85.0,0,2/18/2018,Canceled
+INN26749,3,0,2,1,Meal Plan 1,0,Room_Type 4,71,Online,0,0,0,168.3,0,8/14/2018,Canceled
+INN26750,2,0,0,2,Meal Plan 2,0,Room_Type 1,74,Offline,0,0,0,109.0,0,9/18/2017,Not_Canceled
+INN26751,2,0,0,4,Meal Plan 1,0,Room_Type 1,35,Online,0,0,0,109.8,1,8/30/2018,Canceled
+INN26752,2,0,0,3,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,138.0,0,8/12/2017,Not_Canceled
+INN26753,3,0,0,3,Meal Plan 1,0,Room_Type 1,157,Offline,0,0,0,92.65,0,12/8/2018,Not_Canceled
+INN26754,2,0,0,3,Meal Plan 1,0,Room_Type 1,117,Online,0,0,0,105.3,1,5/5/2018,Not_Canceled
+INN26755,1,0,0,1,Meal Plan 1,0,Room_Type 1,1,Offline,0,0,0,135.0,0,5/11/2018,Not_Canceled
+INN26756,1,0,2,1,Meal Plan 2,0,Room_Type 1,220,Offline,0,0,0,128.0,0,9/17/2018,Canceled
+INN26757,1,0,0,3,Meal Plan 1,0,Room_Type 4,22,Online,0,0,0,149.33,0,6/9/2018,Canceled
+INN26758,1,0,0,1,Meal Plan 1,0,Room_Type 1,99,Corporate,0,0,0,81.0,0,2/19/2018,Not_Canceled
+INN26759,2,0,0,1,Meal Plan 1,0,Room_Type 1,2,Online,0,0,0,130.0,2,8/17/2018,Not_Canceled
+INN26760,2,0,0,3,Not Selected,0,Room_Type 1,118,Online,0,0,0,80.1,2,10/25/2018,Canceled
+INN26761,2,0,2,3,Meal Plan 2,0,Room_Type 4,197,Online,0,0,0,137.7,2,8/27/2018,Canceled
+INN26762,2,2,2,1,Meal Plan 1,0,Room_Type 6,6,Online,0,0,0,148.39,0,12/18/2018,Not_Canceled
+INN26763,2,0,2,0,Meal Plan 1,0,Room_Type 1,150,Online,0,0,0,76.5,1,8/2/2017,Not_Canceled
+INN26764,2,0,1,1,Meal Plan 1,0,Room_Type 1,1,Online,0,0,0,90.0,2,8/8/2017,Not_Canceled
+INN26765,2,0,0,3,Meal Plan 1,0,Room_Type 1,43,Offline,0,0,0,75.0,0,11/1/2018,Not_Canceled
+INN26766,2,0,0,2,Meal Plan 1,0,Room_Type 1,4,Online,0,0,0,87.0,1,2/26/2018,Not_Canceled
+INN26767,2,0,0,3,Meal Plan 1,0,Room_Type 1,27,Online,0,0,0,141.0,0,5/10/2018,Canceled
+INN26768,2,0,2,5,Meal Plan 1,0,Room_Type 4,59,Online,0,0,0,101.27,2,3/29/2018,Not_Canceled
+INN26769,2,0,1,4,Not Selected,0,Room_Type 1,17,Online,0,0,0,100.73,1,11/7/2018,Not_Canceled
+INN26770,1,0,0,2,Meal Plan 2,0,Room_Type 1,102,Offline,0,0,0,80.0,0,10/16/2017,Canceled
+INN26771,2,0,0,1,Meal Plan 2,0,Room_Type 1,48,Offline,0,0,0,104.0,0,9/11/2017,Not_Canceled
+INN26772,2,0,0,3,Meal Plan 1,0,Room_Type 5,34,Online,0,0,0,152.8,0,9/15/2018,Not_Canceled
+INN26773,2,0,1,2,Meal Plan 1,0,Room_Type 1,89,Online,0,0,0,72.25,2,11/23/2017,Not_Canceled
+INN26774,2,1,0,2,Meal Plan 1,0,Room_Type 1,4,Online,0,0,0,151.5,0,10/7/2018,Not_Canceled
+INN26775,1,0,1,3,Meal Plan 1,0,Room_Type 1,0,Aviation,0,0,0,95.0,0,6/20/2018,Canceled
+INN26776,2,0,0,1,Meal Plan 1,0,Room_Type 1,2,Online,0,0,0,141.0,1,6/4/2018,Not_Canceled
+INN26777,2,0,1,3,Meal Plan 1,0,Room_Type 1,189,Offline,0,0,0,72.25,0,8/8/2018,Not_Canceled
+INN26778,1,0,2,1,Meal Plan 2,0,Room_Type 1,145,Offline,0,0,0,36.25,0,8/29/2017,Not_Canceled
+INN26779,2,0,1,2,Meal Plan 1,0,Room_Type 1,117,Online,0,0,0,105.3,0,5/6/2018,Canceled
+INN26780,2,0,0,2,Meal Plan 2,0,Room_Type 1,56,Offline,0,0,0,82.0,0,9/17/2017,Not_Canceled
+INN26781,2,0,2,3,Meal Plan 1,0,Room_Type 4,102,Offline,0,0,0,82.45,0,8/13/2018,Not_Canceled
+INN26782,2,0,1,2,Not Selected,0,Room_Type 1,7,Online,0,0,0,124.67,1,8/26/2018,Not_Canceled
+INN26783,2,0,1,1,Meal Plan 1,0,Room_Type 1,159,Offline,0,0,0,70.0,1,4/9/2018,Not_Canceled
+INN26784,1,0,0,3,Meal Plan 1,0,Room_Type 5,11,Offline,0,0,0,157.67,0,12/29/2017,Not_Canceled
+INN26785,2,0,0,2,Meal Plan 2,0,Room_Type 1,102,Offline,0,0,0,109.0,0,10/16/2017,Not_Canceled
+INN26786,2,0,0,2,Meal Plan 1,0,Room_Type 1,15,Online,1,1,0,69.0,0,12/1/2017,Not_Canceled
+INN26787,2,1,0,2,Meal Plan 1,0,Room_Type 1,81,Online,0,0,0,161.1,1,8/16/2018,Not_Canceled
+INN26788,0,2,2,2,Meal Plan 1,0,Room_Type 2,28,Online,0,0,0,73.39,1,2/5/2018,Not_Canceled
+INN26789,2,0,2,1,Not Selected,0,Room_Type 1,133,Online,0,0,0,118.8,0,9/3/2018,Canceled
+INN26790,2,1,2,5,Meal Plan 1,0,Room_Type 6,160,Online,0,0,0,208.13,1,6/25/2018,Canceled
+INN26791,2,0,0,2,Meal Plan 2,0,Room_Type 1,0,Offline,0,0,0,109.0,0,8/14/2017,Not_Canceled
+INN26792,2,0,0,2,Not Selected,0,Room_Type 1,35,Online,0,0,0,71.1,0,3/11/2018,Not_Canceled
+INN26793,2,0,1,3,Meal Plan 1,0,Room_Type 4,12,Offline,0,0,0,92.0,1,12/26/2018,Not_Canceled
+INN26794,2,0,2,2,Meal Plan 1,0,Room_Type 1,31,Online,0,0,0,96.75,1,4/17/2018,Not_Canceled
+INN26795,2,0,2,1,Meal Plan 1,0,Room_Type 1,102,Offline,0,0,0,80.75,0,5/29/2018,Canceled
+INN26796,2,0,1,2,Meal Plan 1,0,Room_Type 1,305,Offline,0,0,0,89.0,0,11/4/2018,Canceled
+INN26797,2,0,0,1,Meal Plan 2,0,Room_Type 1,21,Online,0,0,0,129.0,0,3/4/2018,Canceled
+INN26798,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Corporate,0,0,0,111.2,0,5/5/2018,Not_Canceled
+INN26799,2,0,2,3,Meal Plan 2,0,Room_Type 1,13,Offline,0,0,0,113.0,0,9/13/2017,Not_Canceled
+INN26800,2,0,2,1,Meal Plan 1,0,Room_Type 1,10,Online,0,0,0,120.8,0,8/13/2018,Not_Canceled
+INN26801,1,0,2,0,Meal Plan 1,0,Room_Type 1,238,Offline,0,0,0,55.08,0,11/13/2018,Canceled
+INN26802,2,1,2,0,Meal Plan 1,0,Room_Type 1,63,Online,0,0,0,117.0,0,4/3/2018,Not_Canceled
+INN26803,1,0,0,2,Meal Plan 1,0,Room_Type 4,2,Aviation,0,0,0,94.0,0,11/2/2018,Not_Canceled
+INN26804,1,0,0,0,Meal Plan 1,0,Room_Type 4,0,Complementary,0,0,0,0.0,2,4/27/2018,Not_Canceled
+INN26805,2,0,1,0,Not Selected,0,Room_Type 1,0,Online,0,0,0,98.0,1,8/7/2018,Not_Canceled
+INN26806,1,0,0,2,Meal Plan 1,0,Room_Type 1,164,Offline,0,0,0,100.0,0,10/2/2017,Not_Canceled
+INN26807,2,0,0,2,Meal Plan 1,0,Room_Type 1,97,Online,0,0,0,140.5,1,11/11/2018,Not_Canceled
+INN26808,2,0,2,3,Meal Plan 1,0,Room_Type 4,95,Online,0,0,0,102.1,1,5/12/2018,Not_Canceled
+INN26809,2,0,0,1,Meal Plan 1,0,Room_Type 1,25,Online,0,0,0,91.0,0,3/18/2018,Canceled
+INN26810,2,2,0,1,Meal Plan 1,0,Room_Type 6,60,Online,0,0,0,156.6,0,12/23/2018,Canceled
+INN26811,2,0,0,1,Meal Plan 1,0,Room_Type 1,34,Online,0,0,0,126.9,0,5/11/2018,Canceled
+INN26812,2,0,2,3,Meal Plan 2,0,Room_Type 1,14,Online,0,0,0,178.8,0,8/19/2018,Canceled
+INN26813,1,0,2,0,Meal Plan 2,0,Room_Type 1,200,Offline,0,0,0,90.0,0,10/23/2018,Not_Canceled
+INN26814,2,0,1,3,Meal Plan 1,0,Room_Type 1,58,Online,0,0,0,99.45,0,4/11/2018,Not_Canceled
+INN26815,2,0,0,4,Meal Plan 1,0,Room_Type 1,34,Offline,0,0,0,85.5,0,10/18/2018,Not_Canceled
+INN26816,2,0,0,1,Not Selected,0,Room_Type 1,92,Online,0,0,0,76.5,1,4/6/2018,Not_Canceled
+INN26817,2,0,2,1,Meal Plan 1,0,Room_Type 1,115,Offline,0,0,0,72.25,0,7/31/2018,Canceled
+INN26818,2,0,2,3,Meal Plan 1,0,Room_Type 1,244,Online,0,0,0,85.85,0,10/30/2018,Canceled
+INN26819,2,0,1,3,Meal Plan 1,0,Room_Type 1,123,Online,0,0,0,93.08,0,4/21/2018,Not_Canceled
+INN26820,2,1,0,1,Meal Plan 1,0,Room_Type 1,0,Corporate,0,0,0,107.0,0,12/28/2018,Not_Canceled
+INN26821,2,0,0,4,Not Selected,0,Room_Type 1,67,Online,0,0,0,79.2,1,11/1/2018,Not_Canceled
+INN26822,2,0,2,1,Meal Plan 1,0,Room_Type 1,115,Offline,0,0,0,75.0,0,5/28/2018,Not_Canceled
+INN26823,2,0,0,2,Meal Plan 1,0,Room_Type 1,22,Offline,0,0,0,140.0,0,5/20/2018,Not_Canceled
+INN26824,2,0,0,3,Meal Plan 1,0,Room_Type 1,103,Offline,0,0,0,61.5,1,3/3/2018,Not_Canceled
+INN26825,2,0,2,1,Not Selected,0,Room_Type 1,12,Online,0,0,0,79.0,1,2/13/2018,Not_Canceled
+INN26826,2,0,0,2,Meal Plan 1,0,Room_Type 4,124,Online,0,0,0,114.3,1,5/6/2018,Not_Canceled
+INN26827,3,0,0,4,Meal Plan 1,0,Room_Type 4,134,Online,0,0,0,133.2,0,8/23/2018,Canceled
+INN26828,2,0,0,2,Meal Plan 2,0,Room_Type 1,273,Offline,0,0,0,109.0,0,7/17/2017,Canceled
+INN26829,2,0,0,3,Not Selected,0,Room_Type 1,40,Online,0,0,0,94.67,2,12/13/2018,Not_Canceled
+INN26830,2,0,1,4,Meal Plan 1,0,Room_Type 1,11,Online,0,0,0,90.0,2,8/17/2017,Canceled
+INN26831,2,0,0,1,Not Selected,0,Room_Type 1,4,Online,0,0,0,140.0,2,10/29/2018,Not_Canceled
+INN26832,2,0,0,1,Meal Plan 1,0,Room_Type 1,200,Online,0,0,0,76.5,3,8/22/2017,Not_Canceled
+INN26833,2,0,0,3,Meal Plan 1,0,Room_Type 4,31,Online,0,0,0,142.4,1,3/23/2018,Not_Canceled
+INN26834,1,0,0,1,Meal Plan 1,0,Room_Type 5,2,Offline,0,0,0,181.0,0,5/19/2018,Not_Canceled
+INN26835,2,0,0,1,Meal Plan 2,0,Room_Type 1,55,Offline,0,0,0,104.0,0,4/6/2018,Not_Canceled
+INN26836,2,0,0,2,Meal Plan 1,0,Room_Type 4,37,Online,0,0,0,105.3,2,10/22/2017,Not_Canceled
+INN26837,1,0,1,1,Meal Plan 1,0,Room_Type 1,40,Corporate,0,0,0,81.0,1,1/25/2018,Not_Canceled
+INN26838,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Complementary,1,0,9,0.0,1,11/10/2017,Not_Canceled
+INN26839,2,0,0,1,Meal Plan 1,0,Room_Type 1,92,Offline,0,0,0,90.0,0,11/11/2018,Not_Canceled
+INN26840,2,0,1,2,Meal Plan 1,0,Room_Type 1,135,Offline,0,0,0,90.0,0,9/14/2017,Not_Canceled
+INN26841,2,0,2,1,Not Selected,0,Room_Type 1,31,Online,0,0,0,69.5,1,2/6/2018,Not_Canceled
+INN26842,2,0,0,3,Meal Plan 1,0,Room_Type 1,87,Offline,0,0,0,75.0,0,12/15/2018,Not_Canceled
+INN26843,1,0,0,3,Meal Plan 1,0,Room_Type 1,104,Online,0,0,0,110.1,1,5/4/2018,Not_Canceled
+INN26844,2,2,0,3,Meal Plan 1,0,Room_Type 4,210,Online,0,0,0,108.3,3,8/17/2018,Not_Canceled
+INN26845,2,0,1,2,Meal Plan 1,0,Room_Type 1,162,Online,0,0,0,76.5,1,8/28/2017,Canceled
+INN26846,2,0,0,2,Meal Plan 2,0,Room_Type 1,39,Offline,0,0,0,109.0,0,8/14/2017,Not_Canceled
+INN26847,2,0,0,3,Meal Plan 1,0,Room_Type 1,162,Offline,0,0,0,70.0,1,9/17/2017,Not_Canceled
+INN26848,2,0,0,4,Meal Plan 1,0,Room_Type 1,106,Online,0,0,0,95.2,0,4/27/2018,Not_Canceled
+INN26849,1,0,0,1,Not Selected,0,Room_Type 1,9,Online,0,0,0,97.0,1,3/17/2018,Not_Canceled
+INN26850,2,0,0,3,Not Selected,0,Room_Type 1,46,Online,0,0,0,112.67,1,10/25/2018,Canceled
+INN26851,2,0,1,2,Meal Plan 1,0,Room_Type 1,305,Offline,0,0,0,89.0,0,11/4/2018,Canceled
+INN26852,2,0,1,2,Meal Plan 1,0,Room_Type 1,273,Offline,0,0,0,95.0,0,5/13/2018,Canceled
+INN26853,1,0,1,0,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,140.0,0,10/30/2018,Not_Canceled
+INN26854,1,0,0,2,Meal Plan 1,0,Room_Type 1,192,Offline,0,0,0,95.0,0,6/24/2018,Not_Canceled
+INN26855,1,0,0,2,Meal Plan 1,0,Room_Type 1,181,Offline,0,0,0,120.0,0,10/11/2018,Canceled
+INN26856,1,0,0,2,Meal Plan 1,0,Room_Type 1,1,Online,0,0,0,71.7,0,1/27/2018,Not_Canceled
+INN26857,2,0,0,2,Meal Plan 2,0,Room_Type 1,74,Offline,0,0,0,101.5,0,9/18/2017,Not_Canceled
+INN26858,2,0,0,1,Meal Plan 1,0,Room_Type 4,11,Online,0,0,0,140.0,1,11/5/2018,Canceled
+INN26859,2,2,2,2,Meal Plan 1,0,Room_Type 6,51,Online,0,0,0,187.11,2,9/16/2018,Not_Canceled
+INN26860,2,0,1,3,Meal Plan 1,0,Room_Type 1,56,Online,0,0,0,88.23,0,11/10/2018,Not_Canceled
+INN26861,2,0,2,5,Not Selected,0,Room_Type 1,161,Online,0,0,0,95.69,2,6/17/2018,Canceled
+INN26862,4,0,0,1,Meal Plan 1,0,Room_Type 7,45,Online,0,0,0,223.75,2,7/27/2018,Not_Canceled
+INN26863,2,0,0,1,Meal Plan 1,0,Room_Type 4,85,Online,0,0,0,140.4,0,6/2/2018,Canceled
+INN26864,2,0,0,3,Meal Plan 2,0,Room_Type 1,34,Offline,0,0,0,224.67,0,9/23/2017,Canceled
+INN26865,2,0,0,0,Not Selected,0,Room_Type 1,3,Online,0,0,0,0.0,1,1/10/2018,Not_Canceled
+INN26866,2,1,2,3,Meal Plan 1,0,Room_Type 4,186,Online,0,0,0,111.76,1,7/28/2018,Canceled
+INN26867,1,0,0,1,Meal Plan 1,0,Room_Type 1,7,Online,0,0,0,66.22,1,2/11/2018,Not_Canceled
+INN26868,2,0,0,1,Not Selected,0,Room_Type 1,1,Online,0,0,0,97.0,1,3/12/2018,Not_Canceled
+INN26869,1,0,0,3,Meal Plan 1,0,Room_Type 1,12,Complementary,0,0,0,0.0,0,8/5/2017,Not_Canceled
+INN26870,2,0,0,1,Meal Plan 1,0,Room_Type 5,181,Offline,0,0,0,250.0,0,10/11/2018,Canceled
+INN26871,2,0,1,4,Meal Plan 1,0,Room_Type 1,102,Online,0,0,0,119.85,1,6/8/2018,Not_Canceled
+INN26872,2,0,0,3,Meal Plan 1,0,Room_Type 1,213,Offline,0,0,0,130.0,0,6/7/2018,Canceled
+INN26873,2,0,1,5,Meal Plan 1,0,Room_Type 4,8,Offline,0,0,0,85.0,0,10/20/2017,Not_Canceled
+INN26874,2,0,0,3,Meal Plan 1,0,Room_Type 4,74,Online,0,0,0,124.04,1,9/20/2018,Not_Canceled
+INN26875,2,0,1,2,Meal Plan 1,0,Room_Type 4,46,Offline,0,0,0,60.0,1,11/6/2017,Not_Canceled
+INN26876,2,0,0,2,Meal Plan 1,0,Room_Type 1,2,Online,0,0,0,106.0,2,8/21/2017,Not_Canceled
+INN26877,2,0,0,3,Meal Plan 1,0,Room_Type 1,37,Offline,0,0,0,105.0,0,10/13/2018,Not_Canceled
+INN26878,2,0,2,1,Meal Plan 1,0,Room_Type 1,22,Offline,0,0,0,85.0,0,7/9/2018,Not_Canceled
+INN26879,1,0,0,2,Meal Plan 1,0,Room_Type 1,188,Offline,0,0,0,130.0,0,6/15/2018,Canceled
+INN26880,2,0,0,2,Meal Plan 1,0,Room_Type 1,90,Online,0,0,0,63.86,1,4/1/2018,Not_Canceled
+INN26881,2,0,2,2,Meal Plan 1,0,Room_Type 4,164,Online,0,0,0,126.9,1,9/30/2018,Canceled
+INN26882,2,0,1,4,Meal Plan 1,0,Room_Type 1,137,Online,0,0,0,107.95,0,7/6/2018,Not_Canceled
+INN26883,2,0,0,1,Meal Plan 1,0,Room_Type 1,97,Online,0,0,0,76.5,1,8/19/2017,Not_Canceled
+INN26884,1,0,0,1,Meal Plan 1,0,Room_Type 1,2,Corporate,1,0,2,66.0,0,1/14/2018,Not_Canceled
+INN26885,2,0,1,2,Meal Plan 1,0,Room_Type 1,74,Offline,0,0,0,75.0,0,12/9/2018,Not_Canceled
+INN26886,2,0,2,3,Meal Plan 1,0,Room_Type 4,31,Online,0,0,0,94.0,2,9/25/2018,Not_Canceled
+INN26887,2,0,1,0,Meal Plan 1,0,Room_Type 1,7,Corporate,0,0,0,75.0,0,10/12/2017,Not_Canceled
+INN26888,2,0,2,3,Meal Plan 1,0,Room_Type 1,50,Online,0,0,0,94.5,0,10/18/2017,Canceled
+INN26889,2,1,1,2,Meal Plan 1,1,Room_Type 1,83,Offline,0,0,0,117.1,0,7/25/2018,Not_Canceled
+INN26890,2,1,1,4,Meal Plan 1,0,Room_Type 1,64,Online,0,0,0,148.5,2,8/29/2018,Canceled
+INN26891,2,0,2,5,Meal Plan 1,0,Room_Type 1,106,Online,0,0,0,88.4,2,12/21/2018,Not_Canceled
+INN26892,2,0,0,2,Meal Plan 1,0,Room_Type 1,129,Online,0,0,0,114.3,2,7/8/2018,Not_Canceled
+INN26893,2,0,2,2,Meal Plan 2,0,Room_Type 1,169,Offline,0,0,0,106.0,0,4/22/2018,Canceled
+INN26894,2,0,1,5,Meal Plan 1,0,Room_Type 1,41,Offline,0,0,0,70.0,0,12/27/2018,Not_Canceled
+INN26895,2,0,4,6,Not Selected,0,Room_Type 1,293,Online,0,0,0,68.17,0,12/25/2018,Canceled
+INN26896,0,2,0,3,Meal Plan 1,0,Room_Type 2,150,Online,0,0,0,95.82,1,5/31/2018,Not_Canceled
+INN26897,1,0,0,2,Meal Plan 1,0,Room_Type 1,19,Corporate,0,0,0,90.0,0,6/22/2018,Not_Canceled
+INN26898,1,0,0,3,Meal Plan 1,0,Room_Type 1,12,Online,0,0,0,80.0,0,2/24/2018,Not_Canceled
+INN26899,2,0,1,2,Meal Plan 2,0,Room_Type 1,315,Offline,0,0,0,160.0,0,9/30/2018,Canceled
+INN26900,1,0,2,1,Meal Plan 1,0,Room_Type 1,12,Online,0,0,0,63.37,0,1/10/2018,Not_Canceled
+INN26901,1,0,0,3,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,124.33,1,6/21/2018,Not_Canceled
+INN26902,2,0,0,2,Meal Plan 2,0,Room_Type 1,265,Offline,0,0,0,115.0,1,6/24/2018,Canceled
+INN26903,2,0,0,1,Meal Plan 1,1,Room_Type 1,2,Corporate,1,0,1,77.0,0,11/24/2018,Not_Canceled
+INN26904,2,0,2,2,Meal Plan 1,0,Room_Type 4,60,Online,0,0,0,63.49,1,3/12/2018,Not_Canceled
+INN26905,2,0,1,1,Meal Plan 1,0,Room_Type 1,33,Online,0,0,0,119.0,1,9/26/2018,Not_Canceled
+INN26906,1,0,1,1,Meal Plan 1,0,Room_Type 1,24,Online,0,0,0,87.78,2,9/19/2017,Not_Canceled
+INN26907,2,0,0,2,Meal Plan 1,0,Room_Type 1,53,Online,0,0,0,119.7,1,6/30/2018,Not_Canceled
+INN26908,2,0,0,3,Meal Plan 1,0,Room_Type 1,61,Online,0,0,0,93.6,1,12/8/2018,Not_Canceled
+INN26909,2,1,2,1,Meal Plan 2,0,Room_Type 1,261,Online,0,0,0,161.25,2,10/22/2018,Canceled
+INN26910,2,0,0,3,Meal Plan 1,0,Room_Type 1,304,Offline,0,0,0,89.0,0,11/3/2018,Canceled
+INN26911,3,0,0,3,Meal Plan 1,0,Room_Type 4,156,Online,0,0,0,151.2,0,10/6/2018,Canceled
+INN26912,2,0,1,5,Meal Plan 2,0,Room_Type 1,138,Offline,0,0,0,102.25,0,7/5/2018,Not_Canceled
+INN26913,2,0,1,0,Meal Plan 1,0,Room_Type 1,12,Offline,0,0,0,72.0,0,10/4/2017,Not_Canceled
+INN26914,2,0,0,2,Meal Plan 2,0,Room_Type 1,102,Offline,0,0,0,109.0,0,10/16/2017,Not_Canceled
+INN26915,1,0,0,1,Meal Plan 1,0,Room_Type 1,4,Online,0,0,0,88.0,1,12/14/2018,Not_Canceled
+INN26916,2,0,0,1,Not Selected,0,Room_Type 1,17,Online,0,0,0,89.0,0,6/23/2018,Canceled
+INN26917,2,0,2,1,Meal Plan 1,0,Room_Type 1,145,Offline,0,0,0,65.0,0,1/3/2018,Not_Canceled
+INN26918,2,0,1,2,Meal Plan 1,0,Room_Type 1,35,Offline,0,0,0,85.0,0,3/14/2018,Not_Canceled
+INN26919,2,0,2,5,Meal Plan 1,0,Room_Type 1,291,Offline,0,0,0,68.0,0,12/28/2018,Not_Canceled
+INN26920,2,0,0,2,Meal Plan 1,0,Room_Type 1,98,Offline,0,0,0,95.0,0,9/30/2018,Canceled
+INN26921,2,0,0,2,Meal Plan 1,0,Room_Type 4,195,Offline,0,0,0,82.45,1,6/30/2018,Not_Canceled
+INN26922,2,1,1,2,Meal Plan 1,0,Room_Type 6,64,Online,0,0,0,162.4,1,11/18/2018,Canceled
+INN26923,2,1,0,1,Meal Plan 1,0,Room_Type 1,37,Online,0,0,0,100.1,2,3/5/2018,Not_Canceled
+INN26924,2,0,0,3,Not Selected,0,Room_Type 1,28,Online,0,0,0,96.02,1,5/11/2018,Not_Canceled
+INN26925,2,0,1,3,Meal Plan 1,0,Room_Type 2,102,Online,0,0,0,110.34,0,12/26/2018,Canceled
+INN26926,1,0,0,1,Not Selected,0,Room_Type 1,0,Online,0,0,0,95.0,1,11/17/2018,Not_Canceled
+INN26927,2,0,1,0,Meal Plan 1,0,Room_Type 1,141,Offline,0,0,0,90.0,0,9/20/2017,Not_Canceled
+INN26928,2,0,2,6,Not Selected,0,Room_Type 1,106,Online,0,0,0,86.06,0,4/26/2018,Canceled
+INN26929,2,0,2,1,Meal Plan 1,0,Room_Type 1,61,Online,0,0,0,55.96,0,7/11/2017,Not_Canceled
+INN26930,2,0,0,3,Meal Plan 1,0,Room_Type 1,143,Offline,0,0,0,100.0,0,8/25/2018,Not_Canceled
+INN26931,1,0,0,3,Meal Plan 1,0,Room_Type 1,335,Offline,0,0,0,80.0,0,10/13/2018,Not_Canceled
+INN26932,0,2,0,1,Meal Plan 1,0,Room_Type 2,15,Complementary,0,0,0,0.0,1,8/28/2017,Not_Canceled
+INN26933,2,0,2,0,Meal Plan 1,0,Room_Type 2,243,Online,0,0,0,95.58,1,6/19/2018,Not_Canceled
+INN26934,2,0,2,0,Meal Plan 2,0,Room_Type 1,386,Offline,0,0,0,115.0,1,10/23/2018,Canceled
+INN26935,2,0,1,2,Meal Plan 1,0,Room_Type 1,103,Online,0,0,0,93.6,1,12/2/2018,Canceled
+INN26936,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Corporate,1,1,3,79.0,0,12/6/2018,Not_Canceled
+INN26937,2,0,3,5,Meal Plan 1,0,Room_Type 4,130,Online,0,0,0,140.4,0,9/25/2018,Canceled
+INN26938,2,0,0,5,Meal Plan 1,0,Room_Type 1,140,Offline,0,0,0,70.0,0,12/29/2017,Not_Canceled
+INN26939,2,0,1,0,Meal Plan 1,0,Room_Type 1,50,Online,0,0,0,96.3,0,4/3/2018,Canceled
+INN26940,3,0,0,3,Meal Plan 1,0,Room_Type 4,132,Online,0,0,0,162.0,2,9/22/2018,Not_Canceled
+INN26941,2,0,0,2,Not Selected,0,Room_Type 1,17,Offline,0,0,0,85.0,0,9/27/2018,Not_Canceled
+INN26942,2,0,0,3,Meal Plan 1,0,Room_Type 1,93,Online,0,0,0,90.3,1,4/6/2018,Not_Canceled
+INN26943,1,0,1,1,Not Selected,0,Room_Type 1,1,Online,0,0,0,87.0,1,12/12/2018,Not_Canceled
+INN26944,2,0,1,2,Meal Plan 1,0,Room_Type 1,56,Offline,0,0,0,75.0,0,4/4/2018,Not_Canceled
+INN26945,2,0,1,2,Not Selected,0,Room_Type 1,18,Online,0,0,0,79.0,0,2/12/2018,Canceled
+INN26946,2,1,0,2,Meal Plan 1,0,Room_Type 4,120,Offline,0,0,0,93.16,0,7/29/2018,Not_Canceled
+INN26947,2,0,0,4,Meal Plan 1,1,Room_Type 4,19,Online,0,0,0,175.0,2,7/5/2018,Not_Canceled
+INN26948,2,0,0,0,Meal Plan 1,0,Room_Type 1,1,Complementary,0,0,0,0.0,0,9/5/2018,Not_Canceled
+INN26949,2,0,0,1,Meal Plan 1,0,Room_Type 1,16,Offline,0,0,0,170.0,0,11/9/2018,Not_Canceled
+INN26950,2,0,0,2,Meal Plan 1,0,Room_Type 1,47,Online,0,0,0,105.3,1,4/19/2018,Not_Canceled
+INN26951,2,0,0,2,Not Selected,0,Room_Type 1,167,Online,0,0,0,94.5,0,7/29/2018,Canceled
+INN26952,2,1,1,1,Meal Plan 1,0,Room_Type 6,56,Online,0,0,0,207.9,1,8/6/2018,Not_Canceled
+INN26953,2,0,1,2,Meal Plan 1,0,Room_Type 4,124,Online,0,0,0,114.3,1,5/6/2018,Not_Canceled
+INN26954,3,0,1,4,Meal Plan 1,0,Room_Type 4,7,Online,0,0,0,127.0,1,2/10/2018,Canceled
+INN26955,3,0,1,4,Meal Plan 1,0,Room_Type 4,206,Online,0,0,0,133.45,0,10/3/2018,Canceled
+INN26956,1,0,0,3,Meal Plan 1,0,Room_Type 1,19,Offline,1,1,0,80.0,0,10/6/2017,Not_Canceled
+INN26957,2,0,1,3,Meal Plan 1,0,Room_Type 1,4,Online,0,0,0,128.59,1,6/2/2018,Not_Canceled
+INN26958,1,0,1,0,Meal Plan 1,0,Room_Type 1,0,Corporate,1,0,1,79.0,0,1/11/2018,Not_Canceled
+INN26959,2,0,0,3,Meal Plan 1,0,Room_Type 1,30,Online,0,0,0,94.5,2,10/7/2017,Not_Canceled
+INN26960,2,0,1,2,Meal Plan 1,0,Room_Type 1,34,Online,0,0,0,103.5,1,10/12/2017,Not_Canceled
+INN26961,2,0,2,2,Meal Plan 1,0,Room_Type 1,171,Online,0,0,0,99.45,0,7/29/2018,Canceled
+INN26962,3,0,1,3,Meal Plan 1,0,Room_Type 1,26,Online,0,0,0,127.2,0,9/5/2018,Canceled
+INN26963,1,0,0,1,Meal Plan 1,0,Room_Type 1,0,Complementary,1,4,18,0.0,1,10/25/2018,Not_Canceled
+INN26964,1,0,0,2,Meal Plan 1,0,Room_Type 1,12,Corporate,1,0,5,65.0,1,6/14/2018,Not_Canceled
+INN26965,2,0,2,2,Meal Plan 1,0,Room_Type 1,160,Online,0,0,0,107.0,1,4/17/2018,Canceled
+INN26966,2,0,2,0,Meal Plan 1,0,Room_Type 4,16,Online,0,0,0,106.0,0,2/28/2018,Canceled
+INN26967,1,0,0,2,Meal Plan 2,0,Room_Type 1,74,Offline,0,0,0,80.0,0,9/18/2017,Not_Canceled
+INN26968,2,0,2,3,Not Selected,0,Room_Type 1,59,Online,0,0,0,116.1,1,5/21/2018,Canceled
+INN26969,2,0,0,1,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,107.0,1,11/6/2017,Not_Canceled
+INN26970,2,0,1,1,Not Selected,0,Room_Type 1,3,Online,0,0,0,128.0,1,8/20/2018,Not_Canceled
+INN26971,2,0,2,2,Meal Plan 1,0,Room_Type 1,32,Online,0,0,0,81.9,0,3/13/2018,Not_Canceled
+INN26972,2,0,0,2,Meal Plan 1,0,Room_Type 4,60,Online,0,0,0,123.3,0,9/2/2018,Canceled
+INN26973,2,2,0,1,Meal Plan 1,0,Room_Type 6,0,Online,0,0,0,196.0,1,9/30/2017,Not_Canceled
+INN26974,1,0,0,5,Meal Plan 1,0,Room_Type 1,135,Online,0,0,0,94.5,1,8/23/2018,Canceled
+INN26975,1,0,1,1,Meal Plan 1,0,Room_Type 1,44,Online,0,0,0,91.2,0,11/19/2018,Canceled
+INN26976,2,1,5,13,Meal Plan 1,0,Room_Type 1,12,Offline,0,0,0,110.0,2,9/12/2018,Canceled
+INN26977,2,0,1,1,Not Selected,0,Room_Type 1,6,Online,0,0,0,87.78,1,9/21/2017,Not_Canceled
+INN26978,3,0,2,2,Meal Plan 1,0,Room_Type 1,86,Offline,0,0,0,96.9,0,7/10/2018,Not_Canceled
+INN26979,2,0,0,3,Meal Plan 1,0,Room_Type 4,11,Corporate,0,0,0,90.0,0,6/14/2018,Canceled
+INN26980,1,0,1,0,Meal Plan 1,0,Room_Type 1,35,Offline,0,0,0,99.0,0,9/26/2018,Not_Canceled
+INN26981,2,0,2,3,Meal Plan 1,0,Room_Type 1,61,Offline,0,0,0,68.0,1,11/19/2018,Not_Canceled
+INN26982,2,0,0,1,Meal Plan 1,0,Room_Type 1,41,Offline,0,0,0,171.2,0,6/28/2018,Not_Canceled
+INN26983,1,0,0,1,Meal Plan 1,0,Room_Type 4,6,Online,0,0,0,0.0,1,9/23/2017,Not_Canceled
+INN26984,2,0,0,1,Meal Plan 1,0,Room_Type 1,443,Offline,0,0,0,65.0,0,4/29/2018,Canceled
+INN26985,1,0,2,2,Meal Plan 1,0,Room_Type 1,359,Online,0,0,0,95.0,0,9/16/2018,Canceled
+INN26986,1,0,0,2,Meal Plan 1,0,Room_Type 1,20,Offline,0,0,0,116.0,0,6/8/2018,Not_Canceled
+INN26987,2,0,0,1,Meal Plan 1,0,Room_Type 1,4,Online,0,0,0,121.6,0,8/20/2018,Canceled
+INN26988,2,0,1,1,Meal Plan 2,0,Room_Type 1,3,Offline,0,0,0,112.0,1,5/21/2018,Not_Canceled
+INN26989,2,0,1,2,Meal Plan 1,0,Room_Type 1,147,Offline,0,0,0,89.75,2,9/16/2018,Not_Canceled
+INN26990,2,0,0,1,Meal Plan 1,0,Room_Type 1,56,Offline,0,0,0,120.0,0,6/8/2018,Not_Canceled
+INN26991,2,0,0,1,Meal Plan 1,0,Room_Type 4,47,Online,0,0,0,118.8,0,4/23/2018,Canceled
+INN26992,2,0,1,4,Meal Plan 1,0,Room_Type 1,125,Online,0,0,0,114.3,0,8/8/2018,Canceled
+INN26993,1,0,1,2,Meal Plan 1,0,Room_Type 4,56,Online,0,0,0,140.4,0,5/27/2018,Canceled
+INN26994,2,0,0,4,Meal Plan 1,1,Room_Type 4,16,Online,0,0,0,134.7,0,5/31/2018,Not_Canceled
+INN26995,2,0,0,3,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,106.2,1,9/13/2018,Not_Canceled
+INN26996,1,0,1,2,Meal Plan 1,0,Room_Type 1,167,Online,0,0,0,96.3,0,8/26/2018,Canceled
+INN26997,2,0,0,3,Meal Plan 1,0,Room_Type 1,213,Offline,0,0,0,130.0,0,6/7/2018,Canceled
+INN26998,2,0,2,0,Not Selected,0,Room_Type 1,30,Online,0,0,0,134.1,1,9/18/2018,Not_Canceled
+INN26999,2,0,0,1,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,73.07,0,6/8/2018,Not_Canceled
+INN27000,2,0,0,4,Meal Plan 1,0,Room_Type 4,5,Online,0,0,0,146.0,1,6/7/2018,Not_Canceled
+INN27001,2,1,1,0,Meal Plan 1,0,Room_Type 4,32,Online,0,0,0,136.52,1,8/14/2018,Not_Canceled
+INN27002,2,0,0,2,Meal Plan 2,0,Room_Type 1,265,Offline,0,0,0,115.0,1,6/24/2018,Canceled
+INN27003,3,0,0,3,Meal Plan 1,0,Room_Type 1,157,Offline,0,0,0,92.65,0,12/8/2018,Not_Canceled
+INN27004,2,0,2,2,Meal Plan 2,0,Room_Type 1,169,Offline,0,0,0,106.0,0,4/22/2018,Canceled
+INN27005,1,0,0,2,Meal Plan 1,0,Room_Type 1,188,Offline,0,0,0,130.0,0,6/15/2018,Canceled
+INN27006,2,0,0,1,Meal Plan 1,0,Room_Type 1,443,Offline,0,0,0,65.0,0,4/29/2018,Canceled
+INN27007,2,0,2,2,Meal Plan 1,0,Room_Type 4,52,Online,0,0,0,120.6,1,10/28/2018,Not_Canceled
+INN27008,2,0,2,3,Meal Plan 1,0,Room_Type 4,170,Online,0,0,0,103.7,1,8/25/2018,Canceled
+INN27009,2,0,1,3,Meal Plan 1,0,Room_Type 1,38,Offline,0,0,0,80.2,1,6/20/2018,Not_Canceled
+INN27010,2,0,2,2,Meal Plan 1,0,Room_Type 1,84,Online,0,0,0,90.95,0,4/8/2018,Canceled
+INN27011,1,0,1,2,Meal Plan 1,0,Room_Type 5,234,Corporate,0,0,0,106.0,0,10/17/2018,Canceled
+INN27012,1,0,1,0,Meal Plan 1,0,Room_Type 1,3,Corporate,0,0,0,139.13,0,9/19/2018,Not_Canceled
+INN27013,2,1,1,3,Meal Plan 1,0,Room_Type 1,194,Online,0,0,0,114.75,1,8/8/2018,Canceled
+INN27014,2,0,1,0,Not Selected,0,Room_Type 1,49,Online,0,0,0,93.15,0,7/11/2018,Canceled
+INN27015,3,0,2,2,Meal Plan 1,0,Room_Type 4,93,Online,0,0,0,119.0,1,12/25/2018,Not_Canceled
+INN27016,2,0,1,0,Not Selected,0,Room_Type 1,1,Online,0,0,0,79.0,0,2/14/2018,Canceled
+INN27017,2,0,0,1,Not Selected,0,Room_Type 1,6,Online,0,0,0,95.0,2,12/10/2018,Not_Canceled
+INN27018,2,0,2,5,Meal Plan 1,0,Room_Type 1,96,Online,0,0,0,76.5,0,8/22/2017,Canceled
+INN27019,2,0,2,2,Meal Plan 1,0,Room_Type 1,14,Online,0,0,0,109.0,1,3/13/2018,Not_Canceled
+INN27020,1,0,0,2,Meal Plan 1,0,Room_Type 1,188,Offline,0,0,0,130.0,0,6/15/2018,Canceled
+INN27021,2,0,2,1,Meal Plan 1,0,Room_Type 1,55,Offline,0,0,0,75.0,1,4/3/2018,Not_Canceled
+INN27022,2,0,1,4,Meal Plan 1,0,Room_Type 1,113,Online,0,0,0,132.77,2,5/18/2018,Not_Canceled
+INN27023,2,0,2,0,Not Selected,0,Room_Type 1,28,Online,0,0,0,89.0,0,4/17/2018,Not_Canceled
+INN27024,1,0,0,2,Not Selected,0,Room_Type 1,9,Online,0,0,0,84.0,1,3/29/2018,Not_Canceled
+INN27025,2,0,0,1,Not Selected,0,Room_Type 1,13,Online,0,0,0,88.0,0,12/8/2018,Not_Canceled
+INN27026,2,0,0,3,Meal Plan 1,0,Room_Type 4,192,Online,0,0,0,140.4,2,9/15/2018,Canceled
+INN27027,2,2,4,10,Meal Plan 1,0,Room_Type 6,87,Online,0,0,0,187.85,1,5/16/2018,Canceled
+INN27028,2,0,1,2,Meal Plan 1,0,Room_Type 1,56,Online,0,0,0,93.6,1,12/9/2018,Not_Canceled
+INN27029,1,0,1,4,Meal Plan 1,0,Room_Type 4,79,Online,0,0,0,129.96,0,7/6/2018,Canceled
+INN27030,2,0,1,5,Meal Plan 1,0,Room_Type 4,129,Online,0,0,0,132.3,0,10/10/2018,Canceled
+INN27031,2,0,1,3,Meal Plan 2,0,Room_Type 1,178,Offline,0,0,0,106.25,1,10/24/2018,Canceled
+INN27032,2,0,0,3,Meal Plan 1,0,Room_Type 1,157,Online,0,0,0,114.3,2,8/10/2018,Canceled
+INN27033,2,0,0,3,Meal Plan 1,0,Room_Type 1,43,Online,0,0,0,123.9,0,7/19/2018,Canceled
+INN27034,2,0,1,4,Meal Plan 1,0,Room_Type 1,88,Offline,0,0,0,80.75,0,6/8/2018,Canceled
+INN27035,2,0,0,2,Not Selected,0,Room_Type 1,222,Online,0,0,0,85.5,1,8/12/2018,Canceled
+INN27036,2,0,1,2,Meal Plan 1,0,Room_Type 1,24,Online,0,0,0,97.67,1,3/11/2018,Canceled
+INN27037,2,0,0,3,Meal Plan 1,0,Room_Type 1,271,Offline,0,0,0,101.33,1,9/21/2018,Canceled
+INN27038,2,0,2,2,Meal Plan 1,0,Room_Type 1,74,Offline,0,0,0,75.0,0,4/17/2018,Not_Canceled
+INN27039,2,0,2,1,Meal Plan 1,0,Room_Type 4,26,Offline,0,0,0,75.0,0,10/18/2017,Not_Canceled
+INN27040,2,0,1,2,Meal Plan 1,0,Room_Type 1,57,Offline,0,0,0,90.67,1,6/10/2018,Not_Canceled
+INN27041,2,0,2,2,Meal Plan 1,0,Room_Type 1,76,Online,0,0,0,72.25,1,11/1/2017,Not_Canceled
+INN27042,2,0,0,2,Not Selected,0,Room_Type 1,66,Online,0,0,0,94.5,0,4/13/2018,Not_Canceled
+INN27043,2,0,0,2,Meal Plan 1,0,Room_Type 1,308,Offline,0,0,0,52.0,0,11/25/2018,Canceled
+INN27044,3,0,0,1,Meal Plan 1,0,Room_Type 1,0,Online,0,0,0,83.2,1,12/7/2018,Not_Canceled
+INN27045,2,0,2,7,Meal Plan 1,0,Room_Type 4,21,Online,0,0,0,107.64,1,11/8/2018,Not_Canceled
+INN27046,1,0,2,6,Meal Plan 1,0,Room_Type 1,13,Online,0,0,0,85.0,0,2/4/2018,Canceled
+INN27047,2,0,2,2,Meal Plan 1,0,Room_Type 1,34,Offline,0,0,0,75.0,0,10/30/2018,Not_Canceled
+INN27048,2,0,0,2,Meal Plan 2,0,Room_Type 1,56,Offline,0,0,0,82.0,0,9/17/2017,Not_Canceled
+INN27049,2,0,0,2,Meal Plan 2,0,Room_Type 1,273,Offline,0,0,0,109.0,0,7/17/2017,Canceled
+INN27050,1,0,1,2,Meal Plan 1,0,Room_Type 5,11,Offline,0,0,0,174.33,0,7/18/2018,Not_Canceled
+INN27051,2,0,1,5,Meal Plan 1,0,Room_Type 4,51,Online,0,0,0,132.6,2,5/10/2018,Not_Canceled
+INN27052,2,0,2,1,Meal Plan 2,0,Room_Type 1,103,Offline,0,0,0,94.5,0,7/18/2017,Canceled
+INN27053,1,0,0,2,Meal Plan 1,0,Room_Type 4,5,Corporate,0,0,0,94.0,0,11/2/2018,Canceled
+INN27054,2,0,0,1,Meal Plan 1,0,Room_Type 1,126,Online,0,0,0,114.3,1,7/8/2018,Not_Canceled
+INN27055,2,0,1,3,Meal Plan 1,0,Room_Type 4,104,Online,0,0,0,123.3,0,7/21/2018,Not_Canceled
+INN27056,1,0,1,1,Meal Plan 1,0,Room_Type 1,6,Online,0,0,0,129.7,0,9/19/2018,Not_Canceled
+INN27057,1,0,1,1,Meal Plan 1,0,Room_Type 1,0,Corporate,0,0,0,79.0,0,11/28/2018,Canceled
+INN27058,1,0,0,1,Meal Plan 1,1,Room_Type 1,1,Corporate,1,0,1,88.0,0,11/22/2018,Not_Canceled
+INN27059,1,0,0,1,Meal Plan 1,0,Room_Type 4,64,Online,0,0,0,149.4,0,9/16/2018,Canceled
+INN27060,2,0,0,2,Meal Plan 1,0,Room_Type 1,22,Offline,0,0,0,85.0,0,10/5/2018,Not_Canceled
+INN27061,2,0,2,0,Meal Plan 1,0,Room_Type 4,160,Online,0,0,0,113.4,2,10/30/2018,Canceled
+INN27062,2,0,2,2,Meal Plan 1,0,Room_Type 1,99,Offline,0,0,0,65.0,0,10/30/2017,Canceled
+INN27063,1,0,0,1,Meal Plan 1,0,Room_Type 1,50,Online,0,0,0,85.5,0,4/2/2018,Not_Canceled
+INN27064,1,0,0,1,Meal Plan 1,0,Room_Type 1,5,Online,0,0,0,0.0,0,10/21/2017,Not_Canceled
+INN27065,2,0,0,2,Meal Plan 1,0,Room_Type 1,263,Offline,0,0,0,110.0,0,10/21/2018,Canceled
+INN27066,2,0,1,1,Meal Plan 1,0,Room_Type 1,33,Corporate,0,0,0,62.0,0,1/25/2018,Canceled
+INN27067,2,0,0,3,Meal Plan 1,0,Room_Type 1,33,Online,0,0,0,126.9,1,6/15/2018,Not_Canceled
+INN27068,3,0,0,2,Meal Plan 1,0,Room_Type 4,66,Online,0,0,0,168.3,0,9/9/2018,Canceled
+INN27069,2,0,2,2,Meal Plan 1,0,Room_Type 1,138,Online,0,0,0,90.95,0,4/23/2018,Not_Canceled
+INN27070,3,0,0,1,Meal Plan 1,0,Room_Type 4,36,Online,0,0,0,131.4,0,3/24/2018,Canceled
+INN27071,2,0,1,2,Meal Plan 1,0,Room_Type 1,151,Offline,0,0,0,72.25,1,8/5/2018,Not_Canceled
+INN27072,2,2,0,4,Meal Plan 1,0,Room_Type 6,24,Online,0,0,0,161.5,0,11/1/2018,Canceled
+INN27073,2,0,2,3,Meal Plan 1,0,Room_Type 1,149,Offline,0,0,0,80.75,0,8/27/2018,Not_Canceled
+INN27074,2,0,1,0,Not Selected,0,Room_Type 1,6,Online,0,0,0,81.0,0,8/23/2017,Not_Canceled
+INN27075,2,0,2,2,Meal Plan 1,0,Room_Type 1,91,Online,0,0,0,90.45,1,10/30/2018,Not_Canceled
+INN27076,2,0,2,3,Meal Plan 1,0,Room_Type 1,20,Online,0,0,0,128.2,1,3/19/2018,Not_Canceled
+INN27077,2,0,2,2,Meal Plan 1,0,Room_Type 1,98,Online,0,0,0,90.45,1,10/30/2018,Not_Canceled
+INN27078,2,0,1,3,Meal Plan 1,0,Room_Type 1,33,Online,0,0,0,113.4,0,6/13/2018,Canceled
+INN27079,2,0,2,4,Meal Plan 1,0,Room_Type 1,132,Offline,0,0,0,79.56,0,7/13/2018,Not_Canceled
+INN27080,2,0,0,2,Meal Plan 2,0,Room_Type 1,102,Offline,0,0,0,109.0,0,10/16/2017,Not_Canceled
+INN27081,1,0,0,4,Meal Plan 1,0,Room_Type 1,195,Online,0,0,0,90.9,2,10/18/2018,Canceled
+INN27082,2,2,0,1,Meal Plan 1,0,Room_Type 6,125,Online,0,0,0,177.3,0,7/12/2018,Not_Canceled
+INN27083,1,0,1,2,Meal Plan 2,0,Room_Type 1,116,Online,0,0,0,76.92,1,9/18/2017,Canceled
+INN27084,2,0,0,2,Meal Plan 1,0,Room_Type 1,245,Offline,0,0,0,75.0,0,6/17/2018,Canceled
+INN27085,2,0,2,1,Meal Plan 1,0,Room_Type 1,221,Offline,0,0,0,65.0,0,10/10/2017,Not_Canceled
+INN27086,2,0,0,3,Meal Plan 1,0,Room_Type 4,130,Online,0,0,0,139.5,2,9/29/2018,Canceled
+INN27087,1,0,1,0,Not Selected,0,Room_Type 5,1,Online,0,0,0,195.0,0,9/26/2018,Not_Canceled
+INN27088,2,0,2,0,Meal Plan 1,0,Room_Type 1,28,Online,0,0,0,89.0,1,1/31/2018,Not_Canceled
+INN27089,1,0,0,3,Meal Plan 1,0,Room_Type 1,1,Corporate,0,0,0,60.0,0,8/5/2017,Canceled
+INN27090,3,0,0,4,Meal Plan 1,0,Room_Type 1,50,Offline,0,0,0,98.1,0,11/2/2018,Not_Canceled
+INN27091,2,0,1,1,Meal Plan 1,0,Room_Type 1,159,Offline,0,0,0,70.0,1,4/9/2018,Not_Canceled
+INN27092,1,0,2,3,Meal Plan 1,0,Room_Type 1,269,Offline,0,0,0,70.0,0,12/29/2018,Not_Canceled
+INN27093,2,0,0,3,Meal Plan 1,0,Room_Type 1,33,Online,0,0,0,84.57,1,2/10/2018,Not_Canceled
+INN27094,2,0,2,5,Meal Plan 1,0,Room_Type 1,97,Online,0,0,0,109.81,1,4/30/2018,Not_Canceled
+INN27095,3,0,2,1,Meal Plan 1,0,Room_Type 4,128,Online,0,0,0,123.3,1,10/29/2018,Canceled
+INN27096,2,0,0,2,Meal Plan 1,0,Room_Type 1,54,Online,0,0,0,126.9,1,5/31/2018,Not_Canceled
+INN27097,2,0,0,3,Not Selected,0,Room_Type 1,18,Online,0,0,0,73.92,1,9/15/2017,Not_Canceled
+INN27098,1,0,1,5,Meal Plan 1,0,Room_Type 1,349,Offline,0,0,0,80.0,0,10/4/2018,Canceled
+INN27099,2,0,2,1,Meal Plan 2,0,Room_Type 1,124,Offline,0,0,0,94.5,0,8/8/2017,Canceled
+INN27100,2,0,2,5,Meal Plan 1,0,Room_Type 4,57,Online,0,0,0,146.96,0,9/24/2018,Canceled
+INN27101,3,0,0,1,Meal Plan 1,1,Room_Type 4,2,Online,0,0,0,197.0,0,5/20/2018,Not_Canceled
+INN27102,2,0,0,5,Meal Plan 1,0,Room_Type 4,10,Online,0,0,0,160.0,0,3/22/2018,Not_Canceled
+INN27103,2,0,0,3,Meal Plan 1,0,Room_Type 1,304,Offline,0,0,0,89.0,0,11/3/2018,Canceled
+INN27104,2,0,2,1,Meal Plan 1,0,Room_Type 1,24,Offline,0,0,0,58.0,0,12/27/2017,Not_Canceled
+INN27105,1,0,0,2,Meal Plan 1,0,Room_Type 1,3,Offline,0,0,0,95.0,0,6/24/2018,Not_Canceled
+INN27106,1,0,0,1,Meal Plan 1,0,Room_Type 1,1,Complementary,0,0,0,0.0,0,11/10/2017,Not_Canceled
+INN27107,2,0,0,1,Not Selected,0,Room_Type 1,1,Online,0,0,0,139.0,0,7/8/2018,Canceled
+INN27108,2,0,0,3,Meal Plan 1,0,Room_Type 4,5,Corporate,0,0,0,95.0,0,8/23/2018,Not_Canceled
+INN27109,2,0,2,3,Meal Plan 1,0,Room_Type 1,19,Online,0,0,0,105.0,1,9/13/2017,Not_Canceled
+INN27110,2,0,0,1,Meal Plan 1,0,Room_Type 1,28,Offline,0,0,0,75.0,2,9/27/2018,Not_Canceled
+INN27111,2,0,1,2,Not Selected,0,Room_Type 1,74,Online,0,0,0,88.2,2,12/2/2018,Not_Canceled
+INN27112,2,0,0,1,Meal Plan 1,0,Room_Type 1,44,Corporate,1,2,5,75.0,0,7/8/2018,Not_Canceled
+INN27113,2,0,2,1,Meal Plan 1,0,Room_Type 4,47,Online,0,0,0,139.5,2,10/9/2018,Not_Canceled
+INN27114,2,0,0,3,Meal Plan 1,0,Room_Type 1,259,Offline,0,0,0,90.0,0,5/5/2018,Canceled
+INN27115,1,0,1,2,Meal Plan 1,0,Room_Type 1,84,Online,0,0,0,87.3,0,4/1/2018,Canceled
+INN27116,2,1,2,2,Meal Plan 1,0,Room_Type 1,107,Online,0,0,0,135.15,2,5/22/2018,Not_Canceled
+INN27117,3,0,2,0,Meal Plan 1,0,Room_Type 4,52,Online,0,0,0,186.3,1,7/31/2018,Not_Canceled
+INN27118,2,0,2,2,Meal Plan 1,0,Room_Type 1,3,Online,0,0,0,146.0,1,8/14/2017,Not_Canceled
+INN27119,2,0,0,2,Not Selected,0,Room_Type 1,94,Online,0,0,0,85.5,1,4/13/2018,Not_Canceled
+INN27120,2,0,1,1,Meal Plan 1,0,Room_Type 4,20,Online,0,0,0,113.0,0,2/27/2018,Not_Canceled
+INN27121,2,0,1,2,Meal Plan 1,0,Room_Type 1,304,Online,0,0,0,74.15,0,10/21/2018,Canceled
+INN27122,3,0,2,1,Meal Plan 2,0,Room_Type 1,3,Offline,0,0,0,138.5,0,7/11/2017,Not_Canceled
+INN27123,2,0,1,2,Meal Plan 1,0,Room_Type 1,28,Offline,0,0,0,85.5,0,6/20/2018,Not_Canceled
+INN27124,1,0,0,1,Meal Plan 2,0,Room_Type 4,55,Offline,0,0,0,92.0,0,4/6/2018,Not_Canceled
+INN27125,2,0,0,2,Meal Plan 1,1,Room_Type 1,30,Online,0,0,0,144.9,1,8/5/2018,Not_Canceled
+INN27126,1,0,2,2,Meal Plan 1,0,Room_Type 1,56,Offline,0,0,0,185.0,0,9/25/2017,Not_Canceled
+INN27127,2,0,1,2,Meal Plan 1,0,Room_Type 1,86,Offline,0,0,0,65.0,1,5/20/2018,Not_Canceled
+INN27128,2,2,2,2,Meal Plan 1,0,Room_Type 6,21,Online,0,0,0,187.0,1,12/27/2017,Not_Canceled
+INN27129,2,0,0,1,Meal Plan 1,0,Room_Type 1,14,Offline,0,0,0,73.0,0,5/27/2018,Not_Canceled
+INN27130,2,0,2,1,Meal Plan 1,0,Room_Type 4,35,Online,0,0,0,140.4,1,4/30/2018,Not_Canceled
+INN27131,1,0,6,12,Meal Plan 1,0,Room_Type 1,1,Online,0,0,0,77.44,1,11/18/2018,Canceled
+INN27132,2,0,0,2,Meal Plan 1,0,Room_Type 1,3,Online,0,0,0,116.0,1,4/13/2018,Not_Canceled
+INN27133,2,1,2,2,Meal Plan 1,0,Room_Type 1,170,Online,0,0,0,114.75,1,7/30/2018,Canceled
+INN27134,2,0,1,1,Meal Plan 1,0,Room_Type 1,159,Offline,0,0,0,70.0,1,4/9/2018,Not_Canceled
+INN27135,2,0,0,2,Meal Plan 2,0,Room_Type 1,291,Offline,0,0,0,115.0,0,8/19/2018,Canceled
+INN27136,2,0,0,2,Not Selected,1,Room_Type 1,221,Online,0,0,0,94.5,3,8/18/2018,Not_Canceled
+INN27137,2,0,2,1,Meal Plan 1,0,Room_Type 1,45,Online,0,0,0,93.6,1,12/25/2018,Not_Canceled
+INN27138,2,0,0,2,Meal Plan 2,0,Room_Type 1,39,Offline,0,0,0,101.5,0,8/14/2017,Not_Canceled
+INN27139,2,0,1,4,Not Selected,0,Room_Type 1,79,Online,0,0,0,72.25,0,3/28/2018,Canceled
+INN27140,1,0,1,0,Not Selected,0,Room_Type 1,56,Online,0,0,0,79.2,2,12/12/2018,Not_Canceled
+INN27141,2,1,0,3,Meal Plan 1,0,Room_Type 1,27,Offline,0,0,0,85.0,1,10/20/2018,Not_Canceled
+INN27142,2,0,2,2,Meal Plan 1,0,Room_Type 1,6,Offline,0,0,0,58.0,0,12/6/2017,Not_Canceled
+INN27143,1,0,0,2,Not Selected,0,Room_Type 1,6,Online,0,0,0,93.0,0,3/10/2018,Canceled
+INN27144,2,0,3,8,Meal Plan 1,0,Room_Type 1,7,Online,0,0,0,155.45,2,9/28/2017,Not_Canceled
+INN27145,2,0,2,5,Meal Plan 1,0,Room_Type 1,3,Online,0,0,0,137.29,2,9/10/2017,Not_Canceled
+INN27146,2,1,2,4,Meal Plan 1,0,Room_Type 1,260,Online,0,0,0,95.13,1,10/2/2018,Not_Canceled
+INN27147,2,0,1,0,Not Selected,0,Room_Type 1,2,Online,0,0,0,98.0,2,8/7/2018,Not_Canceled
+INN27148,1,0,0,1,Meal Plan 1,0,Room_Type 1,1,Corporate,1,0,2,65.0,0,11/4/2017,Not_Canceled
+INN27149,1,0,0,2,Meal Plan 1,0,Room_Type 1,181,Offline,0,0,0,120.0,0,10/11/2018,Canceled
+INN27150,2,0,0,3,Meal Plan 1,0,Room_Type 1,3,Online,0,0,0,100.0,1,2/9/2018,Canceled
+INN27151,2,1,2,3,Meal Plan 2,0,Room_Type 1,159,Online,0,0,0,143.55,1,10/1/2018,Canceled
+INN27152,2,0,0,1,Meal Plan 1,0,Room_Type 1,37,Offline,0,0,0,76.5,0,10/23/2017,Not_Canceled
+INN27153,2,0,1,1,Not Selected,0,Room_Type 1,72,Online,0,0,0,116.1,1,5/7/2018,Not_Canceled
+INN27154,2,2,2,2,Meal Plan 1,0,Room_Type 7,168,Online,0,0,0,205.0,0,11/25/2018,Canceled
+INN27155,3,0,0,2,Meal Plan 1,0,Room_Type 4,161,Online,0,0,0,82.35,2,8/16/2018,Not_Canceled
+INN27156,2,1,0,2,Meal Plan 2,0,Room_Type 1,2,Online,0,0,0,159.5,2,2/5/2018,Not_Canceled
+INN27157,1,0,2,2,Meal Plan 1,0,Room_Type 1,115,Offline,0,0,0,76.0,0,2/27/2018,Not_Canceled
+INN27158,1,0,1,0,Meal Plan 1,0,Room_Type 1,7,Online,0,0,0,97.0,0,5/16/2018,Canceled
+INN27159,2,0,0,1,Not Selected,0,Room_Type 1,38,Online,0,0,0,89.1,1,6/1/2018,Not_Canceled
+INN27160,2,0,0,5,Meal Plan 1,0,Room_Type 4,162,Offline,0,0,0,62.0,1,3/8/2018,Not_Canceled
+INN27161,1,0,0,1,Meal Plan 2,0,Room_Type 1,221,Offline,0,0,0,73.0,0,8/12/2018,Not_Canceled
+INN27162,3,0,2,1,Meal Plan 1,0,Room_Type 1,42,Offline,0,0,0,106.2,0,3/5/2018,Canceled
+INN27163,2,0,0,2,Meal Plan 2,0,Room_Type 1,102,Offline,0,0,0,109.0,0,10/16/2017,Not_Canceled
+INN27164,2,0,1,0,Not Selected,0,Room_Type 1,1,Online,0,0,0,98.0,0,8/7/2018,Not_Canceled
+INN27165,2,0,2,3,Meal Plan 1,0,Room_Type 1,8,Online,0,0,0,59.16,0,1/8/2018,Not_Canceled
+INN27166,2,2,2,5,Meal Plan 1,0,Room_Type 5,190,Online,0,0,0,117.51,2,8/10/2018,Canceled
+INN27167,2,0,1,2,Meal Plan 1,0,Room_Type 1,164,Online,0,0,0,100.2,0,10/24/2018,Canceled
+INN27168,2,0,0,3,Meal Plan 1,0,Room_Type 1,183,Offline,0,0,0,112.0,1,8/9/2018,Canceled
+INN27169,2,0,2,3,Meal Plan 1,0,Room_Type 1,276,Offline,0,0,0,61.0,0,5/13/2018,Canceled
+INN27170,2,0,0,1,Meal Plan 1,0,Room_Type 1,1,Corporate,0,0,0,135.0,0,9/17/2017,Not_Canceled
+INN27171,2,0,0,4,Not Selected,0,Room_Type 1,74,Online,0,0,0,107.1,1,8/9/2018,Not_Canceled
+INN27172,1,0,1,0,Meal Plan 1,0,Room_Type 1,110,Offline,0,0,0,120.0,0,10/9/2018,Not_Canceled
+INN27173,2,0,0,2,Not Selected,0,Room_Type 1,66,Online,0,0,0,125.1,0,8/16/2018,Canceled
+INN27174,2,0,2,3,Meal Plan 1,0,Room_Type 1,359,Offline,0,0,0,78.0,1,10/14/2018,Not_Canceled
+INN27175,2,0,2,1,Meal Plan 1,0,Room_Type 1,58,Online,0,0,0,81.08,0,4/24/2018,Not_Canceled
+INN27176,2,0,1,0,Not Selected,0,Room_Type 1,18,Online,0,0,0,89.0,2,9/11/2018,Not_Canceled
+INN27177,2,2,2,2,Meal Plan 1,0,Room_Type 6,14,Online,0,0,0,147.9,1,2/21/2018,Not_Canceled
+INN27178,2,0,0,1,Meal Plan 2,0,Room_Type 1,55,Offline,0,0,0,104.0,0,4/6/2018,Not_Canceled
+INN27179,2,0,0,4,Meal Plan 1,0,Room_Type 1,92,Offline,0,0,0,70.0,0,10/7/2017,Not_Canceled
+INN27180,2,0,0,0,Not Selected,0,Room_Type 1,11,Online,0,0,0,0.0,1,1/22/2018,Not_Canceled
+INN27181,1,0,0,1,Meal Plan 1,0,Room_Type 1,1,Corporate,0,0,0,65.0,0,4/1/2018,Not_Canceled
+INN27182,2,2,0,3,Meal Plan 1,0,Room_Type 7,35,Online,0,0,0,214.76,0,8/17/2018,Canceled
+INN27183,2,0,0,4,Meal Plan 1,0,Room_Type 1,270,Offline,0,0,0,80.0,0,4/20/2018,Not_Canceled
+INN27184,1,0,0,1,Meal Plan 1,0,Room_Type 1,14,Corporate,0,0,0,65.0,0,11/16/2018,Not_Canceled
+INN27185,1,0,1,0,Meal Plan 1,0,Room_Type 1,3,Online,0,0,0,118.58,1,10/10/2018,Not_Canceled
+INN27186,1,0,0,3,Meal Plan 1,0,Room_Type 1,71,Offline,0,0,0,120.0,0,6/14/2018,Not_Canceled
+INN27187,2,0,0,2,Meal Plan 1,0,Room_Type 1,298,Offline,0,0,0,93.0,0,5/10/2018,Not_Canceled
+INN27188,2,0,1,3,Meal Plan 1,0,Room_Type 1,92,Online,0,0,0,90.95,0,4/25/2018,Canceled
+INN27189,2,0,2,2,Meal Plan 1,0,Room_Type 1,12,Online,0,0,0,86.4,3,11/11/2018,Not_Canceled
+INN27190,1,0,1,2,Meal Plan 1,0,Room_Type 1,280,Offline,0,0,0,100.0,0,9/19/2018,Canceled
+INN27191,1,0,0,1,Meal Plan 1,0,Room_Type 1,10,Online,0,0,0,141.0,0,5/7/2018,Canceled
+INN27192,2,0,2,2,Meal Plan 1,0,Room_Type 1,30,Online,0,0,0,126.9,1,5/15/2018,Canceled
+INN27193,2,0,2,3,Meal Plan 1,0,Room_Type 4,80,Online,0,0,0,149.4,2,9/17/2018,Not_Canceled
+INN27194,2,0,0,3,Meal Plan 1,0,Room_Type 4,43,Online,0,0,0,106.8,0,3/17/2018,Not_Canceled
+INN27195,3,0,0,1,Meal Plan 1,0,Room_Type 1,7,Online,0,0,0,18.0,1,12/6/2018,Not_Canceled
+INN27196,3,1,1,2,Meal Plan 1,0,Room_Type 1,91,Offline,0,0,0,110.0,0,9/30/2018,Not_Canceled
+INN27197,2,0,0,2,Meal Plan 1,1,Room_Type 1,21,Online,0,0,0,170.0,2,9/23/2018,Not_Canceled
+INN27198,2,0,1,1,Meal Plan 1,0,Room_Type 1,60,Offline,0,0,0,65.0,1,10/12/2017,Not_Canceled
+INN27199,2,0,1,2,Meal Plan 2,0,Room_Type 1,418,Offline,0,0,0,107.0,0,9/26/2018,Canceled
+INN27200,2,0,2,4,Meal Plan 1,0,Room_Type 1,129,Online,0,0,0,114.3,0,8/6/2018,Canceled
+INN27201,2,1,0,3,Meal Plan 1,0,Room_Type 6,193,Online,0,0,0,160.2,0,12/29/2018,Not_Canceled
+INN27202,2,0,0,2,Meal Plan 1,0,Room_Type 1,58,Online,0,0,0,80.3,1,3/4/2018,Not_Canceled
+INN27203,1,0,2,2,Meal Plan 1,0,Room_Type 1,162,Offline,0,0,0,115.0,0,10/14/2018,Canceled
+INN27204,2,1,1,4,Meal Plan 1,0,Room_Type 4,23,Online,0,0,0,110.84,2,4/18/2018,Not_Canceled
+INN27205,2,0,0,3,Meal Plan 1,0,Room_Type 4,80,Online,0,0,0,119.07,0,10/6/2018,Canceled
+INN27206,2,0,0,4,Meal Plan 1,0,Room_Type 4,67,Online,0,0,0,117.6,0,10/19/2018,Canceled
+INN27207,1,0,0,2,Meal Plan 1,0,Room_Type 1,136,Online,0,0,0,90.9,0,8/26/2018,Not_Canceled
+INN27208,1,0,0,2,Meal Plan 1,0,Room_Type 1,14,Offline,0,0,0,100.0,0,10/15/2017,Not_Canceled
+INN27209,2,0,2,2,Meal Plan 1,0,Room_Type 1,7,Online,0,0,0,174.0,1,8/12/2018,Not_Canceled
+INN27210,2,0,2,3,Meal Plan 1,0,Room_Type 1,151,Online,0,0,0,91.48,2,10/6/2018,Not_Canceled
+INN27211,2,0,1,3,Meal Plan 1,0,Room_Type 1,94,Offline,0,0,0,80.75,0,5/2/2018,Not_Canceled
+INN27212,1,0,0,2,Meal Plan 1,0,Room_Type 4,13,Online,0,0,0,126.28,0,9/27/2018,Not_Canceled
+INN27213,2,0,0,2,Meal Plan 1,0,Room_Type 1,30,Offline,0,0,0,140.0,0,6/2/2018,Not_Canceled
+INN27214,2,0,2,4,Not Selected,0,Room_Type 1,288,Online,0,0,0,66.58,0,12/25/2018,Canceled
+INN27215,1,0,0,1,Not Selected,0,Room_Type 1,0,Offline,0,0,0,84.0,0,4/5/2018,Not_Canceled

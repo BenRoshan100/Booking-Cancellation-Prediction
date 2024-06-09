@@ -1,0 +1,10 @@
+2024-06-09/11:43:50		BadRaw directory deleted successfully
+2024-06-09/11:43:50		GoodRaw directory deleted successfully
+2024-06-09/11:53:29		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Training_Raw_files_validated/Good_Raw':
+2024-06-09/11:54:12		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Training_Raw_files_validated/Good_Raw':
+2024-06-09/11:55:27		BadRaw directory deleted successfully
+2024-06-09/11:55:27		GoodRaw directory deleted successfully
+2024-06-09/11:56:10		BadRaw directory deleted successfully
+2024-06-09/11:56:10		GoodRaw directory deleted successfully
+2024-06-09/11:56:41		BadRaw directory deleted successfully
+2024-06-09/11:56:41		GoodRaw directory deleted successfully

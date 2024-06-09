@@ -1,0 +1,20 @@
+2024-06-09/11:39:15		Column Length Validation started successfully
+2024-06-09/11:39:15		Error Occured while moving the file: <class 'OSError'>
+2024-06-09/11:40:30		Column Length Validation started successfully
+2024-06-09/11:40:30		Error Occured while moving the file: <class 'OSError'>
+2024-06-09/11:43:50		Column Length Validation started successfully
+2024-06-09/11:43:50		Error Occured while moving the file: <class 'OSError'>
+2024-06-09/11:46:02		Column Length Validation started successfully
+2024-06-09/11:46:02		Error Occured while moving the file: <class 'OSError'>
+2024-06-09/11:49:36		Column Length Validation started successfully
+2024-06-09/11:49:36		Error Occured while moving the file: <class 'OSError'>
+2024-06-09/11:50:03		Column Length Validation started successfully
+2024-06-09/11:50:03		Error Occured while moving the file: <class 'OSError'>
+2024-06-09/11:54:49		Column Length Validation started successfully
+2024-06-09/11:54:49		Column Length Validation Completed!
+2024-06-09/11:55:27		Column Length Validation started successfully
+2024-06-09/11:55:28		Column Length Validation Completed!
+2024-06-09/11:56:10		Column Length Validation started successfully
+2024-06-09/11:56:11		Column Length Validation Completed!
+2024-06-09/11:56:41		Column Length Validation started successfully
+2024-06-09/11:56:41		Column Length Validation Completed!

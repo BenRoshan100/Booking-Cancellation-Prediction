@@ -14,5 +14,9 @@ class train_validation:
 
             LengthOfDateStampInFile,LengthOfTimeStampInFile,column_names,noofcolumns=self.raw_data.valuesFromSchema()
             regex=self.raw_data.manualRegexCreation()
+            self.raw_data.validationFileNameRaw(regex,LengthOfDateStampInFile,LengthOfTimeStampInFile)
+            self.raw_data.validateColumnLength(noofcolumns)
+            self.raw_data.validateMissingValuesInWholeColumn()
+            self.log_writer.log(self.file_object,"Raw Data Validation Complete!")
         except Exception as e:
             raise e
