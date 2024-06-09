@@ -1,0 +1,5 @@
+2024-06-09/18:29:32		Error while merging data: Cannot save file into a non-existent directory: 'Training_Raw_files_validated\Traning_Raw'
+2024-06-09/18:30:03		Error while merging data: Cannot save file into a non-existent directory: 'Training_Raw_files_validated\Traning_Raw'
+2024-06-09/18:30:30		Error while merging data: 'str' object has no attribute 'write'
+2024-06-09/18:31:43		Error while merging data: 'str' object has no attribute 'write'
+2024-06-09/18:32:19		2024-06-09 18:32:19.447121: Merged CSV created at Training_Raw_files_validated/Training_Raw/booking_data_training.csv

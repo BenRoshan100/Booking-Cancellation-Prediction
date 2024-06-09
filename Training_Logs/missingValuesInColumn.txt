@@ -3,3 +3,9 @@
 2024-06-09/11:55:28		Error occured while moving file:<class 'OSError'>
 2024-06-09/11:56:11		Missing Values Validation Started!!
 2024-06-09/11:56:41		Missing Values Validation Started!!
+2024-06-09/17:53:51		Missing Values Validation Started!!
+2024-06-09/18:29:32		Missing Values Validation Started!!
+2024-06-09/18:30:03		Missing Values Validation Started!!
+2024-06-09/18:30:30		Missing Values Validation Started!!
+2024-06-09/18:31:42		Missing Values Validation Started!!
+2024-06-09/18:32:18		Missing Values Validation Started!!
