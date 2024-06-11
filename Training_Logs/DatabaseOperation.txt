@@ -3,3 +3,9 @@
 2024-06-09/18:30:30		Error while merging data: 'str' object has no attribute 'write'
 2024-06-09/18:31:43		Error while merging data: 'str' object has no attribute 'write'
 2024-06-09/18:32:19		2024-06-09 18:32:19.447121: Merged CSV created at Training_Raw_files_validated/Training_Raw/booking_data_training.csv
+2024-06-11/21:47:42		2024-06-11 21:47:42.652748: Merged CSV created at Training_Raw_files_validated/Training_Raw/booking_data_training.csv
+2024-06-11/21:48:56		2024-06-11 21:48:56.232176: Merged CSV created at Training_Raw_files_validated/Training_Raw/booking_data_training.csv
+2024-06-11/21:50:58		2024-06-11 21:50:58.322824: Merged CSV created at Training_Raw_files_validated/Training_Raw/booking_data_training.csv
+2024-06-11/21:59:10		2024-06-11 21:59:10.575119: Merged CSV created at Training_Raw_files_validated/Training_Raw/booking_data_training.csv
+2024-06-11/21:59:26		2024-06-11 21:59:26.014914: Merged CSV created at Training_Raw_files_validated/Training_Raw/booking_data_training.csv
+2024-06-11/22:01:01		2024-06-11 22:01:01.531429: Merged CSV created at Training_Raw_files_validated/Training_Raw/booking_data_training.csv

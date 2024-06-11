@@ -1,0 +1,61 @@
+2024-06-11/21:47:42		Start of training
+2024-06-11/21:47:42		Entered the get_data method of Data_Getter class
+2024-06-11/21:47:42		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-11/21:47:42		Entered the separate_label_feature method of Preprocessor class
+2024-06-11/21:47:42		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-11/21:47:42		Entered is_null_present method of Preprocessor class
+2024-06-11/21:47:42		Exception occurred in is_null_present method of Preprocessor class. Exception message 'Preprocessor' object has no attribute 'null_present'
+2024-06-11/21:47:42		Finding missing values failed. Exited the is_null_present method of Preprocessor class
+2024-06-11/21:48:56		Start of training
+2024-06-11/21:48:56		Entered the get_data method of Data_Getter class
+2024-06-11/21:48:56		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-11/21:48:56		Entered the separate_label_feature method of Preprocessor class
+2024-06-11/21:48:56		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-11/21:48:56		Entered is_null_present method of Preprocessor class
+2024-06-11/21:48:56		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-11/21:48:56		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-11/21:48:56		Exception occured in get_columns_with_zero_std_deviation method of Preprocessor class. Exception message: 'method' object is not subscriptable
+2024-06-11/21:48:56		Column search for Standard Deviation of Zero Failed. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-11/21:50:58		Start of training
+2024-06-11/21:50:58		Entered the get_data method of Data_Getter class
+2024-06-11/21:50:58		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-11/21:50:58		Entered the separate_label_feature method of Preprocessor class
+2024-06-11/21:50:58		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-11/21:50:58		Entered is_null_present method of Preprocessor class
+2024-06-11/21:50:58		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-11/21:50:58		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-11/21:50:58		Exception occured in get_columns_with_zero_std_deviation method of Preprocessor class. Exception message: 'Booking_ID'
+2024-06-11/21:50:58		Column search for Standard Deviation of Zero Failed. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-11/21:59:10		Start of training
+2024-06-11/21:59:10		Entered the get_data method of Data_Getter class
+2024-06-11/21:59:10		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-11/21:59:10		Entered the separate_label_feature method of Preprocessor class
+2024-06-11/21:59:10		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-11/21:59:10		Entered is_null_present method of Preprocessor class
+2024-06-11/21:59:10		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-11/21:59:10		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-11/21:59:10		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-11/21:59:10		Entered the remove_coluns method of Preprocessor class
+2024-06-11/21:59:10		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-11/21:59:26		Start of training
+2024-06-11/21:59:26		Entered the get_data method of Data_Getter class
+2024-06-11/21:59:26		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-11/21:59:26		Entered the separate_label_feature method of Preprocessor class
+2024-06-11/21:59:26		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-11/21:59:26		Entered is_null_present method of Preprocessor class
+2024-06-11/21:59:26		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-11/21:59:26		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-11/21:59:26		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-11/21:59:26		Entered the remove_coluns method of Preprocessor class
+2024-06-11/21:59:26		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-11/22:01:01		Start of training
+2024-06-11/22:01:01		Entered the get_data method of Data_Getter class
+2024-06-11/22:01:01		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-11/22:01:01		Entered the separate_label_feature method of Preprocessor class
+2024-06-11/22:01:01		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-11/22:01:01		Entered is_null_present method of Preprocessor class
+2024-06-11/22:01:01		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-11/22:01:01		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-11/22:01:01		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-11/22:01:01		Entered the remove_coluns method of Preprocessor class
+2024-06-11/22:01:01		Column removal successful. Exited the remove_coluns method of Preprocessor class

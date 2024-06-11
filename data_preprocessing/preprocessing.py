@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.impute import KNNImputer
+from sklearn.impute import SimpleImputer
 
 class Preprocessor:
 
@@ -9,7 +10,7 @@ class Preprocessor:
         self.logger_object =logger_object
 
     def remove_columns(self,data,columns):
-        self.logger_object.log(self.file_object,'Enetered the remove_coluns method of Preprocessor class')
+        self.logger_object.log(self.file_object,'Entered the remove_coluns method of Preprocessor class')
         self.data=data 
         self.columns=columns 
         try:
@@ -35,7 +36,7 @@ class Preprocessor:
         
     def is_null_present(self,data):
         self.logger_object.log(self.file_object,'Entered is_null_present method of Preprocessor class')
-        self.is_null_present=False 
+        self.null_present=False 
         try:
             self.null_counts=data.isna().sum()
             for i in self.null_counts:
@@ -57,6 +58,45 @@ class Preprocessor:
         self.logger_object.log(self.file_object,'Entered the impute_missing_values method of Preprocessor class')
         self.data=data
         try:
-            pass
+            numerical_cols=self.data.select_dtypes(include=[np.number]).columns 
+            categorical_cols=self.data.select_dtypes(include=[object]).columns 
+
+            low_cardinality_cols=[col for col in self.data.columns if self.data[col].nunique()<20]
+
+            categorical_cols.extend(low_cardinality_cols)
+            categorical_cols=list(set(categorical_cols))
+
+            numerical_cols=[col for col in numerical_cols if col not in categorical_cols]
+
+            if numerical_cols:
+                knn_imputer=KNNImputer(n_neighbors=3)
+                self.data[numerical_cols]=knn_imputer.fit_transform(self.data[numerical_cols])
+            
+            if categorical_cols:
+                simple_imputer=SimpleImputer(strategy='most_frequent')
+                self.data[categorical_cols]=simple_imputer.fit_transform(self.data[categorical_cols])
+
+            self.logger_object.log(self.file_object,'Imputing missing values successful')
+            print(self.data)
+            return self.data
+
+
         except Exception as e:
-            pass
+            self.logger_object.log(self.file_object,f'Exception occurred in impute_missing_values method of Preprocessor class. Exception message: {str(e)}')
+            raise e
+    def get_columns_with_zero_std_deviation(self,data):
+
+        self.logger_object.log(self.file_object,"Entered the get_columns)with_zero_std_deviation method of Preprocessor class")
+        numerical_cols=data.select_dtypes(include=[np.number]).columns
+        self.data_n=data.describe()
+        self.col_to_drop=[]
+        try:
+            for x in numerical_cols:
+                if(self.data_n[x]['std']==0):
+                    self.col_to_drop.append(x)
+            self.logger_object.log(self.file_object,'Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class')
+            return self.col_to_drop
+        except Exception as e:
+            self.logger_object.log(self.file_object,'Exception occured in get_columns_with_zero_std_deviation method of Preprocessor class. Exception message: '+str(e))
+            self.logger_object.log(self.file_object,'Column search for Standard Deviation of Zero Failed. Exited the get_columns_with_zero_std_deviation method of Preprocessor class')
+            raise Exception()
