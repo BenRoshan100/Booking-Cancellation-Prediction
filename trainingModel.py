@@ -2,6 +2,7 @@ from sklearn.model_selection import train_test_split
 from application_logging import logger
 from data_ingestion import data_loader
 from data_preprocessing import preprocessing
+from best_model_finder import tuner 
 
 
 class trainModel:
@@ -29,5 +30,18 @@ class trainModel:
 
             X=preprocessor.remove_columns(X,cols_to_drop)
 
+            """Model Training starts here"""
+
+            x_train,x_test,y_train,y_test=train_test_split(X,Y,test_size=1/3,random_state=143)
+
+            model_finder=tuner.Model_Finder(self.file_object,self.log_writer)
+
+            best_model_name,best_model=model_finder.get_best_model(x_train,y_train,x_test,y_test)
+
+            self.log_writer.log(self.file_object,'Successful End of Training')
+            self.file_object.close()
+
         except Exception as e:
+            self.log_writer.log(self.file_object,'Unsuccessful End of Training')
+            self.file_object.close()
             raise e

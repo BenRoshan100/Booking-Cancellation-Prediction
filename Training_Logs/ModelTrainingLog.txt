@@ -59,3 +59,52 @@
 2024-06-11/22:01:01		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
 2024-06-11/22:01:01		Entered the remove_coluns method of Preprocessor class
 2024-06-11/22:01:01		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-12/22:12:11		Start of training
+2024-06-12/22:12:11		Entered the get_data method of Data_Getter class
+2024-06-12/22:12:11		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-12/22:12:11		Entered the separate_label_feature method of Preprocessor class
+2024-06-12/22:12:11		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-12/22:12:11		Entered is_null_present method of Preprocessor class
+2024-06-12/22:12:11		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-12/22:12:11		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-12/22:12:11		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-12/22:12:11		Entered the remove_coluns method of Preprocessor class
+2024-06-12/22:12:11		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-12/22:12:11		Successful End of Training
+2024-06-12/22:28:07		Start of training
+2024-06-12/22:28:07		Entered the get_data method of Data_Getter class
+2024-06-12/22:28:07		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-12/22:28:07		Entered the separate_label_feature method of Preprocessor class
+2024-06-12/22:28:07		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-12/22:28:07		Entered is_null_present method of Preprocessor class
+2024-06-12/22:28:07		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-12/22:28:07		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-12/22:28:07		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-12/22:28:07		Entered the remove_coluns method of Preprocessor class
+2024-06-12/22:28:07		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-12/22:28:07		Entered the get_best_model method of the Model_Finder class
+2024-06-12/22:28:07		Entered the get_best_params_for_xgboost method of the Model_Finder class.
+2024-06-12/22:28:11		Exception occurred in get_best_params_for_xgboost method of the Model_Finder class. Exception message: 
+All the 320 fits failed.
+It is very likely that your model is misconfigured.
+You can try to debug the error by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+320 fits failed with the following error:
+Traceback (most recent call last):
+  File "D:\ACADEMIC\ML Projects\Booking cancellation\.venv\lib\site-packages\sklearn\model_selection\_validation.py", line 888, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "D:\ACADEMIC\ML Projects\Booking cancellation\.venv\lib\site-packages\xgboost\sklearn.py", line 725, in fit
+    train_dmatrix = DMatrix(X, label=training_labels,
+  File "D:\ACADEMIC\ML Projects\Booking cancellation\.venv\lib\site-packages\xgboost\core.py", line 378, in __init__
+    data, feature_names, feature_types = _maybe_pandas_data(data,
+  File "D:\ACADEMIC\ML Projects\Booking cancellation\.venv\lib\site-packages\xgboost\core.py", line 239, in _maybe_pandas_data
+    raise ValueError(msg + ', '.join(bad_fields))
+ValueError: DataFrame.dtypes for data must be int, float or bool.
+                Did not expect the data types in fields Booking_ID, type of meal, room type, market segment type, date of reservation
+
+2024-06-12/22:28:11		XGBoost parameter tuning failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2024-06-12/22:28:11		Exception occured in get_best_model method of the Model_Finder class. Exceptions message: 
+2024-06-12/22:28:11		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2024-06-12/22:28:11		Unsuccessful End of Training

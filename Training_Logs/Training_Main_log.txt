@@ -86,3 +86,15 @@
 2024-06-11/22:01:01		Data Transformation Complete!
 2024-06-11/22:01:01		Merging all Training Files!
 2024-06-11/22:01:01		Merging Complete!
+2024-06-12/22:12:10		Start of Validation files!
+2024-06-12/22:12:11		Raw Data Validation Complete!
+2024-06-12/22:12:11		Starting Data Transformation!
+2024-06-12/22:12:11		Data Transformation Complete!
+2024-06-12/22:12:11		Merging all Training Files!
+2024-06-12/22:12:11		Merging Complete!
+2024-06-12/22:28:06		Start of Validation files!
+2024-06-12/22:28:06		Raw Data Validation Complete!
+2024-06-12/22:28:06		Starting Data Transformation!
+2024-06-12/22:28:07		Data Transformation Complete!
+2024-06-12/22:28:07		Merging all Training Files!
+2024-06-12/22:28:07		Merging Complete!
