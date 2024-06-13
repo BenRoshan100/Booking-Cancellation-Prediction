@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from sklearn.impute import KNNImputer
 from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import LabelEncoder, OrdinalEncoder
 
 class Preprocessor:
 
@@ -54,6 +55,45 @@ class Preprocessor:
             self.logger_object.log(self.file_object,'Exception occurred in is_null_present method of Preprocessor class. Exception message '+str(e))
             self.logger_object.log(self.file_object,'Finding missing values failed. Exited the is_null_present method of Preprocessor class')
             raise Exception()
+        
+    def extract_date_features(self,data,date_column):
+        self.logger_object.log(self.file_object,'Entered the extract_date_features method of Preprocessor class')
+        self.data=data
+        try:
+            data[date_column] = pd.to_datetime(data[date_column],format='%m/%d/%Y',errors='coerce')
+            data[date_column].fillna(method='ffill')
+
+            data['reservation_year']=data[date_column].dt.year
+            data['reservation_ month']=data[date_column].dt.month
+            data['reservation_day']=data[date_column].dt.day
+            data['reservation_dayofweek']=data[date_column].dt.dayofweek
+            data['reservation_is_weekend']=data[date_column].dt.dayofweek>=5
+
+            data=data.drop([date_column],axis=1)
+            self.logger_object.log(self.file_object,'Extraction of date objects are successful')
+            return data
+        except Exception as e:
+            self.logger_object.log(self.file_object,f'Exception occurred in extract_date_features method of Preprocessor class. Exception message: {str(e)}')
+            raise e
+
+    def encode_data(self,data,label_encode_cols,onehot_encode_cols):
+        self.logger_object.log(self.file_object,'Entered the encode_data method of Preprocessor class')
+        self.data=data
+        try:
+            label_encoder=LabelEncoder()
+            for col in label_encode_cols:
+                data[col]=label_encoder.fit_transform(data[col])
+
+            ordinal_encoder=OrdinalEncoder()
+            data=pd.get_dummies(data,columns=onehot_encode_cols,drop_first=True)
+            self.logger_object.log(self.file_object,'Object features are successfully encoded')
+            return data
+        
+        except Exception as e:
+            self.logger_object.log(self.file_object,f'Exception occurred in encode_data method of Preprocessor class. Exception message: {str(e)}')
+            raise e
+
+
     def impute_missing_values(self,data):
         self.logger_object.log(self.file_object,'Entered the impute_missing_values method of Preprocessor class')
         self.data=data

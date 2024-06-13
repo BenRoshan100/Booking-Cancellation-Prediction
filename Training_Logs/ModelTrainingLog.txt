@@ -108,3 +108,88 @@ ValueError: DataFrame.dtypes for data must be int, float or bool.
 2024-06-12/22:28:11		Exception occured in get_best_model method of the Model_Finder class. Exceptions message: 
 2024-06-12/22:28:11		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
 2024-06-12/22:28:11		Unsuccessful End of Training
+2024-06-13/22:34:17		Start of training
+2024-06-13/22:34:17		Entered the get_data method of Data_Getter class
+2024-06-13/22:34:17		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-13/22:34:17		Entered the separate_label_feature method of Preprocessor class
+2024-06-13/22:34:17		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-13/22:34:17		Entered is_null_present method of Preprocessor class
+2024-06-13/22:34:17		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-13/22:34:17		Entered the extract_date_features method of Preprocessor class
+2024-06-13/22:34:17		Exception occurred in extract_date_features method of Preprocessor class. Exception message: time data "2018-2-29" doesn't match format "%m/%d/%Y", at position 495. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2024-06-13/22:34:17		Unsuccessful End of Training
+2024-06-13/22:37:03		Start of training
+2024-06-13/22:37:03		Entered the get_data method of Data_Getter class
+2024-06-13/22:37:03		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-13/22:37:03		Entered the separate_label_feature method of Preprocessor class
+2024-06-13/22:37:03		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-13/22:37:03		Entered is_null_present method of Preprocessor class
+2024-06-13/22:37:03		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-13/22:37:03		Entered the extract_date_features method of Preprocessor class
+2024-06-13/22:37:03		Exception occurred in extract_date_features method of Preprocessor class. Exception message: time data "2018-2-29" doesn't match format "%m/%d/%Y", at position 495. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2024-06-13/22:37:03		Unsuccessful End of Training
+2024-06-13/22:38:33		Start of training
+2024-06-13/22:38:33		Entered the get_data method of Data_Getter class
+2024-06-13/22:38:33		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-13/22:38:33		Entered the separate_label_feature method of Preprocessor class
+2024-06-13/22:38:33		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-13/22:38:33		Entered is_null_present method of Preprocessor class
+2024-06-13/22:38:33		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-13/22:38:33		Entered the extract_date_features method of Preprocessor class
+2024-06-13/22:38:33		Extraction of date objects are successful
+2024-06-13/22:38:33		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-13/22:38:33		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-13/22:38:33		Entered the encode_data method of Preprocessor class
+2024-06-13/22:38:33		Exception occurred in encode_data method of Preprocessor class. Exception message: 'booking status'
+2024-06-13/22:38:33		Unsuccessful End of Training
+2024-06-13/22:42:13		Start of training
+2024-06-13/22:42:13		Entered the get_data method of Data_Getter class
+2024-06-13/22:42:13		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-13/22:42:13		Entered the encode_data method of Preprocessor class
+2024-06-13/22:42:13		Object features are successfully encoded
+2024-06-13/22:42:13		Entered the separate_label_feature method of Preprocessor class
+2024-06-13/22:42:13		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-13/22:42:13		Entered is_null_present method of Preprocessor class
+2024-06-13/22:42:13		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-13/22:42:13		Entered the extract_date_features method of Preprocessor class
+2024-06-13/22:42:13		Extraction of date objects are successful
+2024-06-13/22:42:13		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-13/22:42:13		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-13/22:42:13		Entered the remove_coluns method of Preprocessor class
+2024-06-13/22:42:13		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-13/22:42:13		Entered the get_best_model method of the Model_Finder class
+2024-06-13/22:42:13		Entered the get_best_params_for_xgboost method of the Model_Finder class.
+2024-06-13/22:58:46		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 20, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2024-06-13/22:58:46		AUC for XGBoost: 0.8759407845892828
+2024-06-13/22:58:46		Exception occured in get_best_model method of the Model_Finder class. Exceptions message: 'Model_Finder' object has no attribute 'log_writer'
+2024-06-13/22:58:46		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2024-06-13/22:58:46		Unsuccessful End of Training
+2024-06-13/23:00:41		Start of training
+2024-06-13/23:00:41		Entered the get_data method of Data_Getter class
+2024-06-13/23:00:41		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-13/23:00:41		Entered the encode_data method of Preprocessor class
+2024-06-13/23:00:41		Object features are successfully encoded
+2024-06-13/23:00:41		Entered the separate_label_feature method of Preprocessor class
+2024-06-13/23:00:41		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-13/23:00:41		Entered is_null_present method of Preprocessor class
+2024-06-13/23:00:41		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-13/23:00:41		Entered the extract_date_features method of Preprocessor class
+2024-06-13/23:00:41		Extraction of date objects are successful
+2024-06-13/23:00:41		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-13/23:00:41		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-13/23:00:41		Entered the remove_coluns method of Preprocessor class
+2024-06-13/23:00:41		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-13/23:00:41		Entered the get_best_model method of the Model_Finder class
+2024-06-13/23:00:41		Entered the get_best_params_for_xgboost method of the Model_Finder class.
+2024-06-13/23:18:40		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2024-06-13/23:18:40		AUC for XGBoost: 0.8776736642420736
+2024-06-13/23:18:40		Entered the get_best_params_for_random_forest of the Model_Finder class
+2024-06-13/23:19:01		Random Forest best params:{'criterion': 'entropy', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 130}. Exited the gest_best_params_for_random_forest method of the Model_Finder class
+2024-06-13/23:19:01		AUC for RF:0.6677146700784076
+2024-06-13/23:19:01		Successful End of Training

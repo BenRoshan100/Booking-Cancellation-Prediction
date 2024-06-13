@@ -12,12 +12,12 @@ class Model_Finder:
         self.xgb=XGBClassifier(objective='binary:logistic')
 
     def get_best_params_for_random_forest(self,train_x,train_y):
-        self.log_writer.log(self.file_object,'Entered the get_best_params_for_random_forest of the Model_Finder class')
+        self.logger_object.log(self.file_object,'Entered the get_best_params_for_random_forest of the Model_Finder class')
         try:
             self.param_grid={"n_estimators":[10,50,100,130],
                              "criterion":['gini','entropy'],
                              "max_depth":range(2,4,1),
-                             "max_features":['auto','log2']}
+                             "max_features":['sqrt','log2']}
             
             self.grid=GridSearchCV(estimator=self.clf,param_grid=self.param_grid,cv=5,verbose=3)
             self.grid.fit(train_x,train_y)
@@ -96,8 +96,10 @@ class Model_Finder:
                 self.logger_object.log(self.file_object,'AUC for RF:'+str(self.random_forest_score))
             
             if (self.random_forest_score<self.xgboost_score):
-                return 'XGBoost',self.xgboost 
+                self.logger_object.log(self.file_object,'Got the best Model as XGBoost: '+str(self.xgboost_score))
+                return 'XGBoost',self.xgboost
             else:
+                self.logger_object.log(self.file_object,'Got the best Model as RandomForest: '+str(self.random_forest_score))
                 return 'RandomForest',self.random_forest
             
         except Exception as e:

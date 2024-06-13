@@ -98,3 +98,33 @@
 2024-06-12/22:28:07		Data Transformation Complete!
 2024-06-12/22:28:07		Merging all Training Files!
 2024-06-12/22:28:07		Merging Complete!
+2024-06-13/22:34:16		Start of Validation files!
+2024-06-13/22:34:17		Raw Data Validation Complete!
+2024-06-13/22:34:17		Starting Data Transformation!
+2024-06-13/22:34:17		Data Transformation Complete!
+2024-06-13/22:34:17		Merging all Training Files!
+2024-06-13/22:34:17		Merging Complete!
+2024-06-13/22:37:03		Start of Validation files!
+2024-06-13/22:37:03		Raw Data Validation Complete!
+2024-06-13/22:37:03		Starting Data Transformation!
+2024-06-13/22:37:03		Data Transformation Complete!
+2024-06-13/22:37:03		Merging all Training Files!
+2024-06-13/22:37:03		Merging Complete!
+2024-06-13/22:38:32		Start of Validation files!
+2024-06-13/22:38:33		Raw Data Validation Complete!
+2024-06-13/22:38:33		Starting Data Transformation!
+2024-06-13/22:38:33		Data Transformation Complete!
+2024-06-13/22:38:33		Merging all Training Files!
+2024-06-13/22:38:33		Merging Complete!
+2024-06-13/22:42:13		Start of Validation files!
+2024-06-13/22:42:13		Raw Data Validation Complete!
+2024-06-13/22:42:13		Starting Data Transformation!
+2024-06-13/22:42:13		Data Transformation Complete!
+2024-06-13/22:42:13		Merging all Training Files!
+2024-06-13/22:42:13		Merging Complete!
+2024-06-13/23:00:41		Start of Validation files!
+2024-06-13/23:00:41		Raw Data Validation Complete!
+2024-06-13/23:00:41		Starting Data Transformation!
+2024-06-13/23:00:41		Data Transformation Complete!
+2024-06-13/23:00:41		Merging all Training Files!
+2024-06-13/23:00:41		Merging Complete!

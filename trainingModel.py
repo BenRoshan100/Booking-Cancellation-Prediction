@@ -18,15 +18,23 @@ class trainModel:
             data=data_getter.get_data()
 
             preprocessor=preprocessing.Preprocessor(self.file_object,self.log_writer)
-
+            label_encode_cols=['type of meal', 'room type', 'booking status']
+            onehot_encode_cols=['market segment type']
+            data=preprocessor.encode_data(data,label_encode_cols,onehot_encode_cols)
+            
             X,Y=preprocessor.separate_label_feature(data,label_column_name='booking status')
-
             is_null_present=preprocessor.is_null_present(X)
 
             if(is_null_present):
                 X=preprocessor.impute_missing_values(X)
+            
+            date_column='date of reservation'
+            X=preprocessor.extract_date_features(X,date_column)
 
             cols_to_drop=preprocessor.get_columns_with_zero_std_deviation(X)
+            id_column='Booking_ID'
+            cols_to_drop.append(id_column)
+            
 
             X=preprocessor.remove_columns(X,cols_to_drop)
 
