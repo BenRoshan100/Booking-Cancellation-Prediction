@@ -2,6 +2,7 @@ from sklearn.model_selection import train_test_split
 from application_logging import logger
 from data_ingestion import data_loader
 from data_preprocessing import preprocessing
+from file_operations import file_methods
 from best_model_finder import tuner 
 
 
@@ -45,6 +46,10 @@ class trainModel:
             model_finder=tuner.Model_Finder(self.file_object,self.log_writer)
 
             best_model_name,best_model=model_finder.get_best_model(x_train,y_train,x_test,y_test)
+
+            file_op=file_methods.File_Operation(self.file_object,self.log_writer)
+
+            save_model=file_op.save_model(best_model,best_model_name)
 
             self.log_writer.log(self.file_object,'Successful End of Training')
             self.file_object.close()

@@ -193,3 +193,78 @@ ValueError: DataFrame.dtypes for data must be int, float or bool.
 2024-06-13/23:19:01		Random Forest best params:{'criterion': 'entropy', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 130}. Exited the gest_best_params_for_random_forest method of the Model_Finder class
 2024-06-13/23:19:01		AUC for RF:0.6677146700784076
 2024-06-13/23:19:01		Successful End of Training
+2024-06-13/23:23:49		Start of training
+2024-06-13/23:23:49		Entered the get_data method of Data_Getter class
+2024-06-13/23:23:49		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-13/23:23:49		Entered the encode_data method of Preprocessor class
+2024-06-13/23:23:49		Object features are successfully encoded
+2024-06-13/23:23:49		Entered the separate_label_feature method of Preprocessor class
+2024-06-13/23:23:49		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-13/23:23:49		Entered is_null_present method of Preprocessor class
+2024-06-13/23:23:49		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-13/23:23:49		Entered the extract_date_features method of Preprocessor class
+2024-06-13/23:23:49		Extraction of date objects are successful
+2024-06-13/23:23:49		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-13/23:23:49		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-13/23:23:49		Entered the remove_coluns method of Preprocessor class
+2024-06-13/23:23:49		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-13/23:23:49		Entered the get_best_model method of the Model_Finder class
+2024-06-13/23:23:49		Entered the get_best_params_for_xgboost method of the Model_Finder class.
+2024-06-13/23:41:46		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2024-06-13/23:41:47		AUC for XGBoost: 0.8776736642420736
+2024-06-13/23:41:47		Entered the get_best_params_for_random_forest of the Model_Finder class
+2024-06-13/23:42:43		Random Forest best params:{'criterion': 'gini', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 100}. Exited the gest_best_params_for_random_forest method of the Model_Finder class
+2024-06-13/23:42:43		AUC for RF:0.6760941135245919
+2024-06-13/23:42:43		Got the best Model as XGBoost: 0.8776736642420736
+2024-06-13/23:42:43		Successful End of Training
+2024-06-14/21:33:01		Start of training
+2024-06-14/21:33:01		Entered the get_data method of Data_Getter class
+2024-06-14/21:33:02		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-14/21:33:02		Entered the encode_data method of Preprocessor class
+2024-06-14/21:33:02		Object features are successfully encoded
+2024-06-14/21:33:02		Entered the separate_label_feature method of Preprocessor class
+2024-06-14/21:33:02		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-14/21:33:02		Entered is_null_present method of Preprocessor class
+2024-06-14/21:33:02		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-14/21:33:02		Entered the extract_date_features method of Preprocessor class
+2024-06-14/21:33:02		Extraction of date objects are successful
+2024-06-14/21:33:02		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-14/21:33:02		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-14/21:33:02		Entered the remove_coluns method of Preprocessor class
+2024-06-14/21:33:02		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-14/21:33:02		Entered the get_best_model method of the Model_Finder class
+2024-06-14/21:33:02		Entered the get_best_params_for_xgboost method of the Model_Finder class.
+2024-06-14/21:55:49		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2024-06-14/21:55:49		AUC for XGBoost: 0.8776736642420736
+2024-06-14/21:55:49		Entered the get_best_params_for_random_forest of the Model_Finder class
+2024-06-14/21:56:39		Random Forest best params:{'criterion': 'gini', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 130}. Exited the gest_best_params_for_random_forest method of the Model_Finder class
+2024-06-14/21:56:39		AUC for RF:0.6773300546937921
+2024-06-14/21:56:39		Got the best Model as XGBoost: 0.8776736642420736
+2024-06-14/21:56:39		Entered the save_model method of the File_Operation class
+2024-06-14/21:56:39		Unsuccessful End of Training
+2024-06-14/21:59:24		Start of training
+2024-06-14/21:59:24		Entered the get_data method of Data_Getter class
+2024-06-14/21:59:25		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-14/21:59:25		Entered the encode_data method of Preprocessor class
+2024-06-14/21:59:25		Object features are successfully encoded
+2024-06-14/21:59:25		Entered the separate_label_feature method of Preprocessor class
+2024-06-14/21:59:25		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-14/21:59:25		Entered is_null_present method of Preprocessor class
+2024-06-14/21:59:25		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-14/21:59:25		Entered the extract_date_features method of Preprocessor class
+2024-06-14/21:59:25		Extraction of date objects are successful
+2024-06-14/21:59:25		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-14/21:59:25		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-14/21:59:25		Entered the remove_coluns method of Preprocessor class
+2024-06-14/21:59:25		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-14/21:59:25		Entered the get_best_model method of the Model_Finder class
+2024-06-14/21:59:25		Entered the get_best_params_for_xgboost method of the Model_Finder class.
+2024-06-14/22:22:12		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2024-06-14/22:22:13		AUC for XGBoost: 0.8776736642420736
+2024-06-14/22:22:13		Entered the get_best_params_for_random_forest of the Model_Finder class
+2024-06-14/22:22:53		Random Forest best params:{'criterion': 'gini', 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 100}. Exited the gest_best_params_for_random_forest method of the Model_Finder class
+2024-06-14/22:22:53		AUC for RF:0.671287061720877
+2024-06-14/22:22:53		Got the best Model as XGBoost: 0.8776736642420736
+2024-06-14/22:22:53		Entered the save_model method of the File_Operation class
+2024-06-14/22:22:53		Model FileXGBoost saved. Exited the save_model method of the Model_Finder class
+2024-06-14/22:22:53		Successful End of Training
