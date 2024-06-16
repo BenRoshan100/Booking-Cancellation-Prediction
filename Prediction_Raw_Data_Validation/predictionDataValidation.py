@@ -124,7 +124,10 @@ class Prediction_Data_validation:
             file.close()
             raise e
     
-
+    def deletePredictionFile(self):
+        if os.path.exists('Prediction_Output_File/Predictions.csv'):
+            os.remove('Prediction_Output_File/Predictions.csv')
+            
     def validationFileNameRaw(self,regex,LengthOfDateStampInFile,LengthOfTimeStampInFile):
         self.deleteExistingBadDataTrainingFolder()
         self.deleteExistingGoodDataTrainingFolder()

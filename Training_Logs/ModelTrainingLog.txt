@@ -268,3 +268,50 @@ ValueError: DataFrame.dtypes for data must be int, float or bool.
 2024-06-14/22:22:53		Entered the save_model method of the File_Operation class
 2024-06-14/22:22:53		Model FileXGBoost saved. Exited the save_model method of the Model_Finder class
 2024-06-14/22:22:53		Successful End of Training
+2024-06-16/20:52:46		Start of training
+2024-06-16/20:52:46		Entered the get_data method of Data_Getter class
+2024-06-16/20:52:46		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-16/20:52:46		Entered the encode_data method of Preprocessor class
+2024-06-16/20:52:46		Object features are successfully encoded
+2024-06-16/20:52:46		Entered the separate_label_feature method of Preprocessor class
+2024-06-16/20:52:46		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-16/20:52:46		Entered is_null_present method of Preprocessor class
+2024-06-16/20:52:46		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/20:52:46		Entered the extract_date_features method of Preprocessor class
+2024-06-16/20:52:46		Extraction of date objects are successful
+2024-06-16/20:52:46		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/20:52:46		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/20:52:46		Entered the remove_coluns method of Preprocessor class
+2024-06-16/20:52:46		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/20:52:46		Entered the get_best_model method of the Model_Finder class
+2024-06-16/20:52:46		Entered the get_best_params_for_xgboost method of the Model_Finder class.
+2024-06-16/21:12:14		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2024-06-16/21:12:14		Exception occured in get_best_model method of the Model_Finder class. Exceptions message: could not convert string to float: 'Not_Canceled'
+2024-06-16/21:12:14		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2024-06-16/21:12:14		Unsuccessful End of Training
+2024-06-16/21:43:00		Start of training
+2024-06-16/21:43:00		Entered the get_data method of Data_Getter class
+2024-06-16/21:43:00		Data Load successful. Exited the get_data method of Data_Getter class
+2024-06-16/21:43:00		Entered the encode_data method of Preprocessor class
+2024-06-16/21:43:00		Object features are successfully encoded
+2024-06-16/21:43:00		Entered the separate_label_feature method of Preprocessor class
+2024-06-16/21:43:00		Label Separation successful. Exited the separate_label_feature method of Preprocessor class
+2024-06-16/21:43:00		Entered is_null_present method of Preprocessor class
+2024-06-16/21:43:00		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/21:43:00		Entered the extract_date_features method of Preprocessor class
+2024-06-16/21:43:00		Extraction of date objects are successful
+2024-06-16/21:43:00		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/21:43:00		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/21:43:00		Entered the remove_coluns method of Preprocessor class
+2024-06-16/21:43:00		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/21:43:00		Entered the get_best_model method of the Model_Finder class
+2024-06-16/21:43:00		Entered the get_best_params_for_xgboost method of the Model_Finder class.
+2024-06-16/21:58:39		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2024-06-16/21:58:39		AUC for XGBoost: 0.8730685490290573
+2024-06-16/21:58:39		Entered the get_best_params_for_random_forest of the Model_Finder class
+2024-06-16/21:59:19		Random Forest best params:{'criterion': 'gini', 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 130}. Exited the gest_best_params_for_random_forest method of the Model_Finder class
+2024-06-16/21:59:19		AUC for RF:0.6668778372051997
+2024-06-16/21:59:19		Got the best Model as XGBoost: 0.8730685490290573
+2024-06-16/21:59:19		Entered the save_model method of the File_Operation class
+2024-06-16/21:59:19		Model FileXGBoost saved. Exited the save_model method of the Model_Finder class
+2024-06-16/21:59:19		Successful End of Training

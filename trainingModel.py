@@ -16,7 +16,7 @@ class trainModel:
         self.log_writer.log(self.file_object,'Start of training')
         try:
             data_getter=data_loader.Data_Getter(self.file_object,self.log_writer)
-            data=data_getter.get_data()
+            data=data_getter.get_data_train()
 
             preprocessor=preprocessing.Preprocessor(self.file_object,self.log_writer)
             label_encode_cols=['type of meal', 'room type', 'booking status']

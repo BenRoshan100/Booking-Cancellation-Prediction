@@ -7,6 +7,7 @@ import flask_monitoringdashboard as dashboard
 from training_Validation_Insertion import train_validation
 from trainingModel import trainModel
 from prediction_Validation_Insertion import pred_validation
+from predictFromModel import prediction
 import json 
 
 os.putenv('LANG', 'en-US.UTF-8')
@@ -21,6 +22,9 @@ os.putenv('LC_ALL', 'en-US.UTF-8')
 path='D:\ACADEMIC\ML Projects\Booking cancellation\Prediction_Data_Files'
 pred_val=pred_validation(path) #Initializing the validation object
 pred_val.prediction_validation() #Calling the validation
+pred=prediction(path) #Initializing the prediction object
+path,json_predictions=pred.predictionFromModel()
+            
 # app=Flask(__name__)
 # dashboard.bind(app) 
 # CORS(app)

@@ -4,3 +4,485 @@
 2024-06-16/12:40:33		Data Transformation Complete!
 2024-06-16/12:40:33		Merging all Prediction Files!
 2024-06-16/12:40:34		Merging Complete!
+2024-06-16/19:12:19		Start of Validation files for prediction!
+2024-06-16/19:12:19		Raw Data Validation Complete!
+2024-06-16/19:12:19		Starting Data Transformation!
+2024-06-16/19:12:19		Data Transformation Complete!
+2024-06-16/19:12:19		Merging all Prediction Files!
+2024-06-16/19:12:19		Merging Complete!
+2024-06-16/19:12:19		Start of Prediction
+2024-06-16/19:12:19		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:12:19		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:12:19		Entered is_null_present method of Preprocessor class
+2024-06-16/19:12:19		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:12:19		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:12:19		Extraction of date objects are successful
+2024-06-16/19:12:19		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:12:19		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:12:19		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:12:19		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:12:19		Error occurred while running prediction. Error:: File_Operation.find_correct_model_file() takes 1 positional argument but 2 were given
+2024-06-16/19:13:17		Start of Validation files for prediction!
+2024-06-16/19:13:17		Raw Data Validation Complete!
+2024-06-16/19:13:17		Starting Data Transformation!
+2024-06-16/19:13:17		Data Transformation Complete!
+2024-06-16/19:13:17		Merging all Prediction Files!
+2024-06-16/19:13:17		Merging Complete!
+2024-06-16/19:13:17		Start of Prediction
+2024-06-16/19:13:17		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:13:17		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:13:17		Entered is_null_present method of Preprocessor class
+2024-06-16/19:13:17		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:13:17		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:13:18		Extraction of date objects are successful
+2024-06-16/19:13:18		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:13:18		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:13:18		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:13:18		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:13:18		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:13:18		Exeption occurred in find_correct_model_file method of Model Finder class. Exception: 'File_Operation' object has no attribute 'model_name'
+2024-06-16/19:13:18		Exited the find_correct_model_file method of Model Finder class with failure.
+2024-06-16/19:13:18		Error occurred while running prediction. Error:: 
+2024-06-16/19:15:23		Start of Validation files for prediction!
+2024-06-16/19:15:23		Raw Data Validation Complete!
+2024-06-16/19:15:23		Starting Data Transformation!
+2024-06-16/19:15:23		Data Transformation Complete!
+2024-06-16/19:15:23		Merging all Prediction Files!
+2024-06-16/19:15:23		Merging Complete!
+2024-06-16/19:15:23		Start of Prediction
+2024-06-16/19:15:23		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:15:23		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:15:23		Entered is_null_present method of Preprocessor class
+2024-06-16/19:15:23		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:15:23		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:15:23		Extraction of date objects are successful
+2024-06-16/19:15:23		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:15:23		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:15:23		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:15:23		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:15:23		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:15:23		Exeption occurred in find_correct_model_file method of Model Finder class. Exception: 'NoneType' object has no attribute 'rsplit'
+2024-06-16/19:15:23		Exited the find_correct_model_file method of Model Finder class with failure.
+2024-06-16/19:15:23		Error occurred while running prediction. Error:: 
+2024-06-16/19:16:14		Start of Validation files for prediction!
+2024-06-16/19:16:14		Raw Data Validation Complete!
+2024-06-16/19:16:14		Starting Data Transformation!
+2024-06-16/19:16:14		Data Transformation Complete!
+2024-06-16/19:16:14		Merging all Prediction Files!
+2024-06-16/19:16:14		Merging Complete!
+2024-06-16/19:16:14		Start of Prediction
+2024-06-16/19:16:14		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:16:14		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:16:14		Entered is_null_present method of Preprocessor class
+2024-06-16/19:16:14		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:16:14		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:16:14		Extraction of date objects are successful
+2024-06-16/19:16:14		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:16:14		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:16:14		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:16:14		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:16:14		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:16:14		Exeption occurred in find_correct_model_file method of Model Finder class. Exception: 'NoneType' object has no attribute 'rsplit'
+2024-06-16/19:16:14		Exited the find_correct_model_file method of Model Finder class with failure.
+2024-06-16/19:16:14		Error occurred while running prediction. Error:: 
+2024-06-16/19:25:58		Start of Validation files for prediction!
+2024-06-16/19:25:58		Raw Data Validation Complete!
+2024-06-16/19:25:58		Starting Data Transformation!
+2024-06-16/19:25:58		Data Transformation Complete!
+2024-06-16/19:25:58		Merging all Prediction Files!
+2024-06-16/19:25:58		Merging Complete!
+2024-06-16/19:25:58		Start of Prediction
+2024-06-16/19:25:58		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:25:58		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:25:58		Entered is_null_present method of Preprocessor class
+2024-06-16/19:25:58		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:25:58		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:25:58		Extraction of date objects are successful
+2024-06-16/19:25:58		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:25:58		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:25:58		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:25:58		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:25:58		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:25:58		Entered the load_model method of the File_Operation class
+2024-06-16/19:25:58		Exception occured in load_model method of Model_Finder class.Exception message: can only concatenate str (not "NoneType") to str
+2024-06-16/19:25:58		Error occurred while running prediction. Error:: can only concatenate str (not "NoneType") to str
+2024-06-16/19:26:55		Start of Validation files for prediction!
+2024-06-16/19:26:56		Raw Data Validation Complete!
+2024-06-16/19:26:56		Starting Data Transformation!
+2024-06-16/19:26:56		Data Transformation Complete!
+2024-06-16/19:26:56		Merging all Prediction Files!
+2024-06-16/19:26:56		Merging Complete!
+2024-06-16/19:26:56		Start of Prediction
+2024-06-16/19:26:56		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:26:56		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:26:56		Entered is_null_present method of Preprocessor class
+2024-06-16/19:26:56		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:26:56		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:26:56		Extraction of date objects are successful
+2024-06-16/19:26:56		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:26:56		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:26:56		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:26:56		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:26:56		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:26:56		Exeption occurred in find_correct_model_file method of Model Finder class. Exception: 'NoneType' object has no attribute 'rsplit'
+2024-06-16/19:26:56		Exited the find_correct_model_file method of Model Finder class with failure.
+2024-06-16/19:26:56		Error occurred while running prediction. Error:: 
+2024-06-16/19:28:13		Start of Validation files for prediction!
+2024-06-16/19:28:14		Raw Data Validation Complete!
+2024-06-16/19:28:14		Starting Data Transformation!
+2024-06-16/19:28:14		Data Transformation Complete!
+2024-06-16/19:28:14		Merging all Prediction Files!
+2024-06-16/19:28:14		Merging Complete!
+2024-06-16/19:28:14		Start of Prediction
+2024-06-16/19:28:14		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:28:14		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:28:14		Entered is_null_present method of Preprocessor class
+2024-06-16/19:28:14		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:28:14		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:28:14		Extraction of date objects are successful
+2024-06-16/19:28:14		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:28:14		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:28:14		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:28:14		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:28:14		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:28:14		Exeption occurred in find_correct_model_file method of Model Finder class. Exception: 'NoneType' object has no attribute 'rsplit'
+2024-06-16/19:28:14		Exited the find_correct_model_file method of Model Finder class with failure.
+2024-06-16/19:28:14		Error occurred while running prediction. Error:: 
+2024-06-16/19:28:50		Start of Validation files for prediction!
+2024-06-16/19:28:51		Raw Data Validation Complete!
+2024-06-16/19:28:51		Starting Data Transformation!
+2024-06-16/19:28:51		Data Transformation Complete!
+2024-06-16/19:28:51		Merging all Prediction Files!
+2024-06-16/19:28:51		Merging Complete!
+2024-06-16/19:28:51		Start of Prediction
+2024-06-16/19:28:51		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:28:51		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:28:51		Entered is_null_present method of Preprocessor class
+2024-06-16/19:28:51		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:28:51		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:28:51		Extraction of date objects are successful
+2024-06-16/19:28:51		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:28:51		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:28:51		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:28:51		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:28:51		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:28:51		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:28:51		Entered the load_model method of the File_Operation class
+2024-06-16/19:28:51		Exception occured in load_model method of Model_Finder class.Exception message: [Errno 2] No such file or directory: 'models//XGBoost.sav'
+2024-06-16/19:28:51		Model FileXGBoost could not be loaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:28:51		Error occurred while running prediction. Error:: 
+2024-06-16/19:29:24		Start of Validation files for prediction!
+2024-06-16/19:29:24		Raw Data Validation Complete!
+2024-06-16/19:29:24		Starting Data Transformation!
+2024-06-16/19:29:24		Data Transformation Complete!
+2024-06-16/19:29:24		Merging all Prediction Files!
+2024-06-16/19:29:24		Merging Complete!
+2024-06-16/19:29:24		Start of Prediction
+2024-06-16/19:29:24		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:29:24		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:29:24		Entered is_null_present method of Preprocessor class
+2024-06-16/19:29:24		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:29:24		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:29:24		Extraction of date objects are successful
+2024-06-16/19:29:24		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:29:24		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:29:24		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:29:24		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:29:24		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:29:24		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:29:24		Entered the load_model method of the File_Operation class
+2024-06-16/19:29:24		Exception occured in load_model method of Model_Finder class.Exception message: [Errno 2] No such file or directory: 'models/XGBoost.sav'
+2024-06-16/19:29:24		Model FileXGBoost could not be loaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:29:24		Error occurred while running prediction. Error:: 
+2024-06-16/19:34:52		Start of Validation files for prediction!
+2024-06-16/19:34:52		Raw Data Validation Complete!
+2024-06-16/19:34:52		Starting Data Transformation!
+2024-06-16/19:34:52		Data Transformation Complete!
+2024-06-16/19:34:52		Merging all Prediction Files!
+2024-06-16/19:34:52		Merging Complete!
+2024-06-16/19:34:52		Start of Prediction
+2024-06-16/19:34:52		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:34:52		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:34:52		Entered is_null_present method of Preprocessor class
+2024-06-16/19:34:52		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:34:52		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:34:52		Extraction of date objects are successful
+2024-06-16/19:34:52		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:34:52		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:34:52		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:34:52		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:34:52		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:34:52		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:34:52		Entered the load_model method of the File_Operation class
+2024-06-16/19:34:52		Exception occurred in load_model method of Model_Finder class. Exception message: [Errno 2] No such file or directory: 'models/XGBoost\\XGBoost.sav.sav'
+2024-06-16/19:34:52		Model File models/XGBoost\XGBoost.sav could not be loaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:34:52		Error occurred while running prediction. Error:: 
+2024-06-16/19:36:01		Start of Validation files for prediction!
+2024-06-16/19:36:01		Raw Data Validation Complete!
+2024-06-16/19:36:01		Starting Data Transformation!
+2024-06-16/19:36:01		Data Transformation Complete!
+2024-06-16/19:36:01		Merging all Prediction Files!
+2024-06-16/19:36:01		Merging Complete!
+2024-06-16/19:36:01		Start of Prediction
+2024-06-16/19:36:01		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:36:01		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:36:01		Entered is_null_present method of Preprocessor class
+2024-06-16/19:36:01		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:36:01		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:36:01		Extraction of date objects are successful
+2024-06-16/19:36:01		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:36:01		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:36:01		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:36:01		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:36:01		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:36:01		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:36:01		Entered the load_model method of the File_Operation class
+2024-06-16/19:36:01		Exception occured in load_model method of Model_Finder class.Exception message: [Errno 2] No such file or directory: 'models/XGBoost.sav'
+2024-06-16/19:36:01		Model FileXGBoost could not be loaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:36:01		Error occurred while running prediction. Error:: 
+2024-06-16/19:37:34		Start of Validation files for prediction!
+2024-06-16/19:37:34		Raw Data Validation Complete!
+2024-06-16/19:37:34		Starting Data Transformation!
+2024-06-16/19:37:34		Data Transformation Complete!
+2024-06-16/19:37:34		Merging all Prediction Files!
+2024-06-16/19:37:34		Merging Complete!
+2024-06-16/19:37:34		Start of Prediction
+2024-06-16/19:37:34		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:37:34		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:37:34		Entered is_null_present method of Preprocessor class
+2024-06-16/19:37:34		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:37:34		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:37:34		Extraction of date objects are successful
+2024-06-16/19:37:34		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:37:34		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:37:34		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:37:34		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:37:34		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:37:34		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:37:34		Entered the load_model method of the File_Operation class
+2024-06-16/19:37:34		Exception occured in load_model method of Model_Finder class.Exception message: [Errno 2] No such file or directory: 'models/XGBoostXGBoost.sav'
+2024-06-16/19:37:34		Model FileXGBoost could not be loaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:37:34		Error occurred while running prediction. Error:: 
+2024-06-16/19:37:45		Start of Validation files for prediction!
+2024-06-16/19:37:45		Raw Data Validation Complete!
+2024-06-16/19:37:45		Starting Data Transformation!
+2024-06-16/19:37:45		Data Transformation Complete!
+2024-06-16/19:37:45		Merging all Prediction Files!
+2024-06-16/19:37:45		Merging Complete!
+2024-06-16/19:37:45		Start of Prediction
+2024-06-16/19:37:45		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:37:45		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:37:45		Entered is_null_present method of Preprocessor class
+2024-06-16/19:37:45		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:37:45		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:37:45		Extraction of date objects are successful
+2024-06-16/19:37:45		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:37:45		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:37:45		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:37:45		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:37:45		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:37:45		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:37:45		Entered the load_model method of the File_Operation class
+2024-06-16/19:37:45		Exception occured in load_model method of Model_Finder class.Exception message: [Errno 2] No such file or directory: 'models/XGBoost.sav'
+2024-06-16/19:37:45		Model FileXGBoost could not be loaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:37:45		Error occurred while running prediction. Error:: 
+2024-06-16/19:38:11		Start of Validation files for prediction!
+2024-06-16/19:38:11		Raw Data Validation Complete!
+2024-06-16/19:38:11		Starting Data Transformation!
+2024-06-16/19:38:11		Data Transformation Complete!
+2024-06-16/19:38:11		Merging all Prediction Files!
+2024-06-16/19:38:11		Merging Complete!
+2024-06-16/19:38:11		Start of Prediction
+2024-06-16/19:38:11		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:38:11		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:38:11		Entered is_null_present method of Preprocessor class
+2024-06-16/19:38:11		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:38:11		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:38:11		Extraction of date objects are successful
+2024-06-16/19:38:11		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:38:11		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:38:11		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:38:11		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:38:11		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:38:11		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:38:11		Entered the load_model method of the File_Operation class
+2024-06-16/19:38:11		Exception occured in load_model method of Model_Finder class.Exception message: [Errno 2] No such file or directory: 'models/XGBoost.sav'
+2024-06-16/19:38:11		Model FileXGBoost could not be loaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:38:11		Error occurred while running prediction. Error:: 
+2024-06-16/19:39:57		Start of Validation files for prediction!
+2024-06-16/19:39:57		Raw Data Validation Complete!
+2024-06-16/19:39:57		Starting Data Transformation!
+2024-06-16/19:39:57		Data Transformation Complete!
+2024-06-16/19:39:57		Merging all Prediction Files!
+2024-06-16/19:39:57		Merging Complete!
+2024-06-16/19:39:57		Start of Prediction
+2024-06-16/19:39:57		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:39:57		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:39:57		Entered is_null_present method of Preprocessor class
+2024-06-16/19:39:57		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:39:57		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:39:57		Extraction of date objects are successful
+2024-06-16/19:39:57		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:39:57		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:39:57		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:39:57		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:39:57		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:39:57		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:39:57		Entered the load_model method of the File_Operation class
+2024-06-16/19:39:57		Exception occured in load_model method of Model_Finder class.Exception message: [Errno 2] No such file or directory: 'models/XGBoost.sav'
+2024-06-16/19:39:57		Model FileXGBoost could not be loaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:39:57		Error occurred while running prediction. Error:: 
+2024-06-16/19:40:25		Start of Validation files for prediction!
+2024-06-16/19:40:25		Raw Data Validation Complete!
+2024-06-16/19:40:25		Starting Data Transformation!
+2024-06-16/19:40:25		Data Transformation Complete!
+2024-06-16/19:40:25		Merging all Prediction Files!
+2024-06-16/19:40:25		Merging Complete!
+2024-06-16/19:40:25		Start of Prediction
+2024-06-16/19:40:25		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:40:25		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:40:25		Entered is_null_present method of Preprocessor class
+2024-06-16/19:40:25		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:40:25		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:40:25		Extraction of date objects are successful
+2024-06-16/19:40:25		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:40:25		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:40:25		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:40:25		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:40:25		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:40:25		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:40:25		Entered the load_model method of the File_Operation class
+2024-06-16/19:40:25		Exception occured in load_model method of Model_Finder class.Exception message: [Errno 2] No such file or directory: 'models/XGBoost.sav'
+2024-06-16/19:40:25		Model FileXGBoost could not be loaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:40:25		Error occurred while running prediction. Error:: 
+2024-06-16/19:52:34		Start of Validation files for prediction!
+2024-06-16/19:52:34		Raw Data Validation Complete!
+2024-06-16/19:52:34		Starting Data Transformation!
+2024-06-16/19:52:34		Data Transformation Complete!
+2024-06-16/19:52:34		Merging all Prediction Files!
+2024-06-16/19:52:34		Merging Complete!
+2024-06-16/19:52:34		Start of Prediction
+2024-06-16/19:52:34		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:52:34		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:52:34		Entered is_null_present method of Preprocessor class
+2024-06-16/19:52:34		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:52:34		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:52:34		Extraction of date objects are successful
+2024-06-16/19:52:34		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:52:34		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:52:34		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:52:34		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:52:34		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:52:34		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:52:34		Entered the load_model method of the File_Operation class
+2024-06-16/19:52:34		Model FileXGBoostloaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:52:34		Error occurred while running prediction. Error:: DataFrame.dtypes for data must be int, float or bool.
+                Did not expect the data types in fields type of meal, room type, market segment type
+2024-06-16/19:53:25		Start of Validation files for prediction!
+2024-06-16/19:53:25		Raw Data Validation Complete!
+2024-06-16/19:53:25		Starting Data Transformation!
+2024-06-16/19:53:25		Data Transformation Complete!
+2024-06-16/19:53:25		Merging all Prediction Files!
+2024-06-16/19:53:25		Merging Complete!
+2024-06-16/19:53:25		Start of Prediction
+2024-06-16/19:53:25		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:53:25		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:53:25		Entered the encode_data method of Preprocessor class
+2024-06-16/19:53:25		Exception occurred in encode_data method of Preprocessor class. Exception message: 'booking status'
+2024-06-16/19:53:25		Error occurred while running prediction. Error:: 'booking status'
+2024-06-16/19:54:02		Start of Validation files for prediction!
+2024-06-16/19:54:02		Raw Data Validation Complete!
+2024-06-16/19:54:02		Starting Data Transformation!
+2024-06-16/19:54:02		Data Transformation Complete!
+2024-06-16/19:54:02		Merging all Prediction Files!
+2024-06-16/19:54:02		Merging Complete!
+2024-06-16/19:54:02		Start of Prediction
+2024-06-16/19:54:02		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:54:02		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:54:02		Entered the encode_data method of Preprocessor class
+2024-06-16/19:54:02		Object features are successfully encoded
+2024-06-16/19:54:02		Entered is_null_present method of Preprocessor class
+2024-06-16/19:54:02		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:54:02		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:54:02		Extraction of date objects are successful
+2024-06-16/19:54:02		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:54:02		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:54:02		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:54:02		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:54:02		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:54:02		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:54:02		Entered the load_model method of the File_Operation class
+2024-06-16/19:54:02		Model FileXGBoostloaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:54:02		Error occurred while running prediction. Error:: Cannot save file into a non-existent directory: 'Prediction_Output_File'
+2024-06-16/19:54:22		Start of Validation files for prediction!
+2024-06-16/19:54:22		Raw Data Validation Complete!
+2024-06-16/19:54:22		Starting Data Transformation!
+2024-06-16/19:54:22		Data Transformation Complete!
+2024-06-16/19:54:22		Merging all Prediction Files!
+2024-06-16/19:54:22		Merging Complete!
+2024-06-16/19:54:22		Start of Prediction
+2024-06-16/19:54:22		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:54:22		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:54:22		Entered the encode_data method of Preprocessor class
+2024-06-16/19:54:22		Object features are successfully encoded
+2024-06-16/19:54:22		Entered is_null_present method of Preprocessor class
+2024-06-16/19:54:22		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:54:22		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:54:22		Extraction of date objects are successful
+2024-06-16/19:54:22		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:54:22		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:54:22		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:54:22		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:54:22		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:54:22		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:54:22		Entered the load_model method of the File_Operation class
+2024-06-16/19:54:22		Model FileXGBoostloaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:54:23		End of Prediction
+2024-06-16/19:54:59		Start of Validation files for prediction!
+2024-06-16/19:54:59		Raw Data Validation Complete!
+2024-06-16/19:54:59		Starting Data Transformation!
+2024-06-16/19:54:59		Data Transformation Complete!
+2024-06-16/19:54:59		Merging all Prediction Files!
+2024-06-16/19:54:59		Merging Complete!
+2024-06-16/19:54:59		Start of Prediction
+2024-06-16/19:54:59		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/19:54:59		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/19:54:59		Entered the encode_data method of Preprocessor class
+2024-06-16/19:54:59		Object features are successfully encoded
+2024-06-16/19:54:59		Entered is_null_present method of Preprocessor class
+2024-06-16/19:54:59		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/19:54:59		Entered the extract_date_features method of Preprocessor class
+2024-06-16/19:54:59		Extraction of date objects are successful
+2024-06-16/19:54:59		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:54:59		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/19:54:59		Entered the remove_coluns method of Preprocessor class
+2024-06-16/19:54:59		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/19:54:59		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/19:54:59		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/19:54:59		Entered the load_model method of the File_Operation class
+2024-06-16/19:54:59		Model FileXGBoostloaded. Exited the load_model method of Model_Finder class
+2024-06-16/19:54:59		End of Prediction
+2024-06-16/20:00:01		Start of Validation files for prediction!
+2024-06-16/20:00:01		Raw Data Validation Complete!
+2024-06-16/20:00:01		Starting Data Transformation!
+2024-06-16/20:00:01		Data Transformation Complete!
+2024-06-16/20:00:01		Merging all Prediction Files!
+2024-06-16/20:00:01		Merging Complete!
+2024-06-16/20:00:01		Start of Prediction
+2024-06-16/20:00:01		Entered the get_data method of Data_Getter class for Prediction
+2024-06-16/20:00:01		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-16/20:00:01		Entered the encode_data method of Preprocessor class
+2024-06-16/20:00:01		Object features are successfully encoded
+2024-06-16/20:00:01		Entered is_null_present method of Preprocessor class
+2024-06-16/20:00:01		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-16/20:00:01		Entered the extract_date_features method of Preprocessor class
+2024-06-16/20:00:01		Extraction of date objects are successful
+2024-06-16/20:00:01		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-16/20:00:01		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-16/20:00:01		Entered the remove_coluns method of Preprocessor class
+2024-06-16/20:00:01		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-16/20:00:01		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-16/20:00:01		Exited the find_correct_model_file method of Model Finder class.
+2024-06-16/20:00:01		Entered the load_model method of the File_Operation class
+2024-06-16/20:00:01		Model FileXGBoostloaded. Exited the load_model method of Model_Finder class
+2024-06-16/20:00:01		Error occurred while running prediction. Error:: This LabelEncoder instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.

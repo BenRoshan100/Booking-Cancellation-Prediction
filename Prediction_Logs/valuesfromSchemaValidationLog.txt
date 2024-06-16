@@ -1,2 +1,46 @@
 2024-06-16/12:40:33		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
 
+2024-06-16/19:12:19		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:13:17		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:15:23		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:16:14		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:25:58		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:26:55		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:28:13		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:28:50		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:29:24		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:34:52		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:36:01		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:37:34		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:37:45		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:38:11		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:39:57		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:40:25		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:52:34		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:53:25		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:54:02		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:54:22		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/19:54:59		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
+2024-06-16/20:00:01		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 16
+
