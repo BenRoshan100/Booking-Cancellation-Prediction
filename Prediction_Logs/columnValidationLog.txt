@@ -1,0 +1,2 @@
+2024-06-16/12:40:33		Column Length Validation started successfully
+2024-06-16/12:40:33		Column Length Validation Completed!

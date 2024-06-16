@@ -1,0 +1,24 @@
+{
+    "SampleFileName": "booking_20240607_085611.csv",
+    "LengthOfDateStampInFile": 8,
+    "LengthOfTimeStampInFile": 6,
+    "NumberofColumns": 16,
+    "ColName": {
+        "Booking_ID": "object",
+        "number of adults": "int64",
+        "number of children": "int64",
+        "number of weekend nights": "int64",
+        "number of week nights": "int64",
+        "type of meal": "object",
+        "car parking space": "int64",
+        "room type": "int64",
+        "lead time": "int64",
+        "market segment type": "object",
+        "repeated": "int64",
+        "P-C": "int64",
+        "P-not-C": "int64",
+        "average price": "float64",
+        "special requests": "",
+        "date of reservation": "object"
+    }
+}

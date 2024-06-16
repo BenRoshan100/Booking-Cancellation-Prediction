@@ -1,0 +1,3 @@
+2024-06-16/12:40:33		booking_20240607_085628.csv: Missing values imputed successfully
+2024-06-16/12:40:33		booking_20240607_085629.csv: Missing values imputed successfully
+2024-06-16/12:40:33		booking_20240607_085630.csv: Missing values imputed successfully

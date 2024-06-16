@@ -1,0 +1,6 @@
+2024-06-16/12:40:33		Start of Validation files for prediction!
+2024-06-16/12:40:33		Raw Data Validation Complete!
+2024-06-16/12:40:33		Starting Data Transformation!
+2024-06-16/12:40:33		Data Transformation Complete!
+2024-06-16/12:40:33		Merging all Prediction Files!
+2024-06-16/12:40:34		Merging Complete!
