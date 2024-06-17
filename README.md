@@ -111,5 +111,6 @@ This project is licensed under the personal License.
 - XGBoost:
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XGBoost" width="100" height="100">
 - Flask for the web framework.
+- iNeuron Institute for the data pipeline flow
 - Heroku for hosting the application.
 
