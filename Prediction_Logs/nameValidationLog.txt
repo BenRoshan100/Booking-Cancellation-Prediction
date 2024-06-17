@@ -67,3 +67,15 @@
 2024-06-16/20:00:01		Valid file name! File moved to GoodRaw Folder: booking_20240607_085628.csv
 2024-06-16/20:00:01		Valid file name! File moved to GoodRaw Folder: booking_20240607_085629.csv
 2024-06-16/20:00:01		Valid file name! File moved to GoodRaw Folder: booking_20240607_085630.csv
+2024-06-17/10:49:19		Valid file name! File moved to GoodRaw Folder: booking_20240607_085628.csv
+2024-06-17/10:49:19		Valid file name! File moved to GoodRaw Folder: booking_20240607_085629.csv
+2024-06-17/10:49:19		Valid file name! File moved to GoodRaw Folder: booking_20240607_085630.csv
+2024-06-17/10:51:17		Valid file name! File moved to GoodRaw Folder: booking_20240607_085628.csv
+2024-06-17/10:51:17		Valid file name! File moved to GoodRaw Folder: booking_20240607_085629.csv
+2024-06-17/10:51:17		Valid file name! File moved to GoodRaw Folder: booking_20240607_085630.csv
+2024-06-17/11:32:03		Valid file name! File moved to GoodRaw Folder: booking_20240607_085628.csv
+2024-06-17/11:32:03		Valid file name! File moved to GoodRaw Folder: booking_20240607_085629.csv
+2024-06-17/11:32:03		Valid file name! File moved to GoodRaw Folder: booking_20240607_085630.csv
+2024-06-17/11:32:41		Valid file name! File moved to GoodRaw Folder: booking_20240607_085628.csv
+2024-06-17/11:32:41		Valid file name! File moved to GoodRaw Folder: booking_20240607_085629.csv
+2024-06-17/11:32:41		Valid file name! File moved to GoodRaw Folder: booking_20240607_085630.csv

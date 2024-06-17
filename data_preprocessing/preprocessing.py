@@ -84,13 +84,28 @@ class Preprocessor:
             for col in label_encode_cols:
                 data[col]=label_encoder.fit_transform(data[col])
 
-            ordinal_encoder=OrdinalEncoder()
             data=pd.get_dummies(data,columns=onehot_encode_cols,drop_first=True)
             self.logger_object.log(self.file_object,'Object features are successfully encoded')
-            return data
+            return data,label_encoder
         
         except Exception as e:
             self.logger_object.log(self.file_object,f'Exception occurred in encode_data method of Preprocessor class. Exception message: {str(e)}')
+            raise e
+        
+    def encode_data_prediction(self,data,label_encode_cols,onehot_encode_cols):
+        self.logger_object.log(self.file_object,'Entered the encode_data_prediction method of Preprocessor class')
+        self.data=data
+        try:
+            label_encoder=LabelEncoder()
+            for col in label_encode_cols:
+                data[col]=label_encoder.fit_transform(data[col])
+
+            data=pd.get_dummies(data,columns=onehot_encode_cols,drop_first=True)
+            self.logger_object.log(self.file_object,'Object features are successfully encoded for prediction pipeline')
+            return data
+        
+        except Exception as e:
+            self.logger_object.log(self.file_object,f'Exception occurred in encode_data_prediction method of Preprocessor class. Exception message: {str(e)}')
             raise e
 
 

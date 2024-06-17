@@ -8,7 +8,7 @@ class File_Operation:
         self.logger_object = logger_object 
         self.model_directory = 'models/'
 
-    def save_model(self,model,filename):
+    def save_model(self,model,filename,label_encoder):
         self.logger_object.log(self.file_object,'Entered the save_model method of the File_Operation class')
         try:
             path=os.path.join(self.model_directory,filename)
@@ -18,7 +18,7 @@ class File_Operation:
             else:
                 os.makedirs(path)
             with open(path+'/'+filename+'.sav','wb') as f:
-                pickle.dump(model,f)
+                pickle.dump((model,label_encoder),f)
             self.logger_object.log(self.file_object,'Model File'+filename+' saved. Exited the save_model method of the Model_Finder class')
 
             return 'success'

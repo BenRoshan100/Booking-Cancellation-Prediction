@@ -21,7 +21,7 @@ class trainModel:
             preprocessor=preprocessing.Preprocessor(self.file_object,self.log_writer)
             label_encode_cols=['type of meal', 'room type', 'booking status']
             onehot_encode_cols=['market segment type']
-            data=preprocessor.encode_data(data,label_encode_cols,onehot_encode_cols)
+            data,label_encoder=preprocessor.encode_data(data,label_encode_cols,onehot_encode_cols)
             
             X,Y=preprocessor.separate_label_feature(data,label_column_name='booking status')
             is_null_present=preprocessor.is_null_present(X)
@@ -49,7 +49,7 @@ class trainModel:
 
             file_op=file_methods.File_Operation(self.file_object,self.log_writer)
 
-            save_model=file_op.save_model(best_model,best_model_name)
+            save_model=file_op.save_model(best_model,best_model_name,label_encoder)
 
             self.log_writer.log(self.file_object,'Successful End of Training')
             self.file_object.close()

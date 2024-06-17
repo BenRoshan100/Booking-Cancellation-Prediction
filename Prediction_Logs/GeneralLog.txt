@@ -42,3 +42,11 @@
 2024-06-16/19:54:59		GoodRaw directory deleted successfully
 2024-06-16/20:00:01		BadRaw directory deleted successfully
 2024-06-16/20:00:01		GoodRaw directory deleted successfully
+2024-06-17/10:49:19		BadRaw directory deleted successfully
+2024-06-17/10:49:19		GoodRaw directory deleted successfully
+2024-06-17/10:51:17		BadRaw directory deleted successfully
+2024-06-17/10:51:17		GoodRaw directory deleted successfully
+2024-06-17/11:32:03		BadRaw directory deleted successfully
+2024-06-17/11:32:03		GoodRaw directory deleted successfully
+2024-06-17/11:32:41		BadRaw directory deleted successfully
+2024-06-17/11:32:41		GoodRaw directory deleted successfully

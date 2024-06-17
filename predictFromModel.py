@@ -21,7 +21,7 @@ class prediction:
             preprocessor=preprocessing.Preprocessor(self.file_object,self.log_writer)
             label_encode_cols=['type of meal', 'room type']
             onehot_encode_cols=['market segment type']
-            data=preprocessor.encode_data(data,label_encode_cols,onehot_encode_cols)
+            data=preprocessor.encode_data_prediction(data,label_encode_cols,onehot_encode_cols)
             is_null_present=preprocessor.is_null_present(data)
             if(is_null_present):
                 data=preprocessor.impute_missing_values(data)
@@ -33,8 +33,9 @@ class prediction:
             data=data.drop(labels=['Booking_ID'],axis=1)
             file_loader=file_methods.File_Operation(self.file_object,self.log_writer)
             model_name=file_loader.find_correct_model_file()
-            model=file_loader.load_model(model_name)
+            model,label_encoder_train=file_loader.load_model(model_name)
             result=list(model.predict(data))
+            result = label_encoder_train.inverse_transform(result)
             result=pandas.DataFrame(list(zip(booking_ids,result)),columns=['Booking_ID', 'Prediction'])
             path="Prediction_Output_File/Predictions.csv"
             result.to_csv("Prediction_Output_File/Predictions.csv",header=True,mode='a+')
