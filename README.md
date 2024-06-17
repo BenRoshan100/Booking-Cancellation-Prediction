@@ -66,7 +66,7 @@ To run the Hotel Booking Cancellation Prediction project locally, follow these s
 1. **Clone the repository**:
 
     ```sh
-    git clone [https://github.com/your-username/hotel-booking-cancellation-prediction.git](https://github.com/BenRoshan100/Booking-Cancellation-Prediction.git)
+    git clone https://github.com/BenRoshan100/Booking-Cancellation-Prediction.git
     ```
 
 2. **Navigate to the project directory**:
