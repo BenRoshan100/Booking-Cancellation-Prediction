@@ -2,44 +2,79 @@
 <html lang="en">
 
 <head>
-    <title>Prediction Page</title>
+    <title>Hotel Booking Cancellation Prediction</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap">
     <style>
         body {
             font-family: 'Lato', sans-serif;
+            background-image: url('https://cdn.hotelplanner.com/Common/Images/_HotelPlanner/Home-Page/fade/sld6.jpg');
+            /* Replace with a relevant image URL */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
         }
 
         .container {
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 10px;
             margin-top: 50px;
+        }
+
+        .title {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
         }
 
         .loader {
             display: none;
+        }
+
+        #output {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
         }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <h1 class="title">Prediction Page</h1>
-        <form id="prediction-form">
-            <div class="form-group">
-                <label for="filepath">File Path for Prediction:</label>
-                <input type="text" class="form-control" id="filepath" name="filepath" required>
+        <h1 class="title">Hotel Booking Cancellation Prediction</h1>
+        <div class="row">
+            <div class="col-md-6">
+                <form id="prediction-form">
+                    <div class="form-group">
+                        <label for="filepath">File Path for Prediction:</label>
+                        <input type="text" class="form-control" id="filepath" name="filepath" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Predict</button>
+                </form>
+                <br>
+                <form id="training-form">
+                    <div class="form-group">
+                        <label for="folderPath">Folder Path for Training:</label>
+                        <input type="text" class="form-control" id="folderPath" name="folderPath" required>
+                    </div>
+                    <button type="submit" class="btn btn-success">Train</button>
+                </form>
+                <div id="loading" class="loader">Loading...</div>
             </div>
-            <button type="submit" class="btn btn-primary">Predict</button>
-        </form>
-        <br>
-        <form id="training-form">
-            <div class="form-group">
-                <label for="folderPath">Folder Path for Training:</label>
-                <input type="text" class="form-control" id="folderPath" name="folderPath" required>
+            <div class="col-md-6">
+                <div id="output">
+                    <h4>Output:</h4>
+                    <pre id="output-content"></pre>
+                </div>
             </div>
-            <button type="submit" class="btn btn-success">Train</button>
-        </form>
-        <div id="loading" class="loader">Loading...</div>
+        </div>
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -54,11 +89,11 @@
                     data: JSON.stringify({ filepath: $("#filepath").val() }),
                     contentType: "application/json",
                     success: function (response) {
-                        alert(response);
+                        $("#output-content").text(response);
                         $("#loading").hide();
                     },
                     error: function (xhr, status, error) {
-                        alert("Error: " + xhr.responseText);
+                        $("#output-content").text("Error: " + xhr.responseText);
                         $("#loading").hide();
                     }
                 });
@@ -73,11 +108,11 @@
                     data: JSON.stringify({ folderPath: $("#folderPath").val() }),
                     contentType: "application/json",
                     success: function (response) {
-                        alert(response);
+                        $("#output-content").text(response);
                         $("#loading").hide();
                     },
                     error: function (xhr, status, error) {
-                        alert("Error: " + xhr.responseText);
+                        $("#output-content").text("Error: " + xhr.responseText);
                         $("#loading").hide();
                     }
                 });

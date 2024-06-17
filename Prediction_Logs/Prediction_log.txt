@@ -573,3 +573,51 @@
 2024-06-17/11:32:42		Entered the load_model method of the File_Operation class
 2024-06-17/11:32:42		Model FileXGBoostloaded. Exited the load_model method of Model_Finder class
 2024-06-17/11:32:43		End of Prediction
+2024-06-17/11:43:45		Start of Validation files for prediction!
+2024-06-17/11:43:46		Raw Data Validation Complete!
+2024-06-17/11:43:46		Starting Data Transformation!
+2024-06-17/11:43:46		Data Transformation Complete!
+2024-06-17/11:43:46		Merging all Prediction Files!
+2024-06-17/11:43:46		Merging Complete!
+2024-06-17/11:43:46		Start of Prediction
+2024-06-17/11:43:46		Entered the get_data method of Data_Getter class for Prediction
+2024-06-17/11:43:46		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-17/11:43:46		Entered the encode_data_prediction method of Preprocessor class
+2024-06-17/11:43:46		Object features are successfully encoded for prediction pipeline
+2024-06-17/11:43:46		Entered is_null_present method of Preprocessor class
+2024-06-17/11:43:46		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-17/11:43:46		Entered the extract_date_features method of Preprocessor class
+2024-06-17/11:43:46		Extraction of date objects are successful
+2024-06-17/11:43:46		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-17/11:43:46		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-17/11:43:46		Entered the remove_coluns method of Preprocessor class
+2024-06-17/11:43:46		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-17/11:43:46		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-17/11:43:46		Exited the find_correct_model_file method of Model Finder class.
+2024-06-17/11:43:46		Entered the load_model method of the File_Operation class
+2024-06-17/11:43:46		Model FileXGBoostloaded. Exited the load_model method of Model_Finder class
+2024-06-17/11:43:47		End of Prediction
+2024-06-17/11:52:57		Start of Validation files for prediction!
+2024-06-17/11:52:58		Raw Data Validation Complete!
+2024-06-17/11:52:58		Starting Data Transformation!
+2024-06-17/11:52:58		Data Transformation Complete!
+2024-06-17/11:52:58		Merging all Prediction Files!
+2024-06-17/11:52:58		Merging Complete!
+2024-06-17/11:52:58		Start of Prediction
+2024-06-17/11:52:58		Entered the get_data method of Data_Getter class for Prediction
+2024-06-17/11:52:58		Data Load successful for Prediction. Exited the get_data method of Data_Getter class
+2024-06-17/11:52:58		Entered the encode_data_prediction method of Preprocessor class
+2024-06-17/11:52:58		Object features are successfully encoded for prediction pipeline
+2024-06-17/11:52:58		Entered is_null_present method of Preprocessor class
+2024-06-17/11:52:58		Finding missing calues is a success. Data written to the null values file. Exited the is_null_present method of Preprocessor class
+2024-06-17/11:52:58		Entered the extract_date_features method of Preprocessor class
+2024-06-17/11:52:58		Extraction of date objects are successful
+2024-06-17/11:52:58		Entered the get_columns)with_zero_std_deviation method of Preprocessor class
+2024-06-17/11:52:58		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of Preprocessor class
+2024-06-17/11:52:58		Entered the remove_coluns method of Preprocessor class
+2024-06-17/11:52:58		Column removal successful. Exited the remove_coluns method of Preprocessor class
+2024-06-17/11:52:58		Entered the find_correct_model_file method of the Model_Finder class.
+2024-06-17/11:52:58		Exited the find_correct_model_file method of Model Finder class.
+2024-06-17/11:52:58		Entered the load_model method of the File_Operation class
+2024-06-17/11:52:58		Model FileXGBoostloaded. Exited the load_model method of Model_Finder class
+2024-06-17/11:52:58		End of Prediction

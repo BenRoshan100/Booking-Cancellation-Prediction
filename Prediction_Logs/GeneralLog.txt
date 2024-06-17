@@ -50,3 +50,7 @@
 2024-06-17/11:32:03		GoodRaw directory deleted successfully
 2024-06-17/11:32:41		BadRaw directory deleted successfully
 2024-06-17/11:32:41		GoodRaw directory deleted successfully
+2024-06-17/11:43:45		BadRaw directory deleted successfully
+2024-06-17/11:43:45		GoodRaw directory deleted successfully
+2024-06-17/11:52:57		BadRaw directory deleted successfully
+2024-06-17/11:52:57		GoodRaw directory deleted successfully

@@ -25,3 +25,5 @@
 2024-06-17/10:51:17		2024-06-17 10:51:17.339332: Merged CSV created at Prediction_Raw_files_validated/Prediction_Raw/booking_data_prediction.csv
 2024-06-17/11:32:03		2024-06-17 11:32:03.851196: Merged CSV created at Prediction_Raw_files_validated/Prediction_Raw/booking_data_prediction.csv
 2024-06-17/11:32:42		2024-06-17 11:32:42.099159: Merged CSV created at Prediction_Raw_files_validated/Prediction_Raw/booking_data_prediction.csv
+2024-06-17/11:43:46		2024-06-17 11:43:46.102548: Merged CSV created at Prediction_Raw_files_validated/Prediction_Raw/booking_data_prediction.csv
+2024-06-17/11:52:58		2024-06-17 11:52:58.094558: Merged CSV created at Prediction_Raw_files_validated/Prediction_Raw/booking_data_prediction.csv
